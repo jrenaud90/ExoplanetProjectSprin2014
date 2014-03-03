@@ -1,0 +1,1036 @@
+rowid,pl_orbper,pl_orbpererr1,pl_orbpererr2,pl_orbperlim,pl_orbeccen,pl_orbeccenerr1,pl_orbeccenerr2,pl_orbeccenlim,pl_orbincl,pl_orbinclerr1,pl_orbinclerr2,pl_orbincllim,pl_massj,pl_massjerr1,pl_massjerr2,pl_massjlim,pl_msinij,pl_msinijerr1,pl_msinijerr2,pl_msinijlim,pl_radj,pl_radjerr1,pl_radjerr2,pl_radjlim,pl_dens,pl_denserr1,pl_denserr2,pl_denslim,st_mass,st_masserr,st_masslim,st_massblend,st_rad,st_raderr,st_radlim,st_radblend,st_sp,st_spstr,st_sperr,st_splim,st_spblend
+1,269.3,1.96,-1.96,0,0.432,0.024,-0.024,0,nul,nul,nul,nul,nul,nul,nul,nul,7.1,1.6,-1.6,0,nul,nul,nul,nul,nul,nul,nul,nul,1.23,0.15,0,0,18.11,1.47,0,0,5.1,K1 III,nul,0,0
+2,874.774,16.27,-8.47,0,0.059,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,2.21,0.11,-0.16,0,nul,nul,nul,nul,nul,nul,nul,nul,1.7,0.1,0,0,5.2,0.4,0,0,5,K0 IV,nul,0,0
+3,763,17,-17,0,0.14,0.06,-0.06,0,nul,nul,nul,nul,nul,nul,nul,nul,2.6,0.6,-0.6,0,nul,nul,nul,nul,nul,nul,nul,nul,1.52,0.3,0,0,2.3,0.1,0,0,5.1,K1 III,nul,0,0
+4,326.03,0.32,-0.32,0,0.231,0.005,-0.005,0,nul,nul,nul,nul,nul,nul,nul,nul,19.4,1.5,-1.5,0,nul,nul,nul,nul,nul,nul,nul,nul,2.7,0.3,0,0,19,2,0,0,4.8,G8 III,nul,0,0
+5,516.22,3.25,-3.25,0,0.08,0.03,-0.03,0,nul,nul,nul,nul,nul,nul,nul,nul,10.5,2.47,-2.47,0,nul,nul,nul,nul,nul,nul,nul,nul,1.8,0.25,0,0,24.08,1.84,0,0,5.4,K4 III,nul,0,0
+6,185.84,0.23,-0.23,0,0,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,4.8,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,2.2,0.1,0,0,11,1,0,0,5,K0 III,nul,0,0
+7,1773.4,2.5,-2.5,0,0.369,0.005,-0.005,0,nul,nul,nul,nul,nul,nul,nul,nul,4.64,0.19,-0.19,0,nul,nul,nul,nul,nul,nul,nul,nul,0.9,nul,0,0,nul,nul,nul,nul,5,K0 V,nul,0,0
+8,798.5,1,-1,0,0.681,0.017,-0.017,0,nul,nul,nul,nul,1.68,0.15,-0.15,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,1,0.05,0,0,nul,nul,nul,nul,4.25,G2.5 V,nul,0,0
+9,993.3,3.2,-3.2,0,0.08,0.01,-0.01,0,nul,nul,nul,nul,nul,nul,nul,nul,10.3,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,2.3,nul,0,0,8.5,nul,0,0,4.6,G6 III,nul,0,0
+10,452.8,2.1,-4.5,0,0.09,0.14,-0.06,0,nul,nul,nul,nul,nul,nul,nul,nul,1.99,0.26,-0.38,0,nul,nul,nul,nul,nul,nul,nul,nul,1.54,0.08,0,0,4.9,0.08,0,0,5,K0 IV,nul,0,0
+11,883,32.4,-13.8,0,0.29,0.16,-0.09,0,nul,nul,nul,nul,nul,nul,nul,nul,0.86,0.35,-0.22,0,nul,nul,nul,nul,nul,nul,nul,nul,1.54,0.08,0,0,4.9,0.08,0,0,5,K0 IV,nul,0,0
+12,335.1,2.5,-2.5,0,0.289,0.092,-0.092,0,nul,nul,nul,nul,nul,nul,nul,nul,9.88,0.94,-0.94,0,nul,nul,nul,nul,nul,nul,nul,nul,1.16,0.04,0,0,1.13,0.03,0,0,3.6,F6 V,nul,0,0
+13,479.1,6.2,-6.2,0,0.38,0.06,-0.06,0,nul,nul,nul,nul,nul,nul,nul,nul,3.88,0.85,-0.85,0,nul,nul,nul,nul,nul,nul,nul,nul,0.98,0.05,0,0,22.03,1,0,0,5.15,K1.5 III,nul,0,0
+14,1078,2,-2,0,0.032,0.014,-0.014,0,nul,nul,nul,nul,nul,nul,nul,nul,2.53,0.07,-0.06,0,nul,nul,nul,nul,nul,nul,nul,nul,1.03,0.05,0,0,1.23,nul,0,0,4,G0 V,nul,0,0
+15,2391,100,-87,0,0.098,0.047,-0.096,0,nul,nul,nul,nul,nul,nul,nul,nul,0.54,0.066,-0.073,0,nul,nul,nul,nul,nul,nul,nul,nul,1.03,0.05,0,0,1.23,nul,0,0,4,G0 V,nul,0,0
+16,14002,4018,-5095,0,0.16,0.09,-0.16,0,nul,nul,nul,nul,nul,nul,nul,nul,1.64,0.29,-0.48,0,nul,nul,nul,nul,nul,nul,nul,nul,1.03,0.05,0,0,1.23,nul,0,0,4,G0 V,nul,0,0
+17,4.230785,0.000036,-0.000036,0,0.013,0.012,-0.012,0,nul,nul,nul,nul,nul,nul,nul,nul,0.472,0.039,-0.039,0,nul,nul,nul,nul,nul,nul,nul,nul,1.12,0.06,0,0,1.2,nul,0,0,4.25,G2.5 IV,nul,0,0
+18,14.651,0.0001,-0.0001,0,0.004,0.003,-0.003,0,nul,nul,nul,nul,nul,nul,nul,nul,0.8,0.012,-0.012,0,nul,nul,nul,nul,nul,nul,nul,nul,0.91,0.01,0,0,0.94,0.01,0,0,5,K0 IV-V,nul,0,0
+19,44.38,0.007,-0.007,0,0.07,0.02,-0.02,0,nul,nul,nul,nul,nul,nul,nul,nul,0.165,0.0054,-0.0054,0,nul,nul,nul,nul,nul,nul,nul,nul,0.91,0.01,0,0,0.94,0.01,0,0,5,K0 IV-V,nul,0,0
+20,4909,30,-30,0,0.02,0.008,-0.008,0,nul,nul,nul,nul,nul,nul,nul,nul,3.53,0.08,-0.08,0,nul,nul,nul,nul,nul,nul,nul,nul,0.91,0.01,0,0,0.94,0.01,0,0,5,K0 IV-V,nul,0,0
+21,0.73654,0.000003,-0.000003,0,nul,nul,nul,nul,90,3.8,-3.8,0,0.027,0.001,-0.001,0,nul,nul,nul,nul,0.178,0.012,-0.012,0,5.9,1.5,-1.1,0,0.91,0.01,0,0,0.94,0.01,0,0,5,K0 IV-V,nul,0,0
+22,261.2,0.4,-0.4,0,0.32,0.05,-0.05,0,nul,nul,nul,nul,nul,nul,nul,nul,0.172,0.008,-0.008,0,nul,nul,nul,nul,nul,nul,nul,nul,0.91,0.01,0,0,0.94,0.01,0,0,5,K0 IV-V,nul,0,0
+23,4.215,0.0006,-0.0006,0,0.12,0.11,-0.11,0,nul,nul,nul,nul,nul,nul,nul,nul,0.016,0.002,-0.002,0,nul,nul,nul,nul,nul,nul,nul,nul,0.94,0.03,0,0,0.96,0.01,0,0,4.5,G5 V,nul,0,0
+24,38.021,0.034,-0.034,0,0.14,0.06,-0.06,0,nul,nul,nul,nul,nul,nul,nul,nul,0.057,0.003,-0.003,0,nul,nul,nul,nul,nul,nul,nul,nul,0.94,0.03,0,0,0.96,0.01,0,0,4.5,G5 V,nul,0,0
+25,123.01,0.55,-0.55,0,0.35,0.09,-0.09,0,nul,nul,nul,nul,nul,nul,nul,nul,0.072,0.008,-0.008,0,nul,nul,nul,nul,nul,nul,nul,nul,0.94,0.03,0,0,0.96,0.01,0,0,4.5,G5 V,nul,0,0
+26,116.6884,0.0044,-0.0044,0,0.4007,0.0035,-0.0035,0,nul,nul,nul,nul,7.49,0.61,-0.61,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,1.11,nul,0,0,nul,nul,nul,nul,4.4,G4 V,nul,0,0
+27,691.9,3.6,-3.6,0,0.117,0.048,-0.048,0,nul,nul,nul,nul,3,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,2.49,0.02,0,0,10.5,1,0,0,4.3,G3 III,nul,0,0
+28,952.7,8.8,-8.8,0,0.206,0.029,-0.029,0,nul,nul,nul,nul,nul,nul,nul,nul,5.3,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,2.4,0.1,0,0,11,2,0,0,4.5,G5 III,nul,0,0
+29,181.4,0.1,-0.1,0,0.027,0.026,-0.026,0,nul,nul,nul,nul,nul,nul,nul,nul,3.2,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,1.4,0.1,0,0,11,0.1,0,0,5,K0 III,nul,0,0
+30,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,13.5,0.5,-0.5,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,5.2,K2 V,nul,0,0
+31,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,17,6,-6,0,nul,nul,nul,nul,2.2,0.81,-0.6,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul
+32,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,11,10,-3,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,0.33,nul,0,0,0.27,0.07,0,0,6.05,M0.5,nul,0,0
+33,10220,730,-730,0,0.39,0.13,-0.13,0,nul,nul,nul,nul,nul,nul,nul,nul,6.05,0.47,-0.58,0,nul,nul,nul,nul,nul,nul,nul,nul,0.69,nul,0,0,nul,nul,nul,nul,nul,nul,nul,nul,nul
+34,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,15.711,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul
+35,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,10,4,-4,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,0.28,0.05,0,0,nul,nul,nul,nul,6.4,M4,nul,0,0
+36,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,20,nul,nul,0,nul,nul,nul,nul,3,0.5,-0.5,0,nul,nul,nul,nul,0.7,nul,0,0,nul,nul,nul,nul,5.7,K7e V,nul,0,0
+37,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,21.9987,9.42803,-9.42803,0,nul,nul,nul,nul,1.051,0.136,-0.058,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,4,G0 IV-V,nul,0,0
+38,5767,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,19.2,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul
+39,3321,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,8.5,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul
+40,5573.55,102.2,-102.2,0,0.08,0.05,-0.05,0,nul,nul,nul,nul,7.33,0.31,-0.31,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,0.54,nul,0,0,nul,nul,nul,nul,nul,WD,nul,0,0
+41,2883.5,182.5,-182.5,0,0.19,0.05,-0.05,0,nul,nul,nul,nul,2.3,0.5,-0.5,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,0.54,nul,0,0,nul,nul,nul,nul,nul,WD,nul,0,0
+42,2900,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,2.3,0.3,-0.3,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul
+43,4343.5,36.5,-36.5,0,0,nul,nul,0,17.6,nul,nul,-1,nul,nul,nul,nul,4.2,0.4,-0.4,0,nul,nul,nul,nul,nul,nul,nul,nul,0.44,nul,0,0,nul,nul,nul,nul,6,M,nul,0,0
+44,5840,1095,-1095,0,0.04,0.05,-0.05,0,nul,nul,nul,nul,6.3,1.5,-1.5,-1,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,0.7,nul,0,0,nul,nul,nul,nul,nul,nul,nul,nul,nul
+45,1916.25,91.25,-91.25,0,0.05,0.05,-0.05,0,nul,nul,nul,nul,7.7,1.2,-1.2,-1,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,0.7,nul,0,0,nul,nul,nul,nul,nul,nul,nul,nul,nul
+46,380.8,0.3,-0.3,0,0.25,0.03,-0.03,0,nul,nul,nul,nul,nul,nul,nul,nul,1.8,0.2,-0.2,0,nul,nul,nul,nul,nul,nul,nul,nul,1.5,0.2,0,nul,13.9,0.3,0,nul,5.1,K1 IIIb,nul,0,0
+47,3.2357,0.0008,-0.0008,0,0,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,0.0036,0.0003,-0.0003,0,nul,nul,nul,nul,nul,nul,nul,nul,0.93,0.01,-1,1,0.86,nul,0,1,5.1,K1 V,nul,0,1
+48,6000,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,8,4,-2,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,2.5,A5 V,nul,0,0
+49,2502,10,-10,0,0.702,0.039,-0.039,0,30.1,3.8,-3.8,0,nul,nul,nul,nul,1.55,0.24,-0.24,0,nul,nul,nul,nul,nul,nul,nul,nul,0.83,0.05,0,nul,nul,nul,nul,nul,5.2,K2 V,nul,0,1
+50,417.9,0.5,-0.5,0,0.11,0.03,-0.03,0,nul,nul,nul,nul,6.7,0.3,-0.3,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,1.7,0.1,0,0,21,nul,0,0,5.2,K2 III,nul,0,0
+51,594.9,5.3,-5.3,0,0.151,0.023,-0.023,0,nul,nul,nul,nul,nul,nul,nul,nul,7.6,0.2,-0.2,0,nul,nul,nul,nul,nul,nul,nul,nul,2.7,0.1,0,nul,13.7,0.6,0,nul,5,K0 III,nul,0,0
+52,428.5,1.25,-1.25,0,0.144,0.046,-0.046,0,nul,nul,nul,nul,nul,nul,nul,nul,8.78,1,-1,0,nul,nul,nul,nul,nul,nul,nul,nul,1.23,0.21,0,nul,31.88,1.61,0,nul,5.1,K1 IIIb Fe-0.5,nul,0,0
+53,903.3,1.5,-1.5,0,0.049,0.034,-0.034,0,nul,nul,nul,nul,nul,nul,nul,nul,1.85,0.16,-0.16,0,nul,nul,nul,nul,nul,nul,nul,nul,1.4,0.12,0,nul,4.9,nul,0,nul,5.1,K1 III,nul,0,0
+54,1251,15,-15,0,0.073,0.049,-0.049,0,nul,nul,nul,nul,1.6,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,1.51,0.19,0,nul,5,0.2,0,nul,5,K0 III-IV,nul,0,0
+55,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,13.616,23.042,-1.047,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,2.6,0.2,0,0,nul,nul,nul,nul,1.9,B9 IV,nul,0,0
+56,136.75,0.25,-0.25,0,0,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,2.8,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,5,K0,nul,0,1
+57,530.32,0.35,-0.35,0,0.1256,0.0065,-0.0065,0,nul,nul,nul,nul,24,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,3.04,0.06,0,nul,15.1,1.1,0,nul,5.1,K1 III,nul,0,0
+58,3186,14,-14,0,0.165,0.013,-0.013,0,nul,nul,nul,nul,27,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,3.04,0.06,0,nul,15.1,1.1,0,nul,5.1,K1 III,nul,0,0
+59,277.02,0.52,-0.51,0,0.106,0.079,-0.069,0,nul,nul,nul,nul,nul,nul,nul,nul,1.7,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,2.17,0.21,0,0,12.3,0.88,0,0,4.8,G8 III,nul,0,0
+60,187.83,0.54,-0.54,0,0.191,0.085,-0.085,0,nul,nul,nul,nul,1.5,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,2.13,0.23,0,nul,10.5,0.7,0,nul,5,K0,nul,0,0
+61,1630,35,-35,0,0.13,0.065,-0.065,0,nul,nul,nul,nul,4.1,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,3.09,0.07,0,nul,14.1,1,0,nul,4.5,G5 III,nul,0,0
+62,39.845,nul,nul,0,0.04,0.15,-0.15,0,nul,nul,nul,nul,nul,nul,nul,nul,1.04,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,4,G0 V,nul,0,0
+63,3.3135,0.0014,-0.0014,0,0.018,0.016,-0.016,0,nul,nul,nul,nul,nul,nul,nul,nul,3.9,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,3.5,F5,nul,0,1
+64,305.5,0.1,-0.1,0,0.031,0.009,-0.009,0,nul,nul,nul,nul,nul,nul,nul,nul,20.6,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,2.3,0.3,0,0,26.8,0.7,0,0,5.2,K2 III,nul,0,0
+65,4.617033,0.000023,-0.000023,0,0.0215,0.0007,-0.0007,0,nul,nul,nul,nul,nul,nul,nul,nul,0.6876,0.0044,-0.0044,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,4,G0,nul,0,0
+66,241.258,0.064,-0.064,0,0.2596,0.0079,-0.0079,0,nul,nul,nul,nul,nul,nul,nul,nul,1.981,0.019,-0.019,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,4,G0,nul,0,0
+67,1276.46,0.57,-0.57,0,0.2987,0.0072,-0.0072,0,nul,nul,nul,nul,nul,nul,nul,nul,4.132,0.029,-0.029,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,4,G0,nul,0,0
+68,3848.86,0.74,-0.74,0,0.00536,0.00044,-0.00044,0,nul,nul,nul,nul,nul,nul,nul,nul,1.059,0.028,-0.028,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,4,G0,nul,0,0
+69,318280,nul,nul,0,0.13,nul,nul,-1,nul,nul,nul,nul,2.6,0.9,-0.9,0,nul,nul,nul,nul,1.2,nul,nul,0,nul,nul,nul,nul,2,nul,0,0,nul,nul,nul,nul,2.3,A3 V,nul,0,0
+70,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,8,4,-2,0,nul,nul,nul,nul,1.664,nul,nul,0,nul,nul,nul,nul,0.85,0.2,0,0,1.35,nul,0,0,5.7,K7 V,nul,0,0
+71,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,24.5,2.5,-2.5,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,0.4,0.05,0,0,nul,nul,nul,nul,6.35,M3.5 V,nul,0,0
+72,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,7.5,2.5,-2.5,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,0.02,nul,0,0,nul,nul,nul,nul,6.85,M8.5,nul,0,0
+73,4639.15,25.55,-25.55,0,0.487,0.003,-0.003,0,138.2,0.5,-0.5,0,31.44,94.32,-10.48,0,nul,nul,nul,nul,0.97,0.06,-0.06,0,nul,nul,nul,nul,0.12,0.01,0,0,0.1,0,0,0,7,L0,nul,0,0
+74,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,4,1,-1,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,0.02,nul,0,0,nul,nul,nul,nul,6.8,M8,nul,0,0
+75,7336.5,1934.5,-584,0,0.26,0.06,-0.06,0,46.2,2.5,-8.7,0,20.95,83.79,-20.95,0,nul,nul,nul,nul,0.92,0.39,-0.36,0,nul,nul,nul,nul,0.08,0.06,0,0,0.12,0.05,0,0,6.85,M8.5,nul,0,0
+76,8679.7,69.35,-69.35,0,0,0.002,0,0,44.3,0.7,-0.7,0,31.42,73.32,-20.95,0,nul,nul,nul,nul,1.3,0.15,-0.18,0,nul,nul,nul,nul,0.13,0.05,0,0,0.13,0.02,0,0,6.8,M8,nul,0,0
+77,655.6,0.6,-0.6,0,0.54,0.005,-0.005,0,nul,nul,nul,nul,nul,nul,nul,nul,5.1,0.12,-0.12,0,nul,nul,nul,nul,nul,nul,nul,nul,0.74,0.03,0,0,0.69,nul,0,0,5.5,K5 V,nul,0,0
+78,714.3,5.3,-5.3,0,0.21,0.07,-0.07,0,nul,nul,nul,nul,nul,nul,nul,nul,10.6,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,4.5,G5 IV/V,nul,0,0
+79,3.48777,0.00011,-0.00011,0,0.019,0.023,-0.023,0,nul,nul,nul,nul,0.458,0.039,-0.039,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,1.01,nul,nul,0,nul,nul,nul,nul,5,K0 V,nul,0,0
+80,5.6,0.02,-0.02,0,0.15,0.15,-0.15,0,nul,nul,nul,nul,nul,nul,nul,nul,0.045,0.007,-0.007,0,nul,nul,nul,nul,nul,nul,nul,nul,0.74,0.07,0,0,nul,nul,nul,nul,5.3,K3 V,nul,0,0
+81,237.6,1.5,-1.5,0,0.19,0.09,-0.09,0,nul,nul,nul,nul,nul,nul,nul,nul,0.33,0.03,-0.03,0,nul,nul,nul,nul,nul,nul,nul,nul,0.74,0.07,0,0,nul,nul,nul,nul,5.3,K3 V,nul,0,0
+82,3.8728,0.0004,-0.0004,0,0,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,0.027,0.004,-0.004,0,nul,nul,nul,nul,nul,nul,nul,nul,0.7,nul,0,0,nul,nul,nul,nul,5.85,K7/M0 V,nul,0,0
+83,125.94,0.44,-0.44,0,0.31,0.11,-0.11,0,nul,nul,nul,nul,nul,nul,nul,nul,0.17,0.03,-0.03,0,nul,nul,nul,nul,nul,nul,nul,nul,0.7,nul,0,0,nul,nul,nul,nul,5.85,K7/M0 V,nul,0,0
+84,268.94,0.99,-0.99,0,0.29,0.03,-0.03,0,nul,nul,nul,nul,nul,nul,nul,nul,1.47,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,0.86,0.15,0,0,0.95,0.2,0,0,5.2,K2 V,nul,0,0
+85,137.48,0.34,-0.34,0,0.26,0.1,-0.1,0,nul,nul,nul,nul,nul,nul,nul,nul,1.11,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,1.1,0.2,0,0,14.7,2.8,0,0,5,K0,nul,0,0
+86,379.63,2.01,-2.01,0,0.15,0.03,-0.03,0,nul,nul,nul,nul,nul,nul,nul,nul,21.42,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,2.8,1.5,0,0,49,26,0,0,5.2,K2 II,nul,0,0
+87,621.99,10.2,-10.2,0,0.18,0.06,-0.06,0,nul,nul,nul,nul,nul,nul,nul,nul,12.47,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,2.8,1.5,0,0,49,26,0,0,5.2,K2 II,nul,0,0
+88,578.2,5.4,-5.4,0,0.21,0.06,-0.06,0,nul,nul,nul,nul,4.2,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,0.8,0.2,0,0,17.3,0.9,0,0,5.5,K5 III,nul,0,0
+89,392.6,5.5,-5.5,0,0.2,0.1,-0.1,0,nul,nul,nul,nul,nul,nul,nul,nul,0.91,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,0.74,0.39,0,0,11,1,0,0,5,K0 III,nul,0,0
+90,10037.5,2737.5,-2737.5,0,nul,nul,nul,nul,nul,nul,nul,nul,10.5,4.5,-4.5,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,0.02,0.01,0,0,nul,nul,nul,nul,nul,nul,nul,nul,nul
+91,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,12.569,8.379,-5.237,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,0.35,nul,0,0,nul,nul,nul,nul,6.35,M3.5,nul,0,0
+92,1.5089557,0.0000064,-0.0000064,0,0,nul,nul,0,85.1,0.5,-0.5,0,1.03,0.12,-0.12,0,nul,nul,nul,nul,1.49,0.08,-0.08,0,0.38,0.05,-0.05,0,0.95,0.15,0,0,1.11,0.05,0,0,4,G0 V,nul,0,0
+93,1.7429935,0.000001,-0.000001,0,0.0143,0.0077,-0.0076,0,88.08,0.18,-0.16,0,3.47,0.22,-0.22,0,nul,nul,nul,nul,1.466,0.042,-0.044,0,1.47,0.08,-0.074,0,0.96,0.08,0,0,0.91,0.03,0,0,nul,nul,nul,nul,nul
+94,4.2568,0.000005,-0.000005,0,0,nul,nul,0,85.9,0.8,-0.8,0,21.66,1,-1,0,nul,nul,nul,nul,1.01,0.07,-0.07,0,26.4,5.6,-5.6,0,1.37,0.09,0,0,1.56,0.09,0,0,3.3,F3 V,nul,0,0
+95,9.20205,0.00037,-0.00037,0,0,0.1,-0.1,0,90,0,-0.085,0,0.72,0.08,-0.08,0,nul,nul,nul,nul,1.19,0.06,-0.05,0,0.525,0.15,-0.15,0,1.16,0.03,0,0,1.17,0.01,0,0,nul,nul,nul,nul,nul
+96,4.0378962,0.0000019,-0.0000019,0,0.09,0.09,-0.04,0,85.83,0.99,-1.38,0,0.467,0.047,-0.024,0,nul,nul,nul,nul,1.388,0.046,-0.047,0,0.217,0.031,-0.025,0,1,0.02,0,0,1.19,0.04,0,0,3.9,F9 V,nul,0,0
+97,8.886593,0.000004,-0.000004,0,0.1,nul,nul,1,89.07,0.3,-0.3,0,2.96,0.34,-0.34,0,nul,nul,nul,nul,1.166,0.035,-0.035,0,2.32,0.31,-0.31,0,1.05,0.05,0,0,1.02,0.03,0,0,3.9,F9 V,nul,0,0
+98,0.853585,0.000024,-0.000024,0,0,nul,nul,0,80.1,0.3,-0.3,0,0.015,0.003,-0.003,0,nul,nul,nul,nul,0.15,0.008,-0.008,0,5.6,1.3,-1.3,0,0.93,0.03,0,0,0.87,0.04,0,0,4.9,G9 V,nul,0,0
+99,3.698,0.003,-0.003,0,0,nul,nul,0,nul,nul,nul,nul,0.026,0.003,-0.003,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,0.93,0.03,0,0,0.87,0.04,0,0,4.9,G9 V,nul,0,0
+100,6.21229,0.00003,-0.00003,0,0,nul,nul,0,88.4,0.1,-0.1,0,0.22,0.03,-0.03,0,nul,nul,nul,nul,0.57,0.02,-0.02,0,1.6,0.1,-0.1,0,0.88,0.04,0,0,0.77,0.02,0,0,5.1,K1 V,nul,0,0
+101,95.2738,0.0014,-0.0014,0,0.11,0.04,-0.04,0,89.99,0.01,-0.04,0,0.84,0.07,-0.07,0,nul,nul,nul,nul,1.05,0.04,-0.04,0,0.9,0.13,-0.13,0,0.99,0.04,0,0,0.94,0.04,0,0,4.3,G3 V,nul,0,0
+102,13.2406,0.0002,-0.0002,0,0.53,0.04,-0.04,0,88.55,0.2,-0.2,0,2.75,0.16,-0.16,0,nul,nul,nul,nul,0.97,0.07,-0.07,0,3.7,0.83,-0.83,0,0.89,0.05,0,0,0.79,0.05,0,0,5.1,K1 V,nul,0,0
+103,2.99433,0.000011,-0.000011,0,0,nul,nul,0,83.17,0.15,-0.15,0,2.33,0.34,-0.34,0,nul,nul,nul,nul,1.43,0.03,-0.03,0,0.99,0.15,-0.15,0,1.27,0.05,0,0,1.37,0.03,0,0,3.6,F6 V,nul,0,0
+104,2.828042,0.000013,-0.000013,0,0.07,0.063,-0.042,0,85.48,0.72,-0.77,0,0.917,0.07,-0.065,0,nul,nul,nul,nul,1.44,0.13,-0.13,0,0.411,0.129,-0.094,0,1.08,0.08,0,0,1.12,0.1,0,0,nul,nul,nul,nul,nul
+105,4.03519,0.00003,-0.00003,0,0,nul,nul,0,88.02,0.34,-0.36,0,1.308,0.066,-0.066,0,nul,nul,nul,nul,0.885,0.014,-0.014,0,2.34,0.23,-0.23,0,1.09,0.02,0,0,1.01,0.03,0,0,4,G0 V,nul,0,0
+106,1.51214,0.00013,-0.00013,0,0,nul,nul,0,79.6,0.8,-0.8,0,7.6,0.6,-0.6,0,nul,nul,nul,nul,1.09,0.07,-0.07,0,7.3,1.5,-1.5,0,1.13,0.09,0,0,1.21,0.08,0,0,3.9,F9 V,nul,0,0
+107,5.35227,0.0002,-0.0002,0,0.33,0.09,-0.1,0,85.01,0.94,-1.2,0,0.535,0.085,-0.083,0,nul,nul,nul,nul,1.17,0.16,-0.14,0,0.44,0.21,-0.14,0,1.1,0.08,0,0,1.19,0.14,0,0,4.5,G5 V,nul,0,0
+108,3.7681,0.0003,-0.0003,0,0,nul,nul,0,88.34,1.54,-1.54,0,2.43,0.3,-0.3,0,nul,nul,nul,nul,1.02,0.07,-0.07,0,2.82,0.38,-0.38,0,1.04,0.1,0,0,1.59,0.07,0,0,4.2,G2 V,nul,0,0
+109,1.9000693,0.0000028,-0.0000028,0,0.08,nul,nul,1,86.5,1.4,-0.9,0,3.47,0.38,-0.38,0,nul,nul,nul,nul,1.31,0.18,-0.18,0,2.2,0.8,-0.8,0,0.95,0.15,0,0,1,0.13,0,0,4.9,G9 V,nul,0,0
+110,3.89713,0.00002,-0.00002,0,0.047,0.045,-0.045,0,88,0.7,-0.7,0,1.11,0.06,-0.06,0,nul,nul,nul,nul,1.29,0.03,-0.03,0,0.71,0.06,-0.06,0,1.21,0.05,0,0,1.65,0.04,0,0,3.9,F9 V,nul,0,0
+111,9.24285,0.0003,-0.0003,0,0.562,0.013,-0.013,0,88.21,0.53,-0.53,0,4.24,0.23,-0.23,0,nul,nul,nul,nul,0.84,0.04,-0.04,0,8.87,1.1,-1.1,0,1.14,0.08,0,0,1.02,0.05,0,0,4.2,G2 V,nul,0,0
+112,3.6313,0.0001,-0.0001,0,0.16,0.02,-0.02,0,85.7,2.6,-1.5,0,2.8,0.3,-0.3,0,nul,nul,nul,nul,1.05,0.13,-0.13,0,3,1.1,-1.1,0,1.14,0.08,0,0,1.61,0.18,0,0,4,G0 V,nul,0,0
+113,3.57532,0.00006,-0.00006,0,0.065,nul,nul,1,86.7,1.2,-0.87,0,10.39,0.55,-0.55,0,nul,nul,nul,nul,1.007,0.044,-0.044,0,12.6,1.92,-1.67,0,1.05,0.11,0,0,1.08,0.18,0,0,4.2,G2,nul,0,0
+114,246.36,1.38,-1.35,0,0.345,0.068,-0.064,0,56.6,1.9,-2.1,0,28.5,1.9,-1.9,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,0.07,0.01,0,0,nul,nul,nul,nul,7.15,L1.5,nul,0,0
+115,15.76491,0.00039,-0.00039,0,0.0416,0.0072,-0.0072,0,nul,nul,nul,nul,nul,nul,nul,nul,3.91,0.32,-0.32,0,nul,nul,nul,nul,nul,nul,nul,nul,0.77,nul,0,0,nul,nul,nul,nul,5.1,K1 V,nul,0,0
+116,8.631,0.001,-0.001,0,0.11,0.04,-0.04,0,nul,nul,nul,nul,nul,nul,nul,nul,0.035,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,0.4,0.02,0,0,nul,nul,nul,nul,6.35,M3.5 V,nul,0,0
+117,25.6,0.02,-0.02,0,0.08,0.08,-0.08,0,nul,nul,nul,nul,nul,nul,nul,nul,0.024,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,0.4,0.02,0,0,nul,nul,nul,nul,6.35,M3.5 V,nul,0,0
+118,603,12,-12,0,0.41,0.07,-0.07,0,nul,nul,nul,nul,nul,nul,nul,nul,0.079,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,0.4,0.02,0,0,nul,nul,nul,nul,6.35,M3.5 V,nul,0,0
+119,2288,59,-59,0,0.21,0.08,-0.08,0,nul,nul,nul,nul,nul,nul,nul,nul,0.82,0.07,-0.07,0,nul,nul,nul,nul,nul,nul,nul,nul,0.36,0.03,0,0,0.38,0.02,0,0,6.35,M3.5 V,nul,0,0
+120,692,2,-2,0,0.11,0.05,-0.05,0,45,30,-10,0,2.5,0.7,-0.4,0,1.894,0.013,-0.013,0,nul,nul,nul,nul,nul,nul,nul,nul,0.42,0.05,0,0,nul,nul,nul,nul,6.25,M2.5 V,nul,0,0
+121,7100,8000,-1500,0,0,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,1.6,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,0.42,0.05,0,0,nul,nul,nul,nul,6.25,M2.5 V,nul,0,0
+122,4100,300,-300,0,0.37,0.05,-0.05,0,nul,nul,nul,nul,nul,nul,nul,nul,2.3,0.13,-0.13,0,nul,nul,nul,nul,nul,nul,nul,nul,0.69,0.05,0,0,nul,nul,nul,nul,6.1,M1,nul,0,0
+123,7.3709,0.0008,-0.0008,0,0.08,0.08,-0.08,0,nul,nul,nul,nul,nul,nul,nul,nul,0.018,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,0.48,nul,0,0,nul,nul,nul,nul,6.15,M1.5,nul,0,0
+124,2.64385,nul,nul,0,nul,nul,nul,nul,86.36,0.16,-0.17,0,0.0729,0.0025,-0.0025,0,nul,nul,nul,nul,0.377,0.008,-0.009,0,1.69,0.14,-0.12,0,0.45,0.01,0,0,0.46,0.01,0,0,6.25,M2.5 V,nul,0,0
+125,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,4,4.5,-1,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,1.22,0.08,0,0,nul,nul,nul,nul,4,G0 V,nul,0,0
+126,5.36874,0.00019,-0.00019,0,0,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,0.049,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,0.31,0.02,0,0,0.29,nul,0,0,6.3,M3 V,nul,0,0
+127,12.9292,0.0047,-0.0047,0,0.17,0.07,-0.07,0,nul,nul,nul,nul,nul,nul,nul,nul,0.017,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,0.31,0.02,0,0,0.29,nul,0,0,6.3,M3 V,nul,0,0
+128,66.8,0.14,-0.14,0,0.38,0.09,-0.09,0,nul,nul,nul,nul,nul,nul,nul,nul,0.022,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,0.31,0.02,0,0,0.29,nul,0,0,6.3,M3 V,nul,0,0
+129,3.14942,0.00045,-0.00045,0,0,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,0.006,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,0.31,0.02,0,0,0.29,nul,0,0,6.3,M3 V,nul,0,0
+130,598.3,4.2,-4.2,0,0.3,0.08,-0.08,0,nul,nul,nul,nul,nul,nul,nul,nul,0.328,0.032,-0.032,0,nul,nul,nul,nul,nul,nul,nul,nul,0.54,0.05,0,0,nul,nul,nul,nul,6.15,M1.5,nul,0,0
+131,7.2004,0.0017,-0.0017,0,0.13,0.1,-0.11,0,nul,nul,nul,nul,nul,nul,nul,nul,0.018,0.004,-0.004,0,nul,nul,nul,nul,nul,nul,nul,nul,0.33,nul,0,nul,nul,nul,nul,nul,6.15,M1.5 V,nul,0,0
+132,28.14,0.053,-0.065,0,0.02,0.15,-0.02,0,nul,nul,nul,nul,nul,nul,nul,nul,0.012,0.005,-0.004,0,nul,nul,nul,nul,nul,nul,nul,nul,0.33,nul,0,nul,nul,nul,nul,nul,6.15,M1.5 V,nul,0,0
+133,91.61,0.81,-0.89,0,0.03,0.2,-0.03,0,nul,nul,nul,nul,nul,nul,nul,nul,0.016,0.006,-0.005,0,nul,nul,nul,nul,nul,nul,nul,nul,0.33,nul,0,nul,nul,nul,nul,nul,6.15,M1.5 V,nul,0,0
+134,62.24,0.55,-0.55,0,0.02,0.22,-0.02,0,nul,nul,nul,nul,nul,nul,nul,nul,0.008,0.005,-0.004,0,nul,nul,nul,nul,nul,nul,nul,nul,0.33,nul,0,nul,nul,nul,nul,nul,6.15,M1.5 V,nul,0,0
+135,39.026,0.194,-0.211,0,0.03,0.16,-0.03,0,nul,nul,nul,nul,nul,nul,nul,nul,0.008,0.004,-0.004,0,nul,nul,nul,nul,nul,nul,nul,nul,0.33,nul,0,nul,nul,nul,nul,nul,6.15,M1.5 V,nul,0,0
+136,256.2,13.8,-7.9,0,0.08,0.41,-0.08,0,nul,nul,nul,nul,nul,nul,nul,nul,0.014,0.008,-0.007,0,nul,nul,nul,nul,nul,nul,nul,nul,0.33,nul,0,nul,nul,nul,nul,nul,6.15,M1.5 V,nul,0,0
+137,4.6938,0.007,-0.007,0,0.2,0.02,-0.02,0,nul,nul,nul,nul,nul,nul,nul,nul,0.035,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,0.35,nul,0,0,nul,nul,nul,nul,6.25,M2.5,nul,0,0
+138,1050.3,1.2,-1.2,0,0.328,0.004,-0.004,0,nul,nul,nul,nul,nul,nul,nul,nul,4.95,0.31,-0.31,0,nul,nul,nul,nul,nul,nul,nul,nul,0.71,0.04,0,0,nul,nul,nul,nul,6,M0 V,nul,0,0
+139,3.6,0.0008,-0.0008,0,0.15,0.09,-0.09,0,nul,nul,nul,nul,nul,nul,nul,nul,0.014,0.002,-0.002,0,nul,nul,nul,nul,nul,nul,nul,nul,0.71,0.04,0,0,nul,nul,nul,nul,6,M0 V,nul,0,0
+140,35.37,0.07,-0.07,0,0.24,0.12,-0.12,0,nul,nul,nul,nul,nul,nul,nul,nul,0.036,0.005,-0.005,0,nul,nul,nul,nul,nul,nul,nul,nul,0.71,0.04,0,0,nul,nul,nul,nul,6,M0 V,nul,0,0
+141,3416,131,-131,0,0.12,0.11,-0.11,0,nul,nul,nul,nul,nul,nul,nul,nul,0.64,0.06,-0.06,0,nul,nul,nul,nul,nul,nul,nul,nul,0.45,0.05,0,0,0.48,nul,0,0,6.15,M1.5,nul,0,0
+142,1845,15,-15,0,0.05,0.03,-0.03,0,nul,nul,nul,nul,nul,nul,nul,nul,0.91,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,0.49,0.05,0,0,nul,nul,nul,nul,6.3,M3 V,nul,0,0
+143,61.1166,0.0086,-0.0086,0,0.0324,0.0013,-0.0013,0,59,nul,nul,0,nul,nul,nul,nul,2.2756,0.0045,-0.0045,0,nul,nul,nul,nul,nul,nul,nul,nul,0.33,0.03,0,0,nul,nul,nul,nul,6.4,M4 V,nul,0,0
+144,30.0881,0.0082,-0.0082,0,0.25591,0.00093,-0.00093,0,59,nul,nul,0,nul,nul,nul,nul,0.7142,0.0039,-0.0039,0,nul,nul,nul,nul,nul,nul,nul,nul,0.33,0.03,0,0,nul,nul,nul,nul,6.4,M4 V,nul,0,0
+145,1.93778,0.00002,-0.00002,0,0.207,0.055,-0.055,0,59,nul,nul,0,nul,nul,nul,nul,0.021,0.001,-0.001,0,nul,nul,nul,nul,nul,nul,nul,nul,0.33,0.03,0,0,nul,nul,nul,nul,6.4,M4 V,nul,0,0
+146,124.26,0.7,-0.7,0,0.055,0.012,-0.012,0,59,nul,nul,0,nul,nul,nul,nul,0.046,0.005,-0.005,0,nul,nul,nul,nul,nul,nul,nul,nul,0.33,0.03,0,0,nul,nul,nul,nul,6.4,M4 V,nul,0,0
+147,1.58040482,0.00000024,-0.00000024,0,0,nul,nul,0,90,0,-1.5,0,0.02,0.003,-0.003,0,nul,nul,nul,nul,0.203,0.007,-0.007,0,3.03,0.5,-0.5,0,0.16,0.01,0,0,0.18,0.01,0,0,6.45,M4.5,nul,0,0
+148,133.71,0.2,-0.2,0,0.511,0.017,-0.017,0,nul,nul,nul,nul,nul,nul,nul,nul,3.37,0.09,-0.09,0,nul,nul,nul,nul,nul,nul,nul,nul,0.9,nul,0,0,0.9,nul,0,0,4.6,G6 V,nul,0,0
+149,3.33714,0.00017,-0.00017,0,0.051,nul,nul,1,88.8,nul,nul,-1,0.044,0.005,-0.005,0,nul,nul,nul,nul,0.37,0.05,-0.05,0,1.07,0.43,-0.43,0,0.54,0.07,0,0,0.5,0.06,0,0,6.15,M1.5,nul,0,0
+150,2.64561,0.00066,-0.00066,0,0.08,0.094,-0.057,0,59,18,-24,0,8.4,4,-1.5,0,0.022,0.003,-0.003,0,nul,nul,nul,nul,nul,nul,nul,nul,0.45,0.05,0,0,0.43,0.03,0,0,6.25,M2.5,nul,0,0
+151,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,13.5,1.5,-1.5,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,0.6,nul,0,0,nul,nul,nul,nul,6.1,M1,nul,0,0
+152,4.4652934,0.0000093,-0.0000093,0,0,nul,nul,0,86.28,0.2,-0.2,0,0.524,0.031,-0.031,0,nul,nul,nul,nul,1.225,0.059,-0.059,0,0.345,0.053,-0.044,0,1.12,0.09,0,0,1.15,0.1,0,0,4,G0 V,nul,0,0
+153,5.6334729,0.0000061,-0.0000061,0,0.5171,0.0033,-0.0033,0,86.72,1.12,-0.87,0,9.09,0.24,-0.24,0,nul,nul,nul,nul,1.157,0.073,-0.062,0,7.29,1.12,-1.12,0,1.36,0.04,0,0,1.64,0.09,0,0,3.8,F8,nul,0,0
+154,2.899736,0.000002,-0.000002,0,0,nul,nul,0,87.07,0.55,-0.55,0,0.591,0.018,-0.018,0,nul,nul,nul,nul,0.827,0.055,-0.055,0,1.29,0.25,-0.25,0,0.92,0.03,0,0,0.8,0.04,0,0,5,K,nul,0,0
+155,3.056536,nul,nul,0,0,nul,nul,0,89.91,0.09,-2.2,0,0.671,0.033,-0.044,0,nul,nul,nul,nul,1.274,0.049,-0.06,0,0.403,0.065,-0.049,0,1.26,0.14,0,nul,1.6,0.06,0,nul,4.1,G1 V,nul,0,0
+156,2.788491,0.000025,-0.000025,0,0,nul,nul,0,86.75,0.44,-0.44,0,1.06,0.11,-0.11,0,nul,nul,nul,nul,1.26,0.05,-0.05,0,0.66,0.11,-0.11,0,1.16,0.07,0,nul,1.14,0.03,0,nul,nul,nul,nul,nul,nul
+157,3.852985,0.000005,-0.000005,0,0,nul,nul,0,85.51,0.35,-0.35,0,1.057,0.119,-0.119,0,nul,nul,nul,nul,1.33,0.061,-0.061,0,0.558,0.047,-0.047,0,1.29,0.07,0,nul,1.46,0.07,0,nul,nul,nul,nul,nul,nul
+158,3.0763776,0.000004,-0.000004,0,0,nul,nul,0,87.5,1.9,-0.9,0,1.52,0.18,-0.16,0,nul,nul,nul,nul,1.5,0.08,-0.06,0,0.568,0.048,-0.048,0,1.28,0.04,0,nul,1.58,0.08,0,nul,nul,nul,nul,nul,nul
+159,3.92289,0.00004,-0.00004,0,0,nul,nul,0,86.5,0.2,-0.2,0,0.78,0.09,-0.09,0,nul,nul,nul,nul,1.4,0.06,-0.06,0,0.35,0.06,-0.06,0,1.28,0.13,0,nul,1.32,0.07,0,nul,nul,nul,nul,nul,nul
+160,3.2130598,0.0000021,-0.0000021,0,0,nul,nul,0,89,0.4,-0.4,0,0.211,0.012,-0.012,0,nul,nul,nul,nul,0.959,0.029,-0.021,0,0.3192,0.016,-0.016,0,0.73,0.02,0,0,0.7,0.02,0,0,5.4,K4,nul,0,0
+161,2.91626,0.00001,-0.00001,0,0.021,0.009,-0.009,0,83.4,0.6,-0.6,0,0.853,0.029,-0.046,0,nul,nul,nul,nul,1.271,0.079,-0.079,0,0.498,0.103,-0.069,0,1.22,0.05,0,0,1.56,0.08,0,0,4.4,G4,nul,0,0
+162,428.5,3,-3,0,0.691,0.018,-0.018,0,nul,nul,nul,nul,nul,nul,nul,nul,15.2,1,-1,0,nul,nul,nul,nul,nul,nul,nul,nul,1.22,0.05,0,0,1.56,0.08,0,0,4.4,G4,nul,0,0
+163,4.627669,0.000005,-0.000005,0,0.107,0.013,-0.013,0,83.5,0.3,-0.3,0,2.232,0.059,-0.059,0,nul,nul,nul,nul,1.15,0.052,-0.052,0,1.82,0.24,-0.24,0,1.39,0.04,0,0,1.47,0.05,0,0,3,F,nul,0,0
+164,10.863502,0.000027,-0.000027,0,0.19,0.019,-0.019,0,89.1,0.2,-0.2,0,1.946,0.066,-0.066,0,nul,nul,nul,nul,1.072,0.043,-0.043,0,1.96,0.22,-0.22,0,1.01,0.04,0,0,1.08,0.04,0,0,4.5,G5,nul,0,0
+165,2.77596,0.000003,-0.000003,0,0.036,0.004,-0.004,0,86.6,0.7,-0.7,0,4.193,0.094,-0.094,0,nul,nul,nul,nul,1.289,0.066,-0.066,0,2.42,0.35,-0.35,0,1.22,0.06,0,0,1.16,0.03,0,0,3.8,F8,nul,0,0
+166,10.338523,0.000009,-0.000009,0,0.342,0.006,-0.006,0,89.2,0.2,-0.1,0,0.534,0.018,-0.018,0,nul,nul,nul,nul,1.01,0.029,-0.029,0,0.64,0.05,-0.05,0,0.86,0.04,0,0,0.84,0.02,0,0,5,K,nul,0,0
+167,5584,7700,-2100,0,0.39,0.23,-0.17,0,nul,nul,nul,nul,nul,nul,nul,nul,3.4,1.1,-0.7,0,nul,nul,nul,nul,nul,nul,nul,nul,0.86,0.04,0,0,0.84,0.02,0,0,5,K,nul,0,0
+168,5.508023,0.000006,-0.000006,0,0.084,0.048,-0.048,0,88.8,0.3,-0.3,0,0.197,0.013,-0.013,0,nul,nul,nul,nul,0.995,0.052,-0.052,0,0.25,0.04,-0.04,0,0.77,0.03,0,0,0.75,0.04,0,0,5.2,K2,nul,0,0
+169,4.008778,0.000006,-0.000006,0,0.067,0.042,-0.042,0,88.2,0.4,-0.4,0,0.292,0.018,-0.018,0,nul,nul,nul,nul,1.132,0.072,-0.072,0,0.25,0.04,-0.04,0,0.84,0.04,0,0,0.82,0.05,0,0,5.1,K1,nul,0,0
+170,2.875317,0.000004,-0.000004,0,0.015,0.005,-0.005,0,86.8,0.2,-0.2,0,7.246,0.187,-0.187,0,nul,nul,nul,nul,0.867,0.033,-0.033,0,13.78,1.5,-1.5,0,0.76,0.03,0,0,0.69,0.02,0,0,5.3,K3,nul,0,0
+171,4.124481,0.000007,-0.000007,0,0.228,0.016,-0.016,0,87.2,0.7,-0.7,0,4.063,0.161,-0.161,0,nul,nul,nul,nul,1.024,0.092,-0.092,0,4.68,1.59,-0.99,0,0.95,0.04,0,0,1.1,0.08,0,0,4.3,G3,nul,0,0
+172,3.21222,0.000009,-0.000009,0,0.016,0.009,-0.009,0,86.9,0.6,-0.5,0,2.147,0.061,-0.061,0,nul,nul,nul,nul,1.08,0.058,-0.058,0,2.11,0.4,-0.29,0,0.92,0.04,0,0,1.04,0.04,0,0,4.5,G5,nul,0,0
+173,1.212884,0.000002,-0.000002,0,0.106,0.044,-0.044,0,85.1,1.5,-1.5,0,2.09,0.111,-0.111,0,nul,nul,nul,nul,1.368,0.09,-0.09,0,1.01,0.18,-0.18,0,1.13,0.04,0,0,1.2,0.07,0,0,4,G0,nul,0,0
+174,3.35524,0.000007,-0.000007,0,0.067,0.024,-0.024,0,88.6,0.7,-0.7,0,0.685,0.033,-0.033,0,nul,nul,nul,nul,1.242,0.067,-0.067,0,0.44,0.07,-0.07,0,1.19,0.04,0,0,1.32,0.07,0,0,3.8,F8,nul,0,0
+175,3.652836,0.000019,-0.000019,0,0.032,0.022,-0.022,0,87.6,0.5,-0.5,0,0.567,0.022,-0.022,0,nul,nul,nul,nul,1.19,0.081,-0.056,0,0.42,0.07,-0.07,0,1.01,0.03,0,0,0.96,0.05,0,0,4.5,G5,nul,0,0
+176,4.234516,0.000015,-0.000015,0,0.124,0.06,-0.06,0,88.6,0.5,-0.9,0,0.059,0.007,-0.007,0,nul,nul,nul,nul,0.565,0.072,-0.032,0,0.4,0.1,-0.1,0,0.82,0.03,0,0,0.79,0.1,0,0,5.1,K1,nul,0,0
+177,3.039577,0.000005,-0.000006,0,0,nul,nul,0,85,0.2,-0.2,0,0.62,0.03,-0.03,0,nul,nul,nul,nul,1.02,0.07,-0.06,0,nul,nul,nul,nul,0.94,0.04,0,0,0.9,0.05,0,0,4.8,G8,nul,0,0
+178,3.257215,0.000007,-0.000007,0,0.051,0.033,-0.033,0,88,0.9,-0.9,0,0.626,0.037,-0.037,0,nul,nul,nul,nul,1.212,0.113,-0.082,0,0.44,0.09,-0.09,0,1.02,0.05,0,0,1.1,0.09,0,0,4.3,G3,nul,0,0
+179,5.723186,0.000049,-0.000049,0,0.095,0.047,-0.047,0,87.1,0.5,-0.7,0,0.778,0.076,-0.04,0,nul,nul,nul,nul,1.107,0.136,-0.082,0,0.71,0.18,-0.18,0,1.21,0.05,0,0,1.22,0.13,0,0,3.8,F8,nul,0,0
+180,2.810595,0.000005,-0.000005,0,0.035,0.024,-0.024,0,83.6,0.4,-0.4,0,0.711,0.028,-0.028,0,nul,nul,nul,nul,1.34,0.065,-0.065,0,0.37,0.05,-0.05,0,1.24,0.04,0,0,1.22,0.05,0,0,nul,nul,nul,nul,nul
+181,5.005425,0.000091,-0.000092,0,0.245,0.0045,-0.0045,0,87.1,1.8,-2.7,0,2.171,0.105,-0.077,0,nul,nul,nul,nul,1.07,0.24,-0.16,0,2.18,1.24,-0.93,0,1.22,0.09,0,nul,1.36,0.27,0,nul,nul,nul,nul,nul,nul
+182,1022,nul,nul,-1,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,3.4,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,1.22,0.09,0,nul,1.36,0.27,0,nul,nul,nul,nul,nul,nul
+183,2.150008,0.000001,-0.000001,0,0,nul,nul,0,88.9,0.4,-0.4,0,0.86,0.164,-0.164,0,nul,nul,nul,nul,1.789,0.025,-0.025,0,0.19,0.04,-0.04,0,1.16,0.04,0,nul,1.22,0.02,0,nul,nul,nul,nul,nul,nul
+184,3.474474,0.000001,-0.000001,0,0,nul,nul,0,87.2,0,-0.1,0,0.762,0.101,-0.101,0,nul,nul,nul,nul,1.686,0.045,-0.045,0,0.2,0.03,-0.03,0,1.38,0.04,0,nul,1.64,0.03,0,nul,nul,nul,nul,nul,nul
+185,5.452654,0.000016,-0.000016,0,0.441,0.032,-0.032,0,87.1,1.2,-1.2,0,3.328,0.211,-0.211,0,nul,nul,nul,nul,1.197,0.128,-0.092,0,2.4,0.63,-0.63,0,1.39,0.05,0,nul,1.53,0.14,0,nul,nul,nul,nul,nul,nul
+186,3.646706,0.000021,-0.000021,0,0.025,0.018,-0.018,0,87.3,1,-1,0,1.054,0.033,-0.033,0,nul,nul,nul,nul,1.332,0.098,-0.098,0,0.55,0.11,-0.11,0,1.24,0.05,0,nul,1.44,0.08,0,nul,nul,nul,nul,nul,nul
+187,1.327347,0.000003,-0.000003,0,0.063,0.032,-0.032,0,86,1.3,-1.3,0,1.832,0.099,-0.099,0,nul,nul,nul,nul,1.264,0.071,-0.071,0,1.12,0.19,-0.19,0,1.02,0.05,0,nul,1.1,0.06,0,nul,nul,nul,nul,nul,nul
+188,2.797436,0.000007,-0.000007,0,0.058,0.038,-0.038,0,86.9,0.4,-0.5,0,1.169,0.103,-0.103,0,nul,nul,nul,nul,1.178,0.077,-0.077,0,0.89,0.19,-0.19,0,0.93,0.04,0,nul,0.88,0.06,0,nul,nul,nul,nul,nul,nul
+189,4.640382,0.000032,-0.000032,0,0.067,0.047,-0.047,0,88.3,0.7,-0.7,0,0.267,0.02,-0.02,0,nul,nul,nul,nul,0.825,0.092,-0.063,0,0.59,0.16,-0.16,0,0.89,0.04,0,nul,0.92,0.1,0,nul,nul,nul,nul,nul,nul
+190,3.54387,0.000005,-0.000005,0,0,nul,nul,0,87,1,-1,0,0.599,0.099,-0.099,0,nul,nul,nul,nul,1.571,0.108,-0.081,0,0.19,0.04,-0.04,0,1.4,0.05,0,nul,1.62,0.08,0,nul,nul,nul,nul,nul,nul
+191,4.457243,0.00001,-0.00001,0,0,nul,nul,0,88.3,0.9,-0.9,0,0.615,0.038,-0.038,0,nul,nul,nul,nul,1.73,0.062,-0.062,0,0.15,0.01,-0.01,0,1.51,0.11,0,nul,2.21,0.06,0,nul,nul,nul,nul,nul,nul
+192,2.694047,0.000004,-0.000004,0,0,nul,nul,0,87.7,1,-1,0,0.8,0.102,-0.102,0,nul,nul,nul,nul,1.685,0.076,-0.051,0,0.2,0.03,-0.03,0,1.42,0.05,0,nul,1.68,0.06,0,nul,nul,nul,nul,nul,nul
+193,4.641878,0.000032,-0.000032,0,0,nul,nul,0,85.9,1.3,-0.8,0,1.044,0.083,-0.083,0,nul,nul,nul,nul,1.28,0.153,-0.153,0,0.61,0.34,-0.15,0,1.18,0.07,0,0,1.53,0.14,0,0,nul,nul,nul,nul,nul
+194,3.332687,0.000015,-0.000015,0,0,nul,nul,0,88.7,0.7,-0.7,0,0.662,0.06,-0.06,0,nul,nul,nul,nul,1.281,0.062,-0.033,0,0.39,0.05,-0.05,0,1.05,0.03,0,0,1.1,0.04,0,0,nul,nul,nul,nul,nul
+195,2.691548,0.000006,-0.000006,0,0,nul,nul,0,86.2,1.7,-1.7,0,1.73,0.205,-0.205,0,nul,nul,nul,nul,1.413,0.128,-0.077,0,0.75,0.17,-0.17,0,1.54,0.05,0,0,1.83,0.14,0,0,3,F,nul,0,0
+196,3.446459,0.000004,-0.000004,0,0.12,0.092,-0.092,0,85.6,0.6,-1.4,0,1.855,0.262,-0.196,0,nul,nul,nul,nul,1.302,0.162,-0.098,0,1.03,0.25,-0.25,0,0.99,0.05,0,nul,1.04,0.13,0,nul,nul,nul,nul,nul,nul
+197,1.354133,0.000001,-0.000001,0,0,nul,nul,0,87.2,0.7,-0.7,0,1.345,0.15,-0.15,0,nul,nul,nul,nul,1.168,0.03,-0.03,0,1.05,0.14,-0.14,0,0.88,0.04,0,0,0.9,0.02,0,0,5,K,nul,0,0
+198,3.547851,0.000005,-0.000005,0,0,nul,nul,0,86.2,0.3,-0.3,0,1.071,0.136,-0.136,0,nul,nul,nul,nul,1.381,0.035,-0.035,0,0.51,0.07,-0.07,0,1.21,0.04,0,0,1.4,0.03,0,0,3,F,nul,0,0
+199,349.7,1.2,-1.2,0,0.17,0.06,-0.06,0,nul,nul,nul,nul,nul,nul,nul,nul,1.25,0.15,-0.15,0,nul,nul,nul,nul,nul,nul,nul,nul,1.23,0.22,0,nul,1.47,0.04,0,nul,3.7,F7 V,nul,0,1
+200,6005,477,-477,0,0.21,0.07,-0.07,0,nul,nul,nul,nul,nul,nul,nul,nul,5.3,0.7,-0.7,0,nul,nul,nul,nul,nul,nul,nul,nul,1.23,0.22,0,nul,1.47,0.04,0,nul,3.7,F7 V,nul,0,1
+201,5.7727,0.0025,-0.0025,0,0.14,0.19,-0.19,0,nul,nul,nul,nul,nul,nul,nul,nul,0.024,0.0038,-0.0038,0,nul,nul,nul,nul,nul,nul,nul,nul,1.02,0.1,0,nul,1.11,0.04,0,nul,4.5,G5 V,nul,0,0
+202,13.505,nul,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,0.0186,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,1.02,0.1,0,nul,1.11,0.04,0,nul,4.5,G5 V,nul,0,0
+203,431.8,3.5,-3.5,0,0.101,0.037,-0.037,0,nul,nul,nul,nul,nul,nul,nul,nul,3.1,0.2,-0.2,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,5,K0,nul,0,0
+204,533,1.7,-1.7,0,0.64,0.04,-0.04,0,nul,nul,nul,nul,nul,nul,nul,nul,6.1,0.9,-0.9,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,5.1,K1 (III),nul,0,0
+205,1183,150,-150,0,0.67,0.1,-0.1,0,nul,nul,nul,nul,nul,nul,nul,nul,4.9,1,-1,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,4.25,G2/3 IV/V,nul,0,0
+206,3.4442,0.0002,-0.0002,0,0,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,0.48,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,5.1,K1 V,nul,0,0
+207,311.6,1.7,-1.9,0,0.129,0.099,-0.085,0,nul,nul,nul,nul,nul,nul,nul,nul,1.6,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,2.54,0.12,0,0,12.02,1.16,0,0,5,K0 III,nul,0,0
+208,62.218,0.015,-0.015,0,0.596,0.036,-0.036,0,nul,nul,nul,nul,nul,nul,nul,nul,0.229,0.008,-0.008,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,5,K0 V,nul,0,0
+209,526.62,0.3,-0.3,0,0.903,0.005,-0.005,0,nul,nul,nul,nul,nul,nul,nul,nul,1.56,0.04,-0.04,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,4.5,G5 V,nul,0,0
+210,829,36,-36,0,0.04,0.12,-0.12,0,nul,nul,nul,nul,nul,nul,nul,nul,0.8,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,4.5,G5 V,nul,0,0
+211,15.609,0.007,-0.007,0,0.27,0.12,-0.12,0,nul,nul,nul,nul,nul,nul,nul,nul,0.0405,0.005,-0.005,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,4.5,G5 V,nul,0,0
+212,431.88,0.85,-0.85,0,0.519,0.027,-0.027,0,nul,nul,nul,nul,nul,nul,nul,nul,2.07,0.18,-0.18,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,4.5,G5,nul,0,0
+213,356,2.6,-2.6,0,0.041,0.037,-0.037,0,nul,nul,nul,nul,nul,nul,nul,nul,2.3,0.2,-0.2,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,4.5,G5,nul,0,0
+214,360.2,1.4,-1.4,0,0.13,0.06,-0.06,0,nul,nul,nul,nul,nul,nul,nul,nul,2.37,0.34,-0.34,0,nul,nul,nul,nul,nul,nul,nul,nul,1.74,0.2,0,0,5.4,0.4,0,0,5,K0 IV,nul,0,0
+215,2732,81,-81,0,0.23,0.07,-0.07,0,nul,nul,nul,nul,nul,nul,nul,nul,2.37,0.38,-0.38,0,nul,nul,nul,nul,nul,nul,nul,nul,1.74,0.2,0,0,5.4,0.4,0,0,5,K0 IV,nul,0,0
+216,675,17,-17,0,0.12,0.08,-0.08,0,nul,nul,nul,nul,nul,nul,nul,nul,1.94,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,5,K0 III,nul,0,0
+217,777,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,1.96,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,3.6,F6 V,nul,0,0
+218,792.6,7.7,-7.7,0,0.19,0.061,-0.061,0,nul,nul,nul,nul,1.4,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,1.55,0.23,0,nul,5.5,0.4,0,nul,5,K0,nul,0,0
+219,177.11,0.32,-0.32,0,0.066,0.022,-0.022,0,nul,nul,nul,nul,nul,nul,nul,nul,7.6,0.4,-0.4,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,4.5,G5,nul,0,0
+220,22.09,nul,nul,0,0.3,0.15,-0.15,0,nul,nul,nul,nul,nul,nul,nul,nul,0.48,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,4.25,G2/3 V,nul,0,0
+221,2496,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,1.65,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,4.5,G5 V,nul,0,0
+222,615,7,-7,0,0.19,0.19,-0.13,0,nul,nul,nul,nul,nul,nul,nul,nul,0.29,0.023,-0.023,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,5,K0 IV/V,nul,0,0
+223,1275,15,-11,0,0.82,0.06,-0.06,0,nul,nul,nul,nul,nul,nul,nul,nul,1.11,0.27,-0.37,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,4,G0 V,nul,0,0
+224,4046,186,-366,0,0.53,0.08,-0.08,0,nul,nul,nul,nul,nul,nul,nul,nul,2,0.36,-0.54,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,4,G0 V,nul,0,0
+225,5.3978,0.0015,-0.0015,0,0.17,0.16,-0.16,0,nul,nul,nul,nul,nul,nul,nul,nul,0.029,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,5,K0,nul,0,0
+226,1313,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,0.63,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,4,G0 V,nul,0,0
+227,227,0.2,-0.2,0,0.297,0.026,-0.026,0,nul,nul,nul,nul,nul,nul,nul,nul,1.8,0.06,-0.06,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,3.8,F8,nul,0,0
+228,1634,17,-17,0,0.723,0.016,-0.016,0,nul,nul,nul,nul,nul,nul,nul,nul,14.2,1.6,-1.6,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,3.5,F5,nul,0,1
+229,30.052,0.027,-0.027,0,0.2,0.06,-0.06,0,nul,nul,nul,nul,nul,nul,nul,nul,0.7,0.06,-0.06,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,4.5,G5,nul,0,0
+230,192.9,0.9,-0.9,0,0.06,0.06,-0.06,0,nul,nul,nul,nul,nul,nul,nul,nul,1.82,0.17,-0.17,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,4.5,G5,nul,0,0
+231,5.75962,0.00028,-0.00028,0,0.077,0.033,-0.026,0,90,nul,nul,0,nul,nul,nul,nul,0.041,0.002,-0.002,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,4.1,G0/2 V,nul,0,0
+232,16.3567,0.0043,-0.0043,0,0.143,0.058,-0.058,0,90,nul,nul,0,nul,nul,nul,nul,0.038,0.002,-0.002,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,4.1,G0/2 V,nul,0,0
+233,49.747,0.024,-0.024,0,0.065,0.035,-0.035,0,90,nul,nul,0,nul,nul,nul,nul,0.08,0.004,-0.004,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,4.1,G0/2 V,nul,0,0
+234,122.72,0.2,-0.2,0,0.133,0.066,-0.066,0,90,nul,nul,0,nul,nul,nul,nul,0.074,0.005,-0.005,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,4.1,G0/2 V,nul,0,0
+235,602,11,-11,0,0,nul,nul,0,90,nul,nul,0,nul,nul,nul,nul,0.067,0.009,-0.009,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,4.1,G0/2 V,nul,0,0
+236,2248,102,-106,0,0.151,0.072,-0.072,0,90,nul,nul,0,nul,nul,nul,nul,0.205,0.014,-0.014,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,4.1,G0/2 V,nul,0,0
+237,989.2,8.1,-8.1,0,0.15,0.08,-0.08,0,nul,nul,nul,nul,nul,nul,nul,nul,0.94,0.08,-0.08,0,nul,nul,nul,nul,nul,nul,nul,nul,1.11,0.02,0,0,1.1,0.02,0,0,3.9,F9 V,nul,0,0
+238,1075.2,1.5,-1.5,0,0.099,0.007,-0.007,0,nul,nul,nul,nul,nul,nul,nul,nul,6.21,0.15,-0.15,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,4.5,G5,nul,0,0
+239,1270.2,193.5,-94.9,0,0.22,0.25,-0.12,0,nul,nul,nul,nul,nul,nul,nul,nul,3.44,0.9,-0.47,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,4,G0 V,nul,0,0
+240,170.455,3.285,-6.205,0,0.42,0.2,-0.42,0,nul,nul,nul,nul,nul,nul,nul,nul,0.82,0.31,-0.5,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,4,G0 V,nul,0,0
+241,711,8,-8,0,0.4,0.07,-0.07,0,nul,nul,nul,nul,nul,nul,nul,nul,6.54,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,4.8,G8 III/IV,nul,0,0
+242,1945,26,-26,0,0.041,0.047,-0.047,0,nul,nul,nul,nul,nul,nul,nul,nul,0.622,0.056,-0.056,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,4.8,G8 IV,nul,0,0
+243,37.91,0.041,-0.041,0,0.3,0.17,-0.17,0,nul,nul,nul,nul,nul,nul,nul,nul,0.0788,0.0097,-0.0097,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,4.8,G8 IV,nul,0,0
+244,262.709,0.083,-0.083,0,0.3768,0.0077,-0.0077,0,nul,nul,nul,nul,nul,nul,nul,nul,2.3,0.19,-0.19,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,5,K0,nul,0,0
+245,1708,14,-14,0,0.031,0.022,-0.022,0,nul,nul,nul,nul,nul,nul,nul,nul,1.92,0.16,-0.16,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,5,K0,nul,0,0
+246,471.6,6,-6,0,0.27,0.06,-0.06,0,nul,nul,nul,nul,nul,nul,nul,nul,14,6,-6,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,5.2,K2,nul,0,0
+247,14.182,nul,nul,nul,0.17,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,0.0325,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,5.2,K2 V,nul,0,0
+248,53.832,nul,nul,nul,0.43,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,0.036,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,5.2,K2 V,nul,0,0
+249,19.382,0.006,-0.006,0,0.02,0.018,-0.018,0,nul,nul,nul,nul,nul,nul,nul,nul,0.865,0.035,-0.035,0,nul,nul,nul,nul,nul,nul,nul,nul,1.29,0.04,0,0,1.67,0.1,0,0,3.8,F8 V,nul,0,0
+250,931,17,-17,0,0.12,0.02,-0.02,0,nul,nul,nul,nul,nul,nul,nul,nul,5.13,0.25,-0.25,0,nul,nul,nul,nul,nul,nul,nul,nul,1.29,0.04,0,0,1.67,0.1,0,0,3.8,F8 V,nul,0,0
+251,4218,388,-388,0,0.02,0.05,-0.05,0,nul,nul,nul,nul,nul,nul,nul,nul,1.88,0.15,-0.15,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,4,G0,nul,0,0
+252,75.523,0.055,-0.055,0,0.252,0.052,-0.052,0,nul,nul,nul,nul,nul,nul,nul,nul,0.26,0.028,-0.028,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,4.8,G8 IV + F,nul,0,0
+253,17.24,0.01,-0.01,0,0.2,0.09,-0.09,0,nul,nul,nul,nul,nul,nul,nul,nul,0.0696,0.0063,-0.0063,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,4.1,G1 V,nul,0,0
+254,990,20,-20,0,0.59,0.11,-0.11,0,nul,nul,nul,nul,nul,nul,nul,nul,4.4,0.34,-0.34,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,4,G0,nul,0,0
+255,465.1,2.3,-2.3,0,0.067,0.1,-0.1,0,nul,nul,nul,nul,nul,nul,nul,nul,14.3,0.9,-0.9,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,4.5,G5,nul,0,0
+256,359.9,2.4,-2.4,0,0.166,0.052,-0.052,0,nul,nul,nul,nul,nul,nul,nul,nul,4.6,0.3,-0.3,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,5,K0,nul,0,0
+257,21.21663,0.00045,-0.00045,0,0.6819,0.0044,-0.0044,0,86.89,0.11,-0.11,0,3.191,0.033,-0.033,0,nul,nul,nul,nul,1.087,0.007,-0.007,0,3.78,0.06,-0.06,0,1.27,0.02,0,nul,1.5,0.01,0,nul,4.5,G5,nul,0,0
+258,772,11,-11,0,0.12,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,2.7,0.3,-0.3,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,4.9,G8/K0 IV,nul,0,0
+259,466.2,1.7,-1.7,0,0.063,0.062,-0.062,0,nul,nul,nul,nul,nul,nul,nul,nul,1.37,0.12,-0.12,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,4,G0 V,nul,0,1
+260,11.849,nul,nul,nul,0.4,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,0.0378,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,4.8,G8 V,nul,0,0
+261,33.823,nul,nul,nul,0.16,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,0.0422,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,4.8,G8 V,nul,0,0
+262,500,6,-6,0,0.23,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,1.07,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,4,G0,nul,0,0
+263,18.315,0.008,-0.008,0,0,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,0.0085,0.00094,-0.00094,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,4.8,G8 III,nul,0,0
+264,40.114,0.053,-0.053,0,0,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,0.00755,0.00126,-0.00126,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,4.8,G8 III,nul,0,0
+265,90.309,0.184,-0.184,0,0,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,0.0151,0.00189,-0.00189,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,4.8,G8 III,nul,0,0
+266,29.15,nul,nul,nul,0.11,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,0.0379,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,4.95,G9.5 V,nul,0,0
+267,85.131,nul,nul,nul,0.28,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,0.0496,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,4.95,G9.5 V,nul,0,0
+268,591.9,2.8,-2.8,0,0.97,0.01,-0.01,0,nul,nul,nul,nul,nul,nul,nul,nul,1.9,0.5,-0.5,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,4.3,G3 V,nul,0,0
+269,380.85,0.09,-0.09,0,0.75,0.002,-0.002,0,nul,nul,nul,nul,nul,nul,nul,nul,1.99,0.05,-0.05,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,5.35,K3/4 III/V,nul,0,0
+270,22.656,nul,nul,nul,0.26,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,0.0322,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,4.8,G8 V,nul,0,0
+271,53.881,nul,nul,nul,0.24,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,0.06472,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,4.8,G8 V,nul,0,0
+272,1214,9,-9,0,0.44,0.07,-0.07,0,nul,nul,nul,nul,nul,nul,nul,nul,1.5,0.2,-0.2,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,4.2,G2 V,nul,0,0
+273,738.459,nul,nul,0,0.1,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,2.61,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,3.9,F8/G0 V,nul,0,0
+274,528.07,0.14,-0.14,0,0.8191,0.0023,-0.0023,0,nul,nul,nul,nul,nul,nul,nul,nul,13.65,0.97,-0.97,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,5,K0,nul,0,0
+275,1561,12,-12,0,0.266,0.014,-0.014,0,nul,nul,nul,nul,nul,nul,nul,nul,7.71,0.39,-0.39,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,3.8,F8,nul,0,0
+276,3668,169,-171,0,0.04,0.07,-0.06,0,nul,nul,nul,nul,nul,nul,nul,nul,4.01,0.49,-0.49,0,nul,nul,nul,nul,nul,nul,nul,nul,1.18,nul,0,0,nul,nul,nul,nul,4,G0 V,nul,0,0
+277,1845,167,-167,0,0.08,0.06,-0.06,0,nul,nul,nul,nul,nul,nul,nul,nul,0.95,0.1,-0.1,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,3.8,F8 V,nul,0,0
+278,423.841,nul,nul,0,0.07,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,1.28,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,5.15,K1/2 III,nul,0,0
+279,2208,66,-66,0,0.12,0.06,-0.06,0,nul,nul,nul,nul,nul,nul,nul,nul,1.45,0.14,-0.14,0,nul,nul,nul,nul,nul,nul,nul,nul,0.94,0.04,0,0,1,nul,0,0,4.3,G3 IV-V,nul,0,0
+280,17.991,0.007,-0.007,0,0.049,0.008,-0.008,0,nul,nul,nul,nul,nul,nul,nul,nul,0.62,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,5.2,K2 V,nul,0,0
+281,1117,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,1.16,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,4.5,G5 V,nul,0,1
+282,385.9,0.6,-0.6,0,0.092,0.019,-0.019,0,nul,nul,nul,nul,nul,nul,nul,nul,5.59,0.33,-0.33,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,4.55,G5/6 V,nul,0,0
+283,387.1,3.4,-3.4,0,0.168,0.07,-0.07,0,nul,nul,nul,nul,nul,nul,nul,nul,1.7,0.1,-0.1,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,4.8,G8 IV,nul,0,0
+284,2819.654,800,-800,0,0.3,0.17,-0.17,0,nul,nul,nul,nul,nul,nul,nul,nul,9.17,1.5,-1.5,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,4.8,G8 V,nul,0,0
+285,1159.2,2.8,-2.8,0,0.778,0.013,-0.013,0,nul,nul,nul,nul,nul,nul,nul,nul,1.373,0.047,-0.047,0,nul,nul,nul,nul,nul,nul,nul,nul,1.23,0.03,0,0,1.53,0.04,0,0,3.8,F8 V,nul,0,0
+286,912,41,-41,0,0.117,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,1.8,0.2,-0.2,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,5,K0 III,nul,0,0
+287,466,3,-3,0,0.3,0.2,-0.2,0,nul,nul,nul,nul,nul,nul,nul,nul,0.5,0.07,-0.07,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,3.8,F8,nul,0,0
+288,16.546,nul,nul,nul,0.13,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,0.0363,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,4.2,G2 V,nul,0,0
+289,51.284,nul,nul,nul,0.11,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,0.0498,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,4.2,G2 V,nul,0,0
+290,274.49,nul,nul,nul,0.38,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,0.0519,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,4.2,G2 V,nul,0,0
+291,326.6,3.9,-3.9,0,0.12,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,1.3,0.1,-0.1,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,5,K0 III,nul,0,0
+292,18.179,0.007,-0.007,0,0.48,0.05,-0.05,0,nul,nul,nul,nul,nul,nul,nul,nul,0.33,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,4.4,G3/5 V,nul,0,0
+293,157.54,0.38,-0.38,0,0.01,0.03,-0.03,0,nul,nul,nul,nul,nul,nul,nul,nul,3.04,0.68,-0.68,0,nul,nul,nul,nul,nul,nul,nul,nul,1.13,0.18,0,0,10.22,0.87,0,0,5.1,K1 III,nul,0,0
+294,1049,11,-11,0,0.27,0.07,-0.07,0,nul,nul,nul,nul,nul,nul,nul,nul,0.79,0.07,-0.07,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,4,G0,nul,0,0
+295,388,3,-3,0,0.34,0.02,-0.02,0,nul,nul,nul,nul,nul,nul,nul,nul,9.1,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,3.7,F7 V,nul,0,0
+296,363.2,1.6,-1.6,0,0.41,0.16,-0.16,0,nul,nul,nul,nul,0.34,0.02,-0.02,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,4.05,G0/1 V,nul,0,0
+297,154.46,0.369,-0.369,0,0.055,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,0.61,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,4,G0,nul,0,0
+298,2295,nul,nul,0,0.2,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,0.683,0.088,-0.088,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,4,G0,nul,0,0
+299,843.6,nul,nul,0,0.14,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,0.624,0.063,-0.063,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,4,G0,nul,0,0
+300,2063.818,nul,nul,0,0.62,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,10.35,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,4.1,G1 V,nul,0,0
+301,55,0.1,-0.1,0,0.677,0.0085,-0.0085,0,nul,nul,nul,nul,nul,nul,nul,nul,2.3,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,1,0.05,0,0,0.9,0.04,0,0,5,K0 V,nul,0,0
+302,2720,57,-57,0,0.013,0.015,-0.015,0,nul,nul,nul,nul,nul,nul,nul,nul,3.366,0.072,-0.072,0,nul,nul,nul,nul,nul,nul,nul,nul,1,0.05,0,0,0.9,0.04,0,0,5,K0 V,nul,0,0
+303,5.6363,nul,nul,nul,0.2,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,0.0117,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,4.8,G8 V,nul,0,0
+304,14.025,nul,nul,nul,0.11,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,0.0187,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,4.8,G8 V,nul,0,0
+305,33.941,nul,nul,nul,0.2,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,0.0162,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,4.8,G8 V,nul,0,0
+306,14.3098,0.0005,-0.0005,0,0.257,0.015,-0.015,0,nul,nul,nul,nul,nul,nul,nul,nul,0.839,0.03,-0.03,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,4.8,G8 III/IV,nul,0,0
+307,2140.2,5.7,-5.7,0,0.341,0.005,-0.005,0,nul,nul,nul,nul,nul,nul,nul,nul,13.38,0.39,-0.39,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,4.8,G8 III/IV,nul,0,0
+308,696.3,2.7,-2.7,0,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,10.7,0.5,-0.5,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,4.8,G8 IV,nul,0,0
+309,407.15,nul,nul,nul,0.27,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,0.0961,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,4.3,G3 V,nul,0,0
+310,4.3123,0.0011,-0.0012,0,0.2,0.14,-0.16,0,nul,nul,nul,nul,nul,nul,nul,nul,0.0126,0.0025,-0.0022,0,nul,nul,nul,nul,nul,nul,nul,nul,0.77,0.05,0,0,nul,nul,nul,nul,5.25,K2.5 V,nul,0,0
+311,9.6184,0.005,-0.0049,0,0.06,0.11,-0.06,0,nul,nul,nul,nul,nul,nul,nul,nul,0.0208,0.0035,-0.0031,0,nul,nul,nul,nul,nul,nul,nul,nul,0.77,0.05,0,0,nul,nul,nul,nul,5.25,K2.5 V,nul,0,0
+312,20.432,0.022,-0.024,0,0.07,0.11,-0.07,0,nul,nul,nul,nul,nul,nul,nul,nul,0.0299,0.0053,-0.0047,0,nul,nul,nul,nul,nul,nul,nul,nul,0.77,0.05,0,0,nul,nul,nul,nul,5.25,K2.5 V,nul,0,0
+313,34.62,0.21,-0.2,0,0.15,0.13,-0.15,0,nul,nul,nul,nul,nul,nul,nul,nul,0.011,0.0044,-0.0044,0,nul,nul,nul,nul,nul,nul,nul,nul,0.77,0.05,0,0,nul,nul,nul,nul,5.25,K2.5 V,nul,0,0
+314,51.76,0.5,-0.46,0,0.02,0.2,-0.02,0,nul,nul,nul,nul,nul,nul,nul,nul,0.0164,0.0047,-0.005,0,nul,nul,nul,nul,nul,nul,nul,nul,0.77,0.05,0,0,nul,nul,nul,nul,5.25,K2.5 V,nul,0,0
+315,197.8,5.7,-9,0,0.29,0.31,-0.29,0,nul,nul,nul,nul,nul,nul,nul,nul,0.0223,0.0082,-0.0082,0,nul,nul,nul,nul,nul,nul,nul,nul,0.77,0.05,0,0,nul,nul,nul,nul,5.25,K2.5 V,nul,0,0
+316,264.15,0.23,-0.23,0,0.252,0.014,-0.014,0,nul,nul,nul,nul,nul,nul,nul,nul,4.01,0.13,-0.13,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,3.8,F8,nul,0,0
+317,963,38,-38,0,0.39,0.17,-0.17,0,nul,nul,nul,nul,nul,nul,nul,nul,2.54,0.74,-0.74,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul
+318,1.3283,0.000012,-0.000012,0,0.081,0.012,-0.012,0,nul,nul,nul,nul,nul,nul,nul,nul,18.37,0.22,-0.22,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,6.2,M2 V,nul,0,0
+319,18.357,0.066,-0.044,0,0.15,0.11,-0.15,0,nul,nul,nul,nul,nul,nul,nul,nul,0.039,0.013,-0.017,0,nul,nul,nul,nul,nul,nul,nul,nul,0.92,0.05,0,0,0.78,0.04,0,0,4.2,G2 V,nul,0,0
+320,25.648,0.12,-0.13,0,0,0.18,0,0,nul,nul,nul,nul,nul,nul,nul,nul,0.027,0.02,-0.016,0,nul,nul,nul,nul,nul,nul,nul,nul,0.92,0.05,0,0,0.78,0.04,0,0,4.2,G2 V,nul,0,0
+321,327.8,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,0.6,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,4.9,G8/K0 IV/V,nul,0,0
+322,2371,840,-840,0,0.69,0.1,-0.1,0,nul,nul,nul,nul,nul,nul,nul,nul,25,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,5.1,K1 IV,nul,0,0
+323,36.96,0.02,-0.02,0,0.14,0.02,-0.02,0,nul,nul,nul,nul,nul,nul,nul,nul,2.49,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,4,G0,nul,0,0
+324,472,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,0.58,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,4.3,G3 V,nul,0,0
+325,5.8872,nul,nul,nul,0.3,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,0.04,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,4.2,G2 V,nul,0,0
+326,226.93,0.37,-0.37,0,0.1684,0.019,-0.019,0,nul,nul,nul,nul,nul,nul,nul,nul,0.1872,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,5,K0 V,nul,0,0
+327,342.85,0.28,-0.28,0,0.0974,0.012,-0.012,0,nul,nul,nul,nul,nul,nul,nul,nul,0.6579,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,5,K0 V,nul,0,0
+328,890.76,37.42,-37.42,0,0.778,0.009,-0.009,0,nul,nul,nul,nul,nul,nul,nul,nul,1.79,0.14,-0.14,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,4.5,G5,nul,0,0
+329,43.6,0.2,-0.2,0,0.38,0.06,-0.06,0,nul,nul,nul,nul,nul,nul,nul,nul,0.47,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,5.5,K5,nul,0,0
+330,3.024,nul,nul,0,0.04,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,0.249,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,5,K0 V,nul,0,0
+331,4.0845,0.0002,-0.0002,0,0.038,0.02,-0.02,0,nul,nul,nul,nul,nul,nul,nul,nul,0.07167,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,4.5,G5 V,nul,0,0
+332,1353.6,57.1,-57.1,0,0.249,0.073,-0.073,0,nul,nul,nul,nul,nul,nul,nul,nul,0.35061,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,4.5,G5 V,nul,0,0
+333,430,nul,nul,0,0.2,0.08,-0.08,0,nul,nul,nul,nul,nul,nul,nul,nul,5,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,5.1,K1 III,nul,0,0
+334,2500,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,7,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,5.1,K1 III,nul,0,0
+335,700,8,-8,0,0.18,0.13,-0.13,0,nul,nul,nul,nul,nul,nul,nul,nul,1.16,0.38,-0.38,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,4.5,G5 IV/V,nul,0,0
+336,4.9437,0.0023,-0.0023,0,0.23,0.15,-0.15,0,nul,nul,nul,nul,nul,nul,nul,nul,0.115,0.016,-0.016,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,4,G0,nul,0,0
+337,2582.7,110,-110,0,0.23,0.14,-0.14,0,nul,nul,nul,nul,nul,nul,nul,nul,1.71,0.02,-0.02,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,4.1,G0/2 V,nul,0,0
+338,1279,41,-41,0,0.42,0.03,-0.03,0,nul,nul,nul,nul,nul,nul,nul,nul,4.9,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,3.8,F8,nul,0,0
+339,14.07,nul,nul,nul,0.15,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,0.0413,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,4.8,G8 V,nul,0,0
+340,95.415,nul,nul,nul,0.41,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,0.0565,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,4.8,G8 V,nul,0,0
+341,118.96,0.1,-0.1,0,0.29,0.04,-0.04,0,nul,nul,nul,nul,nul,nul,nul,nul,1.13,0.06,-0.06,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,4,G0 V,nul,0,0
+342,303,nul,nul,0,0,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,5.25,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,5,K0,nul,0,0
+343,201.83,0.14,-0.14,0,0.278,0.006,-0.006,0,20,nul,nul,0,nul,nul,nul,nul,3.1548,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,3.6,F6 V,nul,0,0
+344,607.06,2.07,-2.07,0,0.038,0.008,-0.008,0,20,nul,nul,0,nul,nul,nul,nul,7.4634,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,3.6,F6 V,nul,0,0
+345,2.817822,0.000095,-0.000095,0,0,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,0.38,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,5.4,K4 V,nul,0,0
+346,589.64,0.81,-0.81,0,0.02,0.03,-0.03,0,nul,nul,nul,nul,nul,nul,nul,nul,2.9,0.1,-0.1,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,5,K0 III,nul,0,0
+347,358,1,-1,0,0.24,0.043,-0.043,0,nul,nul,nul,nul,nul,nul,nul,nul,0.64,0.05,-0.05,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,4.6,G6 IV/V,nul,0,0
+348,572.4,2.1,-2.1,0,0,0.02,-0.02,0,nul,nul,nul,nul,nul,nul,nul,nul,1.26,0.04,-0.04,0,nul,nul,nul,nul,nul,nul,nul,nul,0.92,nul,0,0,nul,nul,nul,nul,4.5,G5 V,nul,0,0
+349,152.6,0.6,-0.6,0,0.02,0.1,-0.1,0,nul,nul,nul,nul,nul,nul,nul,nul,0.17,0.03,-0.03,0,nul,nul,nul,nul,nul,nul,nul,nul,0.92,nul,0,0,nul,nul,nul,nul,4.5,G5 V,nul,0,0
+350,480.5,0.5,-0.5,0,0.07,0.03,-0.03,0,nul,nul,nul,nul,nul,nul,nul,nul,6,0.3,-0.3,0,nul,nul,nul,nul,nul,nul,nul,nul,1.1,0.1,0,0,21.4,0.6,0,0,5.2,K2 III,nul,0,0
+351,1973,31,-31,0,0.465,0.03,-0.03,0,nul,nul,nul,nul,nul,nul,nul,nul,2.82,0.27,-0.27,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,4.8,G8 IV (+ G),nul,0,0
+352,6.276,nul,nul,0,0.14,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,1.9,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,4,G0,nul,0,0
+353,8.667,0.003,-0.003,0,0.1,0.04,-0.04,0,nul,nul,nul,nul,nul,nul,nul,nul,0.033,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,5,K0 V,nul,0,0
+354,31.56,0.04,-0.04,0,0.13,0.06,-0.06,0,nul,nul,nul,nul,nul,nul,nul,nul,0.038,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,5,K0 V,nul,0,0
+355,197,3,-3,0,0.07,0.07,-0.07,0,nul,nul,nul,nul,nul,nul,nul,nul,0.058,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,5,K0 V,nul,0,0
+356,851.8,11.6,-11.6,0,0.4,0.1,-0.1,0,nul,nul,nul,nul,nul,nul,nul,nul,6.1,0.4,-0.4,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,4.6,G6 V,nul,0,0
+357,2231,400,-400,0,0.1,0.06,-0.06,0,nul,nul,nul,nul,nul,nul,nul,nul,2,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,4.95,G8/K1 (III + F/G),nul,0,0
+358,3383,100,-100,0,0.271,0.022,-0.022,0,nul,nul,nul,nul,nul,nul,nul,nul,3.15,0.14,-0.14,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,4.2,G2 V,nul,0,0
+359,1260,7,-7,0,0.256,0.009,-0.009,0,nul,nul,nul,nul,nul,nul,nul,nul,3.06,0.07,-0.07,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,5,K0 V,nul,0,0
+360,2.54858,0.00016,-0.00016,0,0.03,0.02,-0.02,0,nul,nul,nul,nul,nul,nul,nul,nul,1.87,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,4.9,G8/K0 V,nul,0,0
+361,188.9,0.1,-0.1,0,0.29,0.03,-0.03,0,nul,nul,nul,nul,nul,nul,nul,nul,2.25,0.12,-0.12,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,4.6,G6 V,nul,0,0
+362,379.1,0.5,-0.5,0,0.28,0.05,-0.05,0,nul,nul,nul,nul,nul,nul,nul,nul,2.25,0.13,-0.13,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,4.6,G6 V,nul,0,0
+363,1800,110,-110,0,0.046,0.08,-0.08,0,nul,nul,nul,nul,nul,nul,nul,nul,1.15,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,4.5,G5,nul,0,0
+364,51.645,0.003,-0.003,0,0.627,0.009,-0.009,0,nul,nul,nul,nul,nul,nul,nul,nul,1.8,0.06,-0.06,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,4.1,G1 V,nul,0,0
+365,2473,13,-13,0,0.432,0.013,-0.013,0,nul,nul,nul,nul,nul,nul,nul,nul,8.06,0.37,-0.37,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,4.1,G1 V,nul,0,0
+366,346.6,3.6,-3.6,0,0.25,0.11,-0.11,0,nul,nul,nul,nul,nul,nul,nul,nul,0.396,0.02,-0.02,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,4.1,G1 V,nul,0,0
+367,3.51,nul,nul,0,0.054,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,0.42,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,4,G0 V,nul,0,0
+368,418.2,5.7,-5.7,0,0.1,0.05,-0.05,0,nul,nul,nul,nul,nul,nul,nul,nul,2.51,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,4,G0,nul,0,0
+369,3.971,0.001,-0.001,0,0.13,0.04,-0.04,0,nul,nul,nul,nul,nul,nul,nul,nul,0.197,0.017,-0.017,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,4.6,G6 V,nul,0,0
+370,5.7361,0.0015,-0.0015,0,0.09,0.25,-0.09,0,nul,nul,nul,nul,0.05,0.015,-0.017,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,0.93,0.05,0,nul,0.88,0.04,0,nul,5,K0 IV,nul,0,0
+371,1966.1,41,-41,0,0.59,0.02,-0.02,0,nul,nul,nul,nul,nul,nul,nul,nul,1.34,0.07,-0.07,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,4.5,G5,nul,0,0
+372,111.4357,0.0008,-0.0008,0,0.9332,0.0008,-0.0008,0,89.32,0.06,-0.06,0,3.94,0.11,-0.11,0,nul,nul,nul,nul,0.98,0.03,-0.03,0,nul,nul,nul,nul,0.97,0.04,0,nul,0.98,0.01,0,nul,4.5,G5,nul,0,0
+373,1001.7,7,-7,0,0.526,0.042,-0.042,0,nul,nul,nul,nul,nul,nul,nul,nul,6.86,0.71,-0.71,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,4,G0,nul,0,0
+374,184.02,0.18,-0.18,0,0,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,2.7,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,4.5,G5,nul,0,0
+375,441.47,0.35,-0.35,0,0.162,0.036,-0.036,0,90,nul,nul,0,1.681,0.028,-0.028,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,4.25,G2/3 V,nul,0,0
+376,220.078,0.051,-0.051,0,0.3663,0.0097,-0.0097,0,90,nul,nul,0,1.959,0.047,-0.047,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,4.25,G2/3 V,nul,0,0
+377,705,34,-34,0,0.066,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,1.3,0.1,-0.1,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,4,G0,nul,0,0
+378,2.985625,0.00006,-0.00006,0,0.008,0.025,-0.025,0,nul,nul,nul,nul,nul,nul,nul,nul,0.4,0.034,-0.034,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,5.05,K0/1 V + G (III),nul,0,0
+379,788,25,-25,0,0.41,0.12,-0.12,0,nul,nul,nul,nul,nul,nul,nul,nul,0.132,0.011,-0.011,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,5.1,K1 V,nul,0,0
+380,58.43,0.13,-0.13,0,0.11,0.1,-0.1,0,nul,nul,nul,nul,nul,nul,nul,nul,0.01133,0.00157,-0.00157,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,6,M0 V,nul,0,0
+381,2.1375,0.0002,-0.0002,0,0.008,0.004,-0.004,0,nul,nul,nul,nul,nul,nul,nul,nul,1.5,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,4.1,G1 V,nul,0,0
+382,1695,58,-58,0,0.15,0.09,-0.09,0,nul,nul,nul,nul,nul,nul,nul,nul,0.92,0.1,-0.1,0,nul,nul,nul,nul,nul,nul,nul,nul,1.06,0.03,0,0,1.02,0.03,0,0,4.2,G2 V,nul,0,0
+383,1475,55,-55,0,0.7,0.2,-0.2,0,nul,nul,nul,nul,nul,nul,nul,nul,7,1.6,-1.6,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,3.7,F7 V,nul,0,0
+384,2754,87,-87,0,0.53,0.12,-0.12,0,nul,nul,nul,nul,nul,nul,nul,nul,1.78,0.34,-0.34,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,5.25,K2.5 V,nul,0,0
+385,3.416,0.0006,-0.0006,0,0.133,0.072,-0.072,0,nul,nul,nul,nul,nul,nul,nul,nul,0.22,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,4.5,G5,nul,0,0
+386,2157,63,-63,0,0.241,0.07,-0.07,0,nul,nul,nul,nul,nul,nul,nul,nul,1.78,0.13,-0.13,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,4,G0,nul,0,0
+387,256.78,0.05,-0.05,0,0.673,0.007,-0.007,0,nul,nul,nul,nul,nul,nul,nul,nul,8.44,0.23,-0.23,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,3.8,F8 IV,nul,0,0
+388,49.77,0.07,-0.07,0,0.31,0.1,-0.1,0,nul,nul,nul,nul,nul,nul,nul,nul,0.057,0.005,-0.005,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,4.5,G5 V,nul,0,0
+389,325.81,0.26,-0.26,0,0.334,0.011,-0.011,0,nul,nul,nul,nul,nul,nul,nul,nul,3.86,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,4.6,G6 V,nul,0,0
+390,143.58,0.6,-0.6,0,0.14,0.03,-0.03,0,nul,nul,nul,nul,nul,nul,nul,nul,0.37,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,5.3,K3 V,nul,0,0
+391,13.186,nul,nul,nul,0.15,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,0.0263,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,4.25,G2/3 V,nul,0,0
+392,46.025,nul,nul,nul,0.24,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,0.0318,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,4.25,G2/3 V,nul,0,0
+393,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,5,2,-2,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,1.6,nul,0,0,nul,nul,nul,nul,2.8,A8 III,nul,0,0
+394,507,16,-16,0,0.157,0.086,-0.086,0,nul,nul,nul,nul,nul,nul,nul,nul,1.2,0.1,-0.1,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,4.9,G8/K0 IV,nul,0,0
+395,361.1,9.9,-9.9,0,0.03,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,0.9,0.1,-0.1,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,4.6,G6 V,nul,0,0
+396,498.9,1,-1,0,0.71,0.04,-0.04,0,nul,nul,nul,nul,nul,nul,nul,nul,0.68,0.18,-0.18,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,4.3,G3 V,nul,0,0
+397,647.3,nul,nul,nul,0.3,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,4,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,5.2,K2,nul,0,0
+398,8.1256,nul,nul,nul,0.1,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,0.0284,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,4.15,G1/2 V,nul,0,0
+399,103.49,nul,nul,nul,0.37,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,0.04,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,4.15,G1/2 V,nul,0,0
+400,9.494,0.005,-0.005,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,0.026,0.004,-0.004,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,5.1,K1 V,nul,0,0
+401,436.9,4.5,-4.5,0,0.112,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,1.8,0.1,-0.1,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,5,K0 III/IV,nul,0,0
+402,4951,607,-465,0,0.85,0.05,-0.05,0,nul,nul,nul,nul,nul,nul,nul,nul,6.8,0.5,-0.5,0,nul,nul,nul,nul,nul,nul,nul,nul,1,0.03,0,0,1,nul,0,0,4.4,G4 V,nul,0,0
+403,439.3,5.6,-5.6,0,0.09,0.16,-0.16,0,nul,nul,nul,nul,nul,nul,nul,nul,0.502,0.07,-0.07,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,4.9,G8/K0 IV,nul,0,0
+404,17.054,0.003,-0.003,0,0.13,0.07,-0.07,0,nul,nul,nul,nul,nul,nul,nul,nul,0.087,0.006,-0.006,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,5.3,K2/4,nul,0,0
+405,4970,744,-744,0,0.1,0.2,-0.2,0,nul,nul,nul,nul,nul,nul,nul,nul,0.36,0.06,-0.06,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,5.3,K2/4,nul,0,0
+406,868,31,-31,0,0.365,0.1,-0.1,0,nul,nul,nul,nul,nul,nul,nul,nul,1.4,0.1,-0.1,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,5,K0,nul,0,0
+407,157.57,0.65,-0.65,0,0.085,0.054,-0.054,0,nul,nul,nul,nul,nul,nul,nul,nul,1.7,0.1,-0.2,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,5,K0,nul,0,0
+408,383.7,1.2,-1.2,0,0.36,0.02,-0.02,0,nul,nul,nul,nul,nul,nul,nul,nul,1.16,0.03,-0.03,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,4.8,G8 V,nul,0,0
+409,70.46,0.18,-0.18,0,0.11,0.02,-0.02,0,nul,nul,nul,nul,nul,nul,nul,nul,0.3,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,5.1,K1 V,nul,0,0
+410,20.8133,0.0064,-0.0064,0,0.121,0.082,-0.082,0,nul,nul,nul,nul,nul,nul,nul,nul,0.172,0.02,-0.02,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,4.6,G6 V,nul,0,0
+411,4.113775,0.000557,-0.000557,0,0,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,0.45,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,5,K0 V,nul,0,0
+412,127.58,0.3,-0.3,0,0.05,0.04,-0.04,0,nul,nul,nul,nul,nul,nul,nul,nul,5.9,0.2,-0.2,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,5.2,K2,nul,0,0
+413,520,26,-26,0,0.68,0.06,-0.06,0,nul,nul,nul,nul,nul,nul,nul,nul,2.6,0.4,-0.4,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,5.2,K2,nul,0,0
+414,122.1,0.3,-0.3,0,0.34,0.14,-0.14,0,nul,nul,nul,nul,nul,nul,nul,nul,0.05,0.008,-0.008,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,4.4,G3/5 V,nul,0,0
+415,778.1,7.5,-7.5,0,0.211,0.042,-0.042,0,nul,nul,nul,nul,nul,nul,nul,nul,5.9,0.3,-0.3,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,5,K0 III,nul,0,0
+416,6.495,0.0004,-0.0004,0,0.048,0.027,-0.027,0,nul,nul,nul,nul,nul,nul,nul,nul,0.96,0.05,-0.05,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,4.5,G5,nul,0,0
+417,47.84,0.03,-0.03,0,0,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,0.098,0.006,-0.006,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,5.1,K1 V(P),nul,0,0
+418,5.8881,0.0005,-0.0005,0,0.09,0.04,-0.04,0,nul,nul,nul,nul,nul,nul,nul,nul,0.367,0.022,-0.022,0,nul,nul,nul,nul,nul,nul,nul,nul,1.33,0.03,0,0,nul,nul,nul,nul,3.5,F5 V,nul,0,0
+419,55.806,0.049,-0.049,0,0,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,0.186,0.013,-0.013,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,5.2,K2 V,nul,0,0
+420,199.505,0.085,-0.085,0,0.09,0.009,-0.009,0,nul,nul,nul,nul,nul,nul,nul,nul,8.3,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,5,K0,nul,0,0
+421,1531,4.7,-4.7,0,0.482,0.011,-0.011,0,nul,nul,nul,nul,nul,nul,nul,nul,6.92,0.16,-0.16,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,4,G0,nul,0,0
+422,2890,390,-390,0,0.402,0.054,-0.054,0,nul,nul,nul,nul,nul,nul,nul,nul,11,0.8,-0.8,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,4.5,G5 IV,nul,0,0
+423,3630,12,-12,0,0.572,0.011,-0.011,0,nul,nul,nul,nul,nul,nul,nul,nul,9.61,0.14,-0.14,0,nul,nul,nul,nul,nul,nul,nul,nul,0.97,0.01,0,0,1.62,0.05,0,0,4.5,G5,nul,0,0
+424,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,11,2,-2,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,1.5,0.1,0,0,nul,nul,nul,nul,3.5,F5 V,nul,0,0
+425,48.056,0.057,-0.057,0,0.05,0.17,-0.17,0,nul,nul,nul,nul,nul,nul,nul,nul,0.21,0.036,-0.036,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,4.5,G5 V,nul,0,0
+426,10.8985,0.0045,-0.0045,0,0.53,0.12,-0.12,0,nul,nul,nul,nul,nul,nul,nul,nul,0.261,0.04,-0.04,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,3.9,F8/G0 V,nul,0,0
+427,443.4,4.2,-4.2,0,0.06,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,2.6,0.2,-0.2,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,5,K0,nul,0,0
+428,395.8,0.6,-0.6,0,0.082,0.021,-0.021,0,nul,nul,nul,nul,nul,nul,nul,nul,1.29,0.06,-0.06,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,4.5,G5,nul,0,0
+429,1624,23,-23,0,0.239,0.031,-0.031,0,nul,nul,nul,nul,nul,nul,nul,nul,0.99,0.06,-0.06,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,4.5,G5,nul,0,0
+430,68.27,0.13,-0.13,0,0.12,0.04,-0.04,0,nul,nul,nul,nul,nul,nul,nul,nul,0.77,0.09,-0.09,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,4,G0,nul,0,0
+431,7.8543,0.0009,-0.0009,0,0.25,0.08,-0.08,0,nul,nul,nul,nul,nul,nul,nul,nul,0.054,0.004,-0.004,0,nul,nul,nul,nul,nul,nul,nul,nul,1.05,0.02,0,0,nul,nul,nul,nul,4.5,G5 V,nul,0,0
+432,30.93,0.02,-0.02,0,0.15,0.09,-0.09,0,nul,nul,nul,nul,nul,nul,nul,nul,0.076,0.007,-0.007,0,nul,nul,nul,nul,nul,nul,nul,nul,1.05,0.02,0,0,nul,nul,nul,nul,4.5,G5 V,nul,0,0
+433,5.24,0.002,-0.002,0,0.01,0.01,-0.01,0,nul,nul,nul,nul,nul,nul,nul,nul,0.28,0.016,-0.016,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,4.3,G3 V,nul,0,0
+434,835.477,6.04,-6.04,0,0.462,0.069,-0.069,0,nul,nul,nul,nul,nul,nul,nul,nul,11.09,1,-1,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,5.2,K2 III,nul,0,0
+435,1143,14,-14,0,0.2,0.01,-0.01,0,nul,nul,nul,nul,nul,nul,nul,nul,6.8,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,4.8,G8 V,nul,0,0
+436,324,1.7,-3.3,0,0.46,0.04,-0.04,0,nul,nul,nul,nul,nul,nul,nul,nul,2.83,0.24,-0.24,0,nul,nul,nul,nul,nul,nul,nul,nul,1.4,0.14,0,0,1.5,0.15,0,0,3.6,F6 V,nul,0,0
+437,263.3,2.3,-2.3,0,0.61,0.11,-0.11,0,nul,nul,nul,nul,nul,nul,nul,nul,0.27,0.08,-0.08,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,5.25,K5/M0 V,nul,0,0
+438,1657,48,-48,0,0.32,0.06,-0.06,0,nul,nul,nul,nul,nul,nul,nul,nul,0.71,0.06,-0.06,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,5.25,K5/M0 V,nul,0,0
+439,937.7,15.6,-15.6,0,0.23,0.03,-0.03,0,nul,nul,nul,nul,nul,nul,nul,nul,1.24,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,5.3,K3 V,nul,0,0
+440,1046,nul,nul,0,0.06,nul,nul,0,nul,nul,nul,nul,1.18622,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,5.3,K3 V,nul,0,0
+441,3827,105,-105,0,0.25,0.08,-0.08,0,nul,nul,nul,nul,nul,nul,nul,nul,0.48,0.04,-0.04,0,nul,nul,nul,nul,nul,nul,nul,nul,1.36,nul,0,0,nul,nul,nul,nul,4.4,G4 IV,nul,0,0
+442,83.888,0.0086,-0.0086,0,0.3359,0.0091,-0.0091,0,nul,nul,nul,nul,nul,nul,nul,nul,11.68,0.96,-0.96,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,3.8,F8,nul,0,0
+443,493.7,1.8,-1.8,0,0.144,0.032,-0.032,0,nul,nul,nul,nul,nul,nul,nul,nul,1.1,0.06,-0.06,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,5.1,K1 V,nul,0,0
+444,1114,14,-14,0,0.167,0.055,-0.055,0,nul,nul,nul,nul,nul,nul,nul,nul,0.95,0.1,-0.1,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,4,G0 V,nul,0,0
+445,670,11,-11,0,0.054,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,2.1,0.2,-0.2,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,5,K0,nul,0,0
+446,2597,41,-41,0,0.144,0.035,-0.035,0,nul,nul,nul,nul,nul,nul,nul,nul,1.88,0.17,-0.17,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,4.8,G8 IV/V,nul,0,0
+447,25.827,0.019,-0.019,0,0.42,0.17,-0.17,0,nul,nul,nul,nul,nul,nul,nul,nul,0.178,0.021,-0.021,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,4.2,G2 V,nul,0,0
+448,6.1335,0.0006,-0.0006,0,0.309,0.014,-0.014,0,nul,nul,nul,nul,nul,nul,nul,nul,2.13,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,5,K0,nul,0,0
+449,2082,24,-35,0,0.66,0.14,-0.1,0,nul,nul,nul,nul,nul,nul,nul,nul,4.5,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,2.39,0.06,0,0,9.12,0.65,0,0,4.7,G7 III,nul,0,0
+450,63.33,0.03,-0.03,0,0.03,0.01,-0.01,0,nul,nul,nul,nul,nul,nul,nul,nul,1.22,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,4.2,G2 V,nul,0,0
+451,344.95,1.08,-1.08,0,0.68,0.09,-0.09,0,nul,nul,nul,nul,nul,nul,nul,nul,3.71,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,5.25,K2/3 III,nul,0,0
+452,559.4,1.3,-1.3,0,0.46,0.01,-0.01,0,nul,nul,nul,nul,nul,nul,nul,nul,3,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,4.3,G3 V,nul,0,0
+453,4.1547,0.0005,-0.0005,0,0.27,0.12,-0.12,0,nul,nul,nul,nul,nul,nul,nul,nul,0.058,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,4.3,G3 V,nul,0,0
+454,3008,202,-202,0,0.28,0.12,-0.12,0,nul,nul,nul,nul,nul,nul,nul,nul,7.2,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,4.3,G3 V,nul,0,0
+455,9.6737,0.0039,-0.0039,0,0,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,0.041,0.004,-0.004,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,5.35,K3/4 V,nul,0,0
+456,1244,17,-17,0,0.41,0.1,-0.1,0,nul,nul,nul,nul,nul,nul,nul,nul,0.38,0.04,-0.04,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,4.8,G8 IV,nul,0,0
+457,948.12,nul,nul,nul,0.13,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,0.224,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,4.5,G5 V,nul,0,0
+458,454.2,1.6,-1.6,0,0.345,0.049,-0.049,0,nul,nul,nul,nul,nul,nul,nul,nul,1.45,0.13,-0.13,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,5.28,K3- V,nul,0,0
+459,923.8,5.3,-5.3,0,0.23,0.058,-0.058,0,nul,nul,nul,nul,nul,nul,nul,nul,3.24,0.1,-0.1,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,5.28,K3- V,nul,0,0
+460,1840,55,-55,0,0.7,0.1,-0.1,0,nul,nul,nul,nul,nul,nul,nul,nul,1.6,0.6,-0.6,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,4.6,G6 V,nul,0,0
+461,10.7085,0.0003,-0.0003,0,0.011,0.02,-0.02,0,nul,nul,nul,nul,nul,nul,nul,nul,1.04,0.03,-0.03,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,5,K0 V,nul,0,0
+462,883,29,-29,0,0.163,0.073,-0.073,0,nul,nul,nul,nul,nul,nul,nul,nul,2.2,0.2,-0.2,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,5,K0,nul,0,0
+463,1951,41,-41,0,0.638,0.02,-0.02,0,nul,nul,nul,nul,nul,nul,nul,nul,18.15,0.35,-0.35,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,4.3,G3 V,nul,0,0
+464,974,39,-39,0,0.34,0.09,-0.09,0,nul,nul,nul,nul,nul,nul,nul,nul,5.61,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,4,G0,nul,0,0
+465,1544,34,-34,0,0.22,0.09,-0.09,0,nul,nul,nul,nul,nul,nul,nul,nul,1.49,0.09,-0.09,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,3.8,F8,nul,0,1
+466,3.27,nul,nul,nul,0.4,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,0.0351,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,4.2,G2 V,nul,0,0
+467,1160.9,nul,nul,nul,0.75,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,0.1507,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,4.2,G2 V,nul,0,0
+468,258.19,0.07,-0.07,0,0.233,0.002,-0.002,0,nul,nul,nul,nul,nul,nul,nul,nul,1.59,0.02,-0.02,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,4.5,G5 V,nul,0,0
+469,5000,400,-400,0,0.12,0.02,-0.02,0,nul,nul,nul,nul,nul,nul,nul,nul,0.82,0.03,-0.03,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,4.5,G5 V,nul,0,0
+470,12.083,nul,nul,nul,0.15,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,0.0292,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,4.5,G5 IV,nul,0,0
+471,59.519,nul,nul,nul,0.29,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,0.0382,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,4.5,G5 IV,nul,0,0
+472,459.26,nul,nul,nul,0.46,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,0.121,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,4.5,G5 IV,nul,0,0
+473,464.3,3.2,-3.2,0,0.255,0.041,-0.041,0,nul,nul,nul,nul,nul,nul,nul,nul,2,0.1,-0.1,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,4.5,G5,nul,0,0
+474,11.577,nul,nul,nul,0.18,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,0.0166,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,4.4,G3/5 V,nul,0,0
+475,27.582,nul,nul,nul,0.16,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,0.0358,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,4.4,G3/5 V,nul,0,0
+476,106.72,nul,nul,nul,0.43,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,0.03,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,4.4,G3/5 V,nul,0,0
+477,330,2,-4,0,0.36,0.12,-0.12,0,nul,nul,nul,nul,nul,nul,nul,nul,0.223,0.029,-0.029,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,5.2,K2 IV,nul,0,0
+478,1125.7,9,-9,0,0.1,0.02,-0.02,0,nul,nul,nul,nul,nul,nul,nul,nul,9.76,2.15,-2.15,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,5,K0,nul,0,0
+479,653.22,1.21,-1.21,0,0.41,0.01,-0.01,0,nul,nul,nul,nul,nul,nul,nul,nul,9.7,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,4.25,G2/3 V,nul,0,0
+480,1928,53,-39,0,0.53,0.23,-0.18,0,nul,nul,nul,nul,nul,nul,nul,nul,5.1,2.6,-1.5,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,4.9,G9 IV-V,nul,0,0
+481,1299,48,-48,0,0.09,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,1.9,0.2,-0.2,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,5,K0,nul,0,0
+482,386.3,1.6,-1.6,0,0.5,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,1.62,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,4.1,G1 V,nul,0,0
+483,1057,20,-20,0,0.15,0.17,-0.17,0,nul,nul,nul,nul,nul,nul,nul,nul,3.12,1.44,-1.44,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,4.6,G6 V,nul,0,0
+484,176.3,0.39,-0.39,0,0.112,0.035,-0.035,0,nul,nul,nul,nul,nul,nul,nul,nul,2.9,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,5,K0,nul,0,0
+485,103.95,0.13,-0.13,0,0.307,0.017,-0.017,0,nul,nul,nul,nul,nul,nul,nul,nul,5.76,0.1,-0.1,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,4.3,G3 V,nul,0,0
+486,44.236,0.008,-0.008,0,0.4686,0.0081,-0.0081,0,nul,nul,nul,nul,nul,nul,nul,nul,2.12,0.07,-0.07,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,4.9,G8/K0 V,nul,0,0
+487,1008,18,-18,0,0.133,0.011,-0.011,0,nul,nul,nul,nul,nul,nul,nul,nul,6.56,0.32,-0.32,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,4.9,G8/K0 V,nul,0,0
+488,528.4,6.3,-6.3,0,0.26,0.05,-0.05,0,nul,nul,nul,nul,nul,nul,nul,nul,1.21,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,4.4,G3/5 V,nul,0,0
+489,1027,28,-28,0,0.52,0.04,-0.09,0,nul,nul,nul,nul,nul,nul,nul,nul,0.85,0.67,-0.05,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,4.1,G0/2 V,nul,0,0
+490,331.5,3,-3,0,0.16,0.08,-0.08,0,nul,nul,nul,nul,nul,nul,nul,nul,0.96,0.1,-0.1,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,5,K0 III/IV,nul,0,0
+491,2.8758911,0.0000025,-0.0000025,0,0,nul,nul,0,88,2,-2,0,0.368,0.013,-0.014,0,nul,nul,nul,nul,0.813,0.027,-0.025,0,0.85,0.1,-0.09,0,1.34,0.02,0,nul,1.54,0.05,0,nul,4,G0,nul,0,0
+492,4.072,0.7,-0.7,0,0.016,0.01,-0.01,0,nul,nul,nul,nul,nul,nul,nul,nul,1.33,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,4.3,G3 V,nul,0,0
+493,2.391,0.002,-0.002,0,0,nul,nul,0,39,13,-13,0,nul,nul,nul,nul,15.5,7.5,-7.5,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,1.5,B5 II,nul,0,0
+494,1096.2,nul,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,0.168,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,4.5,G5 V,nul,0,0
+495,2097,930,-930,0,0.6,0.24,-0.24,0,nul,nul,nul,nul,nul,nul,nul,nul,3,2,-2,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,4.6,G6 V,nul,0,0
+496,689,13,-13,0,0.074,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,1.5,0.1,-0.1,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,5,K0,nul,0,0
+497,499.4,3.6,-3.6,0,0.34,0.021,-0.021,0,nul,nul,nul,nul,nul,nul,nul,nul,2.73,0.05,-0.05,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,3.8,F8 V,nul,0,0
+498,18.596,nul,nul,nul,0.38,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,0.0193,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,5.1,K1 V,nul,0,0
+499,3342,95,-95,0,0.044,0.046,-0.046,0,nul,nul,nul,nul,nul,nul,nul,nul,0.947,0.09,-0.09,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,4,G0,nul,0,0
+500,163.9,0.01,-0.01,0,0.61,0.02,-0.02,0,nul,nul,nul,nul,nul,nul,nul,nul,5.02,0.17,-0.17,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,4.3,G3 IV,nul,0,0
+501,408.6,0.5,-0.5,0,0.46,0.02,-0.02,0,nul,nul,nul,nul,nul,nul,nul,nul,2.24,0.05,-0.05,0,nul,nul,nul,nul,nul,nul,nul,nul,1.72,0.03,0,0,1.76,0.06,0,0,4.5,G5 V,nul,0,0
+502,3452,105,-105,0,0.06,0.05,-0.05,0,nul,nul,nul,nul,nul,nul,nul,nul,2.58,0.16,-0.16,0,nul,nul,nul,nul,nul,nul,nul,nul,1.72,0.03,0,0,1.76,0.06,0,0,4.5,G5 V,nul,0,0
+503,194.3,0.3,-0.3,0,0.17,0.03,-0.03,0,nul,nul,nul,nul,nul,nul,nul,nul,0.85,0.05,-0.05,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,4,G0,nul,0,0
+504,391.9,1,-1,0,0.16,0.1,-0.1,0,nul,nul,nul,nul,nul,nul,nul,nul,0.82,0.07,-0.07,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,4,G0,nul,0,0
+505,131.05,0.54,-0.54,0,0.708,0.018,-0.018,0,nul,nul,nul,nul,nul,nul,nul,nul,9.71,0.66,-0.66,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,5,K0,nul,0,0
+506,842,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,0.75,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,4.1,G1 V(W),nul,0,0
+507,4.6455,0.0011,-0.0011,0,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,0.013,0.002,-0.002,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,5.3,K3 V,nul,0,0
+508,359.5546,0.0071,-0.0071,0,0.84785,0.0005,-0.0005,0,nul,nul,nul,nul,nul,nul,nul,nul,10.57,0.29,-0.29,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,4.1,G1 V,nul,0,0
+509,104.84,nul,nul,nul,0.46,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,0.12,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,4.8,G8 V,nul,0,0
+510,521,6.9,-6.9,0,0.291,0.093,-0.093,0,nul,nul,nul,nul,nul,nul,nul,nul,1.8,0.2,-0.2,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,5,K0,nul,0,0
+511,12.62,0.004,-0.004,0,0.02,0.018,-0.018,0,nul,nul,nul,nul,nul,nul,nul,nul,1.13,0.05,-0.05,0,nul,nul,nul,nul,nul,nul,nul,nul,1.12,0.03,0,0,1.12,0.05,0,0,4,G0 V,nul,0,0
+512,248.4,4.9,-4.9,0,0.075,0.05,-0.05,0,nul,nul,nul,nul,nul,nul,nul,nul,1.9,0.13,-0.13,0,nul,nul,nul,nul,nul,nul,nul,nul,1.12,0.03,0,0,1.12,0.05,0,0,4,G0 V,nul,0,0
+513,1178.4,8.8,-8.8,0,0.01,0.03,-0.03,0,nul,nul,nul,nul,nul,nul,nul,nul,2.1,0.11,-0.11,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,4.5,G5 V,nul,0,0
+514,352.3,1.3,-1.3,0,0.15,0.05,-0.05,0,nul,nul,nul,nul,nul,nul,nul,nul,0.73,0.05,-0.05,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,4.5,G5 V,nul,0,0
+515,643.25,0.9,-0.9,0,0.128,0.017,-0.017,0,nul,nul,nul,nul,1.676,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,4.3,G3 IV/V,nul,0,0
+516,4205.8,758.9,-758.9,0,0.0985,0.0627,-0.0627,0,nul,nul,nul,nul,nul,nul,nul,nul,1.814,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,4.3,G3 IV/V,nul,0,0
+517,9.6386,0.0015,-0.0015,0,0.172,0.04,-0.04,0,nul,nul,nul,nul,0.03321,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,4.3,G3 IV/V,nul,0,0
+518,310.55,0.83,-0.83,0,0.0666,0.0122,-0.0122,0,nul,nul,nul,nul,0.5219,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,4.3,G3 IV/V,nul,0,0
+519,8.428198,0.000056,-0.000056,0,0.277,0.002,-0.002,0,nul,nul,nul,nul,nul,nul,nul,nul,14.4,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,5.2,K2 (V),nul,0,0
+520,75.29,0.02,-0.02,0,0.73,0.02,-0.02,0,nul,nul,nul,nul,nul,nul,nul,nul,0.77,0.04,-0.04,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,4.5,G5,nul,0,0
+521,1314,nul,nul,nul,0.12,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,2.29,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,4.5,G5,nul,0,0
+522,282.4,nul,nul,nul,0.26,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,0.48,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,4.2,G2 V,nul,0,0
+523,606.4,9,-9,0,0.24,0.14,-0.14,0,nul,nul,nul,nul,nul,nul,nul,nul,2.7,1.3,-1.3,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,5.2,K1/3,nul,0,0
+524,1155,23,-23,0,0.05,0.14,-0.14,0,nul,nul,nul,nul,nul,nul,nul,nul,0.36,0.046,-0.046,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,4.9,G9 V,nul,0,0
+525,5144,705,-467,0,0.734,0.02,-0.02,0,nul,nul,nul,nul,nul,nul,nul,nul,3.53,0.11,-0.11,0,nul,nul,nul,nul,nul,nul,nul,nul,0.81,0.02,0,0,nul,nul,nul,nul,5,K0 IV-V,nul,0,0
+526,420.77,3.48,-3.11,0,0.089,0.028,-0.065,0,nul,nul,nul,nul,nul,nul,nul,nul,1.7,0.09,-0.12,0,nul,nul,nul,nul,nul,nul,nul,nul,1.5,0.2,0,0,4.5,0.2,0,0,5.1,K1 IV,nul,0,0
+527,58.11289,0.0055,-0.0055,0,0.5286,0.032,-0.032,0,nul,nul,nul,nul,nul,nul,nul,nul,8.02,0.65,-0.65,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,4.6,G6 V,nul,0,0
+528,1749.5,2.2,-2.2,0,0.212,0.002,-0.002,0,nul,nul,nul,nul,nul,nul,nul,nul,18.1,1.5,-1.5,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,4.6,G6 V,nul,0,0
+529,6.403,0.001,-0.001,0,0.081,0.029,-0.029,0,nul,nul,nul,nul,nul,nul,nul,nul,0.23,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,4.5,G5 V,nul,0,0
+530,225.62,0.22,-0.22,0,0.31,0.01,-0.01,0,nul,nul,nul,nul,nul,nul,nul,nul,2.88,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,3.8,F8 V,nul,0,0
+531,2102,264,-264,0,0.33,0.02,-0.02,0,nul,nul,nul,nul,nul,nul,nul,nul,4.04,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,3.8,F8 V,nul,0,0
+532,1145,18,-18,0,0.11,0.08,-0.08,0,nul,nul,nul,nul,nul,nul,nul,nul,0.67,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,4.5,G5,nul,0,0
+533,538,2,-2,0,0.61,0.01,-0.01,0,nul,nul,nul,nul,nul,nul,nul,nul,1.83,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,4,G0,nul,0,0
+534,1523,40,-45,0,0.4,0.061,-0.065,0,nul,nul,nul,nul,nul,nul,nul,nul,2.6,0.15,-0.15,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,4.8,G8 V,nul,0,0
+535,323.6,2.2,-2.2,0,0.21,0.04,-0.04,0,nul,nul,nul,nul,nul,nul,nul,nul,2.7,0.3,-0.3,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,5,K0,nul,0,0
+536,1290,22,-22,0,0.54,0.09,-0.09,0,nul,nul,nul,nul,nul,nul,nul,nul,7.8,3.5,-3.5,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,4.5,G5 IV/V,nul,0,0
+537,297.3,6,-6,0,0.33,0.2,-0.2,0,nul,nul,nul,nul,nul,nul,nul,nul,0.61,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,4.7,G6/8 IV,nul,0,0
+538,1016,40,-40,0,nul,nul,nul,nul,nul,nul,nul,nul,1.5,0.3,-0.3,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,4,G0,nul,0,1
+539,406.6,0.4,-0.4,0,0.009,0.004,-0.004,0,nul,nul,nul,nul,nul,nul,nul,nul,1.49,0.03,-0.03,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,5,K0,nul,0,0
+540,110.9,0.1,-0.1,0,0.3,0.1,-0.1,0,nul,nul,nul,nul,nul,nul,nul,nul,0.15,0.02,-0.02,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,5,K0,nul,0,0
+541,71.484,0.002,-0.002,0,0.114,0.003,-0.003,0,nul,nul,nul,nul,nul,nul,nul,nul,7.03,0.28,-0.28,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,4.5,G5,nul,0,0
+542,14.476,0.011,-0.011,0,0.115,0.087,-0.087,0,nul,nul,nul,nul,nul,nul,nul,nul,0.08,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,4.5,G5 IV,nul,0,0
+543,3.0925,0.00003,-0.00003,0,0.022,0.014,-0.014,0,nul,nul,nul,nul,nul,nul,nul,nul,0.95,0.04,-0.04,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,3.8,F8 V,nul,0,0
+544,396.03,0.62,-0.62,0,0.257,0.01,-0.01,0,nul,nul,nul,nul,22,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,5,K0,nul,0,0
+545,479,13,-13,0,0.09,0.11,-0.11,0,nul,nul,nul,nul,nul,nul,nul,nul,1.6,0.2,-0.2,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,5,K0 III/IV,nul,0,0
+546,663,29,-29,0,0.177,0.057,-0.057,0,nul,nul,nul,nul,nul,nul,nul,nul,3.3,0.2,-0.2,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,5,K0 III,nul,0,0
+547,9.3743,0.0019,-0.0019,0,0.396,0.062,-0.062,0,nul,nul,nul,nul,nul,nul,nul,nul,0.0238,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,5.2,K2 IV/V,nul,0,0
+548,962,15,-15,0,0.28,0.02,-0.02,0,nul,nul,nul,nul,nul,nul,nul,nul,0.64,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,5.2,K2 IV/V,nul,0,0
+549,2172,158,-158,0,0.48,0.05,-0.05,0,nul,nul,nul,nul,nul,nul,nul,nul,0.54,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,5.2,K2 IV/V,nul,0,0
+550,956,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,0.37,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,4.1,G1 V,nul,0,0
+551,634.23,nul,nul,0,0.38,0.03,-0.03,0,nul,nul,nul,nul,nul,nul,nul,nul,3.69,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,4.5,G5,nul,0,0
+552,2950,340,-340,0,0.253,0.076,-0.076,0,nul,nul,nul,nul,nul,nul,nul,nul,3.82,0.59,-0.59,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,4.5,G5,nul,0,0
+553,6.838,0.001,-0.001,0,0.3,0.04,-0.04,0,nul,nul,nul,nul,nul,nul,nul,nul,0.94,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,4,G0,nul,0,0
+554,986,nul,nul,0,0.47,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,0.75,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,4,G0 V,nul,0,0
+555,3.097,nul,nul,0,0.03,0.003,-0.003,0,nul,nul,nul,nul,nul,nul,nul,nul,0.52,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,4.5,G5,nul,0,0
+556,3810,420,-420,0,0.252,0.033,-0.033,0,nul,nul,nul,nul,nul,nul,nul,nul,1.99,0.25,-0.25,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,4.5,G5,nul,0,0
+557,456.46,nul,nul,0,0.15,0.09,-0.09,0,nul,nul,nul,nul,nul,nul,nul,nul,1.26,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,4.5,G5,nul,0,0
+558,14.275,nul,nul,nul,0.23,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,0.0316,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,4.3,G3 V,nul,0,0
+559,2.21857578,0.0000008,-0.0000008,0,0,nul,nul,0,85.78,0.25,-0.25,0,1.15,0.039,-0.039,0,nul,nul,nul,nul,1.151,0.038,-0.038,0,1.004,0.089,-0.089,0,0.84,0.04,0,nul,0.75,0.03,0,nul,5.2,K2 V,nul,0,0
+560,1136.1,9.9,-9.9,0,0.531,0.028,-0.028,0,nul,nul,nul,nul,nul,nul,nul,nul,5.93,0.2,-0.2,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,4.5,G5,nul,0,0
+561,2891,85,-85,0,0.36,0.03,-0.03,0,nul,nul,nul,nul,nul,nul,nul,nul,1.502,0.13,-0.13,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,4.7,G7 IV-V,nul,0,0
+562,17.1,0.015,-0.015,0,0.01,0.1,-0.1,0,nul,nul,nul,nul,nul,nul,nul,nul,0.057,0.015,-0.015,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,4.7,G7 IV-V,nul,0,0
+563,1038.1,4.9,-4.9,0,0.18,0.02,-0.02,0,nul,nul,nul,nul,nul,nul,nul,nul,1.9,0.06,-0.06,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,4.5,G5 V,nul,0,0
+564,4885,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,3.1,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,3.8,F8 V,nul,0,0
+565,24.348,0.005,-0.005,0,0,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,0.72,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,5.15,K1/2 V,nul,0,0
+566,74.72,0.1,-0.1,0,0.13,0.04,-0.04,0,nul,nul,nul,nul,nul,nul,nul,nul,0.05318,0.00283,-0.00283,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,5.3,K3 V,nul,0,0
+567,525.8,9.2,-9.2,0,0.32,0.11,-0.11,0,nul,nul,nul,nul,nul,nul,nul,nul,0.07552,0.01573,-0.01573,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,5.3,K3 V,nul,0,0
+568,351.5,6,-6,0,0.149,0.06,-0.06,0,nul,nul,nul,nul,nul,nul,nul,nul,2.5,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,4.8,G8 IV,nul,0,0
+569,18.20163,0.0004,-0.0004,0,0.014,0.0044,-0.0044,0,nul,nul,nul,nul,nul,nul,nul,nul,3.7,0.3,-0.3,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,4.5,G5,nul,0,1
+570,1289,nul,nul,0,0.28,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,3,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,4.3,G3 V,nul,0,0
+571,3638,232,-185,0,0.66,0.18,-0.09,0,nul,nul,nul,nul,nul,nul,nul,nul,6.9,3.9,-1.1,0,nul,nul,nul,nul,nul,nul,nul,nul,1.29,0.08,0,0,1.73,0.21,0,0,4.1,G1 V,nul,0,0
+572,1333,15,-15,0,0.48,0.06,-0.06,0,nul,nul,nul,nul,nul,nul,nul,nul,2.58,0.16,-0.16,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,3.8,F8,nul,0,0
+573,1035.7,13,-13,0,0.22,0.07,-0.07,0,nul,nul,nul,nul,nul,nul,nul,nul,0.79,0.05,-0.05,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,4,G0,nul,0,0
+574,613.8,1.3,-1.4,0,0.04,0.04,-0.02,0,nul,nul,nul,nul,nul,nul,nul,nul,1.85,0.14,-0.08,0,nul,nul,nul,nul,nul,nul,nul,nul,1.44,0.09,0,0,4.3,0.09,0,0,4.8,G8 IV,nul,0,0
+575,825,5.1,-3.1,0,0.181,0.024,-0.017,0,nul,nul,nul,nul,nul,nul,nul,nul,0.895,0.123,-0.063,0,nul,nul,nul,nul,nul,nul,nul,nul,1.44,0.09,0,0,4.3,0.09,0,0,4.8,G8 IV,nul,0,0
+576,255.87,0.06,-0.06,0,0.435,0.001,-0.001,0,nul,nul,nul,nul,nul,nul,nul,nul,17.4,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,4.6,G6 V,nul,0,0
+577,1383.4,18.4,-18.4,0,0.267,0.021,-0.021,0,nul,nul,nul,nul,nul,nul,nul,nul,2.44,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,4.6,G6 V,nul,0,0
+578,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,24.09,8.379,-11.521,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,4.8,G8 V,nul,0,0
+579,1931,18,-18,0,0.131,0.023,-0.023,0,nul,nul,nul,nul,nul,nul,nul,nul,4.05,0.17,-0.17,0,nul,nul,nul,nul,nul,nul,nul,nul,1.02,nul,0,0,nul,nul,nul,nul,4.5,G5 V,nul,0,0
+580,34.873,nul,nul,nul,0.17,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,0.054,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,1.02,nul,0,0,nul,nul,nul,nul,4.5,G5 V,nul,0,0
+581,2831.6,150,-150,0,0.28,0.09,-0.09,0,nul,nul,nul,nul,nul,nul,nul,nul,1.68,0.3,-0.3,0,nul,nul,nul,nul,nul,nul,nul,nul,1.02,nul,0,0,nul,nul,nul,nul,4.5,G5 V,nul,0,0
+582,1733,74,-74,0,0.37,0.08,-0.08,0,nul,nul,nul,nul,nul,nul,nul,nul,0.266,0.032,-0.032,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,5.15,K1/2 V,nul,0,0
+583,279.8,0.1,-0.1,0,0.27,0.07,-0.07,0,nul,nul,nul,nul,nul,nul,nul,nul,1.37,0.07,-0.09,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,3.7,F7 V,nul,0,0
+584,610,13,-13,0,0.229,0.058,-0.058,0,nul,nul,nul,nul,nul,nul,nul,nul,2.2,0.1,-0.1,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,5,K0 III,nul,0,0
+585,161.97,0.97,-0.78,0,0.13,0.18,-0.05,0,nul,nul,nul,nul,0.56,0.06,-0.03,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,0.94,0.1,0,nul,0.9,0.06,0,nul,4.5,G5 V,nul,0,0
+586,1155.7,71.9,-37,0,0.27,0.22,-0.1,0,nul,nul,nul,nul,0.73,0.18,-0.05,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,0.94,0.1,0,nul,0.9,0.06,0,nul,4.5,G5 V,nul,0,0
+587,123,1,-1,0,0.32,0.1,-0.1,0,nul,nul,nul,nul,nul,nul,nul,nul,0.45,0.05,-0.05,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,4.2,G1/3 (V),nul,0,0
+588,875.5,5.8,-5.8,0,0.08,0.04,-0.04,0,nul,nul,nul,nul,nul,nul,nul,nul,9.9,1.7,-1.7,0,nul,nul,nul,nul,nul,nul,nul,nul,1.6,0.4,0,0,51.1,8.3,0,0,6.1,M1 III,nul,0,0
+589,3.52474859,0.00000038,-0.00000038,0,0,nul,nul,0,86.59,0.046,-0.046,0,0.714,0.017,-0.017,0,nul,nul,nul,nul,1.38,0.017,-0.017,0,0.362,0.006,-0.006,0,1.15,0.04,0,nul,1.16,0.01,0,nul,3.8,F8,nul,0,0
+590,442.1,0.4,-0.4,0,0.472,0.011,-0.011,0,nul,nul,nul,nul,nul,nul,nul,nul,1.23,0.03,-0.03,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,4.9,G8/K0 V,nul,0,0
+591,354.8,1.1,-1.1,0,0.094,0.052,-0.052,0,nul,nul,nul,nul,1.9,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,1.68,0.18,0,nul,5.1,0.4,0,nul,5,K0,nul,0,0
+592,2.245715,0.000028,-0.000028,0,0,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,0.45,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,3.8,F8 V,nul,0,0
+593,373.3,3.4,-3.4,0,0.111,0.06,-0.06,0,nul,nul,nul,nul,nul,nul,nul,nul,2.3,0.4,-0.4,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,4.8,G8 IV,nul,0,0
+594,951,42,-42,0,0.45,0.04,-0.04,0,nul,nul,nul,nul,nul,nul,nul,nul,4.5,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,4.05,G0/1 V,nul,0,0
+595,7.2825,nul,nul,nul,0.34,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,0.0087,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,5.3,K3 V,nul,0,0
+596,10.866,nul,nul,nul,0.38,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,0.0097,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,5.3,K3 V,nul,0,0
+597,191.99,nul,nul,nul,0.15,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,0.101,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,4,G0 V,nul,0,0
+598,2277,nul,nul,nul,0.19,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,0.246,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,4,G0 V,nul,0,0
+599,3.93,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,0.017,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,5.3,K3 V,nul,0,0
+600,567,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,0.33,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,5.3,K3 V,nul,0,0
+601,1311,49,-49,0,0.07,0.078,-0.078,0,nul,nul,nul,nul,nul,nul,nul,nul,1.26,0.13,-0.13,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,4,G0 V,nul,0,0
+602,1294,nul,nul,0,0.34,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,2.1,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,4.25,G2/3 IV,nul,0,0
+603,118.45,0.55,-0.55,0,0.37,0.06,-0.06,0,nul,nul,nul,nul,nul,nul,nul,nul,0.65,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,5,K0 V,nul,0,0
+604,7.126816,0.000039,-0.000039,0,0.1267,0.0052,-0.0052,0,nul,nul,nul,nul,nul,nul,nul,nul,1.39,0.11,-0.11,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,4.8,G8 IV/V,nul,0,1
+605,4270,220,-220,0,0.517,0.033,-0.033,0,nul,nul,nul,nul,nul,nul,nul,nul,2.6,0.15,-0.15,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,4.8,G8 IV/V,nul,0,1
+606,1319,4,-4,0,0.4,0.05,-0.05,0,nul,nul,nul,nul,nul,nul,nul,nul,13,0.8,-0.8,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,3.8,F8 V,nul,0,0
+607,225.7,0.4,-0.4,0,0.3,0.1,-0.1,0,nul,nul,nul,nul,nul,nul,nul,nul,0.21,0.02,-0.02,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,5.3,K3 V,nul,0,0
+608,5501,130,-119,0,0.77,0.003,-0.003,0,nul,nul,nul,nul,nul,nul,nul,nul,10.39,0.09,-0.09,0,nul,nul,nul,nul,nul,nul,nul,nul,1.05,0.02,0,0,1.91,0.03,0,0,4.8,G8 V,nul,0,0
+609,2093.3,32.7,-32.7,0,0.4,0.09,-0.09,0,nul,nul,nul,nul,1,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,1,0.1,0,nul,2.9,0.4,0,nul,nul,nul,nul,nul,nul
+610,3.8335,0.0013,-0.0013,0,0,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,0.06,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,4,G0,nul,0,0
+611,672.1,3.7,-3.7,0,0.14,0.05,-0.05,0,nul,nul,nul,nul,nul,nul,nul,nul,11.1,1.8,-1.8,0,nul,nul,nul,nul,nul,nul,nul,nul,1.2,0.3,0,0,49.7,9.5,0,0,6.2,M2 III,nul,0,0
+612,2209,103,-81,0,0.16,0.1,-0.07,0,nul,nul,nul,nul,nul,nul,nul,nul,1.06,0.09,-0.09,0,nul,nul,nul,nul,nul,nul,nul,nul,1.04,0.03,0,0,1.07,0.04,0,0,4.3,G3 V,nul,0,0
+613,3724.7,463,-463,0,0.51,0.1,-0.1,0,nul,nul,nul,nul,nul,nul,nul,nul,1.45,0.3,-0.3,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,4,G0,nul,0,0
+614,456.1,7.7,-5.8,0,0.08,0.17,-0.05,0,nul,nul,nul,nul,nul,nul,nul,nul,3.09,0.79,-0.79,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,3.7,F7 V,nul,0,0
+615,3999,469,-541,0,0.16,0.27,-0.22,0,nul,nul,nul,nul,nul,nul,nul,nul,1.9,0.67,-0.53,0,nul,nul,nul,nul,nul,nul,nul,nul,1.13,0.11,0,0,1.67,0.07,0,0,4.2,G2 V,nul,0,0
+616,572.38,0.61,-0.61,0,0.725,0.012,-0.012,0,nul,nul,nul,nul,nul,nul,nul,nul,7.75,0.65,-0.65,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,4.5,G5 V,nul,0,0
+617,26.73,0.02,-0.02,0,0.05,0.03,-0.03,0,nul,nul,nul,nul,nul,nul,nul,nul,0.71,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,4.2,G2 V,nul,0,0
+618,141.6,2.8,-2.8,0,0.1,0.08,-0.08,0,nul,nul,nul,nul,nul,nul,nul,nul,1.08,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,4,G0,nul,0,0
+619,192,0.22,-0.22,0,0.05,0.03,-0.03,0,nul,nul,nul,nul,nul,nul,nul,nul,6.575,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,1.5,0.3,0,0,10.9,0.6,0,0,5.5,K5,nul,0,0
+620,501.75,2.33,-2.33,0,0.15,0.02,-0.02,0,nul,nul,nul,nul,nul,nul,nul,nul,6.9,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul
+621,745.7,nul,nul,nul,0.4,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,5.3,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,5.2,K2,nul,0,0
+622,2443,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,2.54,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,4,G0,nul,0,0
+623,8.7836,0.0054,-0.0054,0,0,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,0.0265,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,6.2,M2,nul,0,0
+624,3.369,0.004,-0.004,0,0,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,0.76,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,4.5,G5,nul,0,0
+625,345.72,5.37,-5.37,0,0.52,0.08,-0.08,0,nul,nul,nul,nul,nul,nul,nul,nul,1.42,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul
+626,9017.8,3180.7,-3180.7,0,0.14,0.1,-0.1,0,nul,nul,nul,nul,15.04,10.55,-10.55,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul
+627,57,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,0.47,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul
+628,16.2,0.3,-0.3,0,0.25,0.05,-0.05,0,nul,nul,nul,nul,nul,nul,nul,nul,1.25,0.05,-0.05,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul
+629,6.673855,0.000019,-0.000019,0,0.1427,0.00094,-0.00094,0,nul,nul,nul,nul,nul,nul,nul,nul,3.88,0.32,-0.32,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul
+630,147.73,0.065,-0.065,0,0.164,0.012,-0.012,0,nul,nul,nul,nul,nul,nul,nul,nul,1.28,0.1,-0.1,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul
+631,952,15,-15,0,0.173,0.037,-0.037,0,nul,nul,nul,nul,nul,nul,nul,nul,0.57,0.052,-0.052,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul
+632,41.397,0.016,-0.016,0,0.314,0.086,-0.086,0,nul,nul,nul,nul,nul,nul,nul,nul,0.298,0.025,-0.025,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,6.4,M4,nul,0,0
+633,8.1352,nul,nul,nul,0.187,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,0.036,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,5.4,K4 V,nul,0,0
+634,32.03,nul,nul,nul,0.05,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,0.41,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,5.4,K4 V,nul,0,0
+635,431.7,nul,nul,nul,0.27,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,0.527,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,5.4,K4 V,nul,0,0
+636,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,6.28536,nul,nul,0,nul,nul,nul,nul,1.22,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,6.05,M0.5,nul,0,0
+637,124.6,nul,nul,0,0.23,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,9.18,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,1.54,0.05,0,0,nul,nul,nul,nul,4.8,G8,nul,0,0
+638,17337.5,15512.5,-15512.5,0,0.715,0.245,-0.245,0,nul,nul,nul,nul,nul,nul,nul,nul,9,6,-6,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,5.7,K7 V k,nul,0,0
+639,511.098,0.089,-0.089,0,0.7124,0.0039,-0.0039,0,nul,nul,nul,nul,nul,nul,nul,nul,8.82,0.72,-0.72,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,5.2,K2 III,nul,0,0
+640,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,23.04,4,-4,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,1.9,B9 V,nul,0,0
+641,111.7,0.7,-0.7,0,0.29,0.02,-0.02,0,nul,nul,nul,nul,nul,nul,nul,nul,2.1,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,6.3,M3 V,nul,0,0
+642,5.0505,0.0015,-0.0015,0,0.024,0.014,-0.014,0,nul,nul,nul,nul,nul,nul,nul,nul,1.068,0.038,-0.038,0,nul,nul,nul,nul,nul,nul,nul,nul,0.95,0.03,0,0,1,0.04,0,0,4.5,G5 V,nul,0,0
+643,311.288,2.1,-2.1,0,0.24,0.07,-0.07,0,nul,nul,nul,nul,nul,nul,nul,nul,1.94,0.18,-0.18,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,4,G0 V,nul,0,0
+644,170000,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,7,4,-2,0,nul,nul,nul,nul,1.2,0.1,-0.1,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,3.02,F0+ V ({lambda} Boo)...,nul,0,0
+645,69000,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,10,3,-3,0,nul,nul,nul,nul,1.2,0.1,0,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,3.02,F0+ V ({lambda} Boo)...,nul,0,0
+646,37000,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,10,3,-3,0,nul,nul,nul,nul,1.2,0.1,0,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,3.02,F0+ V ({lambda} Boo)...,nul,0,0
+647,18000,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,3.02,F0+ V ({lambda} Boo)...,nul,0,0
+648,1.217514,0.000015,-0.000015,0,0.0099,0.01,-0.0069,0,87.8,1.3,-1.9,0,27.23,0.5,-0.48,0,nul,nul,nul,nul,1.11,0.032,-0.022,0,24.7,1.4,-1.9,0,1.32,0.03,0,nul,1.46,0.04,0,nul,nul,nul,nul,nul,nul
+649,4.1137912,0.00001,-0.0000099,0,0,nul,nul,0,88.6,1,-1.4,0,1.522,0.078,-0.077,0,nul,nul,nul,nul,1.286,0.065,-0.047,0,nul,nul,nul,nul,1.31,0.03,0,nul,1.83,0.07,0,nul,3.8,F8,nul,0,1
+650,2.7033904,0.0000099,-0.00001,0,0,nul,nul,0,84.23,0.65,-0.58,0,1.477,0.066,-0.064,0,1.47,0.065,-0.064,0,1.345,0.072,-0.072,0,0.75,0.12,-0.1,0,1.28,0.06,0,0,1.47,0.07,0,0,nul,nul,nul,nul,nul
+651,7.8457,0.0002,-0.0002,0,0.22,0.12,-0.1,0,88.81,0.79,-0.91,0,0.43,0.045,-0.046,0,nul,nul,nul,nul,1.193,0.13,-0.077,0,0.311,0.069,-0.076,0,1.08,0.04,0,0,1.58,0.16,0,0,3.8,F8,nul,0,0
+652,2.47063,0.00001,-0.00001,0,0,nul,nul,0,83.62,0.14,-0.14,0,1.199,0.052,-0.052,0,nul,nul,nul,nul,1.272,0.041,-0.041,0,0.77,0.09,-0.09,0,0.98,0.06,0,nul,1,0.03,0,nul,4,G0 V,nul,0,0
+653,2.204737,0.000017,-0.000017,0,0,nul,nul,0,83.111,0.03,-0.03,0,1.776,0.077,-0.077,0,nul,nul,nul,nul,1.342,0.068,-0.068,0,nul,nul,nul,nul,1.47,0.08,0,nul,1.84,0.23,0,nul,nul,nul,nul,nul,nul
+654,4.8878162,0.0000071,-0.0000071,0,0.198,0.046,-0.046,0,88.5,0.6,-0.6,0,0.081,0.009,-0.009,0,nul,nul,nul,nul,0.422,0.014,-0.014,0,1.33,0.2,-0.2,0,0.81,0.02,0,0,0.75,0.02,0,0,5.4,K4,nul,0,0
+655,3.21346,0.00022,-0.00022,0,0,nul,nul,0,89.76,0.24,-2.05,0,0.077,0.012,-0.012,0,nul,nul,nul,nul,0.357,0.019,-0.019,0,1.91,0.36,-0.47,0,1.22,0.05,0,0,1.49,0.07,0,0,nul,nul,nul,nul,nul
+656,3.54846,0.000032,-0.000032,0,0.024,nul,nul,1,86.3,0.5,-0.5,0,2.114,0.056,-0.059,0,nul,nul,nul,nul,1.431,0.041,-0.052,0,0.894,0.079,-0.079,0,1.37,0.04,0,0,1.79,0.04,0,0,nul,nul,nul,nul,nul
+657,3.234723,0.000017,-0.000017,0,0,nul,nul,0,86.8,0.3,-0.3,0,0.669,0.025,-0.03,0,nul,nul,nul,nul,1.323,0.026,-0.029,0,0.352,0.018,-0.022,0,1.21,0.04,0,0,1.39,0.02,0,0,nul,nul,nul,nul,nul
+658,4.885525,0.00004,-0.00004,0,0,nul,nul,0,86.5,0.4,-0.4,0,0.433,0.04,-0.041,0,nul,nul,nul,nul,1.478,0.05,-0.051,0,0.166,0.019,-0.02,0,1.35,0.07,0,0,1.84,0.05,0,0,nul,nul,nul,nul,nul
+659,3.52254,0.00003,-0.00005,0,0,nul,nul,0,84.07,0.33,-0.33,0,0.603,0.13,-0.19,0,nul,nul,nul,nul,1.419,0.056,-0.058,0,0.261,0.071,-0.071,0,1.21,0.07,0,0,1.49,0.05,0,0,nul,nul,nul,nul,nul
+660,19.24,nul,nul,0,0.15,nul,nul,0,nul,nul,nul,nul,0.252,0.013,-0.013,0,nul,nul,nul,nul,0.842,0.069,-0.069,0,0.524,0.132,-0.132,0,1.07,0.05,0,0,1.02,0.05,0,0,nul,nul,nul,nul,nul
+661,38.91,nul,nul,0,0.13,nul,nul,0,nul,nul,nul,nul,0.171,0.013,-0.013,0,nul,nul,nul,nul,0.823,0.067,-0.067,0,0.383,0.098,-0.098,0,1.07,0.05,0,0,1.02,0.05,0,0,nul,nul,nul,nul,nul
+662,1.592851,0.000045,-0.000045,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,0.146,0.017,-0.012,0,nul,nul,nul,nul,1.07,0.05,0,0,1.02,0.05,0,0,nul,nul,nul,nul,nul
+663,0.837495,0.000004,-0.000005,0,0,nul,nul,0,84.4,1.1,-1.6,0,0.014,0.004,-0.004,0,nul,nul,nul,nul,0.126,0.003,-0.003,0,8.8,2.1,-2.9,0,0.9,0.06,0,0,1.06,0.02,0,0,nul,nul,nul,nul,nul
+664,45.29485,0.00065,-0.00076,0,0,nul,nul,0,89.65,0.09,-0.12,0,0.063,nul,nul,1,nul,nul,nul,nul,0.199,0.005,-0.005,0,10,nul,nul,1,0.9,0.06,0,0,1.06,0.02,0,0,nul,nul,nul,nul,nul
+665,10.3039,0.0006,-0.001,0,0.045,0.068,-0.042,0,89.64,0.36,-0.18,0,0.006,0.004,-0.003,0,nul,nul,nul,nul,0.161,0.003,-0.004,0,1.72,1.25,-0.91,0,0.95,0.1,0,0,1.1,0.1,0,0,nul,nul,nul,nul,nul
+666,13.0241,0.0013,-0.0008,0,0.026,0.063,-0.013,0,89.59,0.41,-0.16,0,0.009,0.009,-0.005,0,nul,nul,nul,nul,0.256,0.004,-0.005,0,0.66,0.66,-0.35,0,0.95,0.1,0,0,1.1,0.1,0,0,nul,nul,nul,nul,nul
+667,22.6845,0.0009,-0.0009,0,0.004,0.007,-0.002,0,89.67,0.13,-0.16,0,0.023,0.003,-0.005,0,nul,nul,nul,nul,0.278,0.005,-0.006,0,1.28,0.14,-0.27,0,0.95,0.1,0,0,1.1,0.1,0,0,nul,nul,nul,nul,nul
+668,31.9996,0.0008,-0.0012,0,0.012,0.006,-0.006,0,88.89,0.02,-0.02,0,0.025,0.005,-0.007,0,nul,nul,nul,nul,0.374,0.006,-0.008,0,0.58,0.11,-0.16,0,0.95,0.1,0,0,1.1,0.1,0,0,nul,nul,nul,nul,nul
+669,46.6888,0.0027,-0.0032,0,0.013,0.011,-0.009,0,89.47,0.04,-0.04,0,0.006,0.003,-0.003,0,nul,nul,nul,nul,0.222,0.004,-0.006,0,0.69,0.29,-0.32,0,0.95,0.1,0,0,1.1,0.1,0,0,nul,nul,nul,nul,nul
+670,118.3807,0.001,-0.0006,0,0.15,nul,nul,1,89.87,0.05,-0.06,0,0.079,nul,nul,1,nul,nul,nul,nul,0.297,0.005,-0.007,0,4,nul,nul,1,0.95,0.1,0,0,1.1,0.1,0,0,nul,nul,nul,nul,nul
+671,4.4379637,0.0000002,-0.0000002,0,0.01,nul,nul,1,88.76,0.08,-0.08,0,0.431,0.041,-0.04,0,nul,nul,nul,nul,1.695,0.028,-0.032,0,0.111,0.011,-0.009,0,1.17,0.05,0,0,1.48,0.03,0,0,nul,nul,nul,nul,nul
+672,1.7635892,0.0000014,-0.0000014,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,1.83,nul,nul,0,nul,nul,nul,nul,2.05,nul,0,0,1.76,0.01,0,0,nul,nul,nul,nul,nul
+673,6.790123,0.0000043,-0.0000043,0,0.035,0.02,-0.02,0,90,0,-2.8,0,8.4,0.35,-0.34,0,nul,nul,nul,nul,1.136,0.073,-0.054,0,7.1,1.1,-1.1,0,1.51,0.04,0,0,2.05,0.11,0,0,nul,nul,nul,nul,nul
+674,4.942782,0.0000013,-0.0000013,0,0.06,nul,nul,0,87.44,0.18,-0.2,0,0.66,0.08,-0.09,0,nul,nul,nul,nul,0.96,0.06,-0.07,0,0.93,0.18,-0.22,0,1.02,0.04,0,0,0.99,0.06,0,0,nul,nul,nul,nul,nul
+675,228.776,0.02,-0.037,0,0.0069,0.001,-0.0015,0,90.032,0.002,-0.002,0,0.333,0.016,-0.016,0,nul,nul,nul,nul,0.754,0.003,-0.003,0,0.964,0.047,-0.046,0,0.69,0,0,0,0.65,0,0,0,nul,nul,nul,nul,nul
+676,1.4857108,0.0000002,-0.0000002,0,0.011,nul,nul,1,87.2,0.15,-0.15,0,2.45,0.11,-0.11,0,nul,nul,nul,nul,1.31,0.02,-0.02,0,1.35,0.08,-0.08,0,1.16,0.06,0,0,1.05,0.03,0,0,4.2,G2 V,nul,0,0
+677,3.504725,0.000028,-0.000028,0,0,nul,nul,0,nul,nul,nul,nul,0.022,0.011,-0.011,0,nul,nul,nul,nul,0.178,0.009,-0.009,0,4.9,2.4,-2.4,0,0.97,0.04,0,0,1.11,0.05,0,0,nul,nul,nul,nul,nul
+678,7.64159,0.00003,-0.00003,0,0,nul,nul,0,87.68,0.22,-0.22,0,0.054,0.006,-0.006,0,nul,nul,nul,nul,0.49,0.023,-0.023,0,0.59,0.07,-0.07,0,0.97,0.04,0,0,1.11,0.05,0,0,nul,nul,nul,nul,nul
+679,14.85888,0.00004,-0.00004,0,0,nul,nul,0,88.07,0.1,-0.1,0,0.052,0.004,-0.004,0,nul,nul,nul,nul,0.623,0.029,-0.029,0,0.27,0.03,-0.03,0,0.97,0.04,0,0,1.11,0.05,0,0,nul,nul,nul,nul,nul
+680,9.2869944,0.0000088,-0.0000088,0,0,nul,nul,0,89.94,0.06,-0.44,0,0.064,nul,nul,1,nul,nul,nul,nul,0.197,0.004,-0.004,0,10.4,nul,nul,1,0.94,0.04,0,0,0.85,0.02,0,0,nul,nul,nul,nul,nul
+681,160,nul,nul,1,nul,nul,nul,nul,nul,nul,nul,nul,6,nul,nul,1,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,0.94,0.04,0,0,0.85,0.02,0,0,nul,nul,nul,nul,nul
+682,3.6961219,0.0000043,-0.0000064,0,0.32,nul,nul,1,86.5,0.36,-0.31,0,0.027,0.007,-0.007,0,nul,nul,nul,nul,0.17,0.011,-0.019,0,6.5,2,-2.7,0,0.91,0.04,0,0,0.94,0.06,0,0,nul,nul,nul,nul,nul
+683,10.854092,0.000013,-0.000013,0,0.4,nul,nul,1,88.39,0.16,-0.14,0,0.051,0.01,-0.012,0,nul,nul,nul,nul,0.274,0.018,-0.028,0,2.91,0.85,-1.08,0,0.91,0.04,0,0,0.94,0.06,0,0,nul,nul,nul,nul,nul
+684,77.61184,0.00015,-0.00037,0,0.6,nul,nul,1,89.57,0.043,-0.048,0,0.063,nul,nul,1,nul,nul,nul,nul,0.245,0.015,-0.027,0,4.07,nul,nul,1,0.91,0.04,0,0,0.94,0.06,0,0,nul,nul,nul,nul,nul
+685,6.098493,0.000065,-0.000065,0,0.28,nul,nul,1,87.5,0.33,-0.34,0,0.01,nul,nul,1,nul,nul,nul,nul,0.077,0.007,-0.009,0,nul,nul,nul,nul,0.91,0.04,0,0,0.94,0.06,0,0,nul,nul,nul,nul,nul
+686,19.57706,0.00052,-0.00052,0,0.32,nul,nul,1,88.68,0.14,-0.17,0,0.045,nul,nul,1,nul,nul,nul,nul,0.092,0.009,-0.012,0,nul,nul,nul,nul,0.91,0.04,0,0,0.94,0.06,0,0,nul,nul,nul,nul,nul
+687,2.785755,0.000031,-0.000034,0,0,nul,nul,0,82.58,0.28,-0.31,0,0.033,nul,nul,1,nul,nul,nul,nul,0.146,0.003,-0.004,0,12.9,nul,nul,1,1.34,0.01,0,0,1.86,0.02,0,0,3.6,F6 IV,nul,0,0
+688,289.8623,0.0016,-0.002,0,0,nul,nul,0,89.764,0.025,-0.042,0,0.113,nul,nul,1,nul,nul,nul,nul,0.212,0.012,-0.012,0,14.7,nul,nul,1,0.97,0.06,0,0,0.98,0.02,0,0,4.5,G5 V,nul,nul,0
+689,7.1073,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,0.8,nul,nul,1,nul,nul,nul,nul,0.17,nul,nul,0,nul,nul,nul,nul,1.11,0.09,0,0,1.52,0.24,0,0,nul,nul,nul,nul,nul
+690,10.7421,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,2.7,nul,nul,1,nul,nul,nul,nul,0.285,nul,nul,0,nul,nul,nul,nul,1.11,0.09,0,0,1.52,0.24,0,0,nul,nul,nul,nul,nul
+691,8.1453,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,1.6,nul,nul,1,nul,nul,nul,nul,0.214,nul,nul,0,nul,nul,nul,nul,1.03,0.11,0,0,1.07,0.16,0,0,nul,nul,nul,nul,nul
+692,12.3335,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,1.6,nul,nul,1,nul,nul,nul,nul,0.25,nul,nul,0,nul,nul,nul,nul,1.03,0.11,0,0,1.07,0.16,0,0,nul,nul,nul,nul,nul
+693,6.2385,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,12.7,nul,nul,1,nul,nul,nul,nul,0.232,nul,nul,0,nul,nul,nul,nul,1.19,0.06,0,0,1.31,0.02,0,0,nul,nul,nul,nul,nul
+694,12.7204,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,4.16,nul,nul,1,nul,nul,nul,nul,0.401,nul,nul,0,nul,nul,nul,nul,1.19,0.06,0,0,1.31,0.02,0,0,nul,nul,nul,nul,nul
+695,123,2,-2,0,nul,nul,nul,nul,nul,nul,nul,nul,0.283,0.043,-0.043,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,1.19,0.06,0,0,1.31,0.02,0,0,nul,nul,nul,nul,nul
+696,12.2829,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,0.38,nul,nul,1,nul,nul,nul,nul,0.321,nul,nul,0,nul,nul,nul,nul,0.65,0.03,0,0,0.59,0.03,0,0,nul,nul,nul,nul,nul
+697,17.2513,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,0.375,nul,nul,1,nul,nul,nul,nul,0.321,nul,nul,0,nul,nul,nul,nul,0.65,0.03,0,0,0.59,0.03,0,0,nul,nul,nul,nul,nul
+698,15.3348,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,9.11,nul,nul,1,nul,nul,nul,nul,0.357,nul,nul,0,nul,nul,nul,nul,0.8,0.07,0,0,0.77,0.03,0,0,nul,nul,nul,nul,nul
+699,31.3309,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,13.8,nul,nul,1,nul,nul,nul,nul,0.437,nul,nul,0,nul,nul,nul,nul,0.8,0.07,0,0,0.77,0.03,0,0,nul,nul,nul,nul,nul
+700,5.9123,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,1.51,nul,nul,1,nul,nul,nul,nul,0.321,nul,nul,0,nul,nul,nul,nul,0.75,nul,0,0,0.7,nul,0,0,nul,nul,nul,nul,nul
+701,8.9858,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,1.36,nul,nul,1,nul,nul,nul,nul,0.303,nul,nul,0,nul,nul,nul,nul,0.75,nul,0,0,0.7,nul,0,0,nul,nul,nul,nul,nul
+702,10.3376,0.0002,-0.0002,0,nul,nul,nul,nul,nul,nul,nul,nul,0.4,nul,nul,1,nul,nul,nul,nul,0.321,0.045,-0.045,0,nul,nul,nul,nul,1,0.12,0,0,0.96,0.14,0,0,nul,nul,nul,nul,nul
+703,13.2907,0.0004,-0.0004,0,nul,nul,nul,nul,nul,nul,nul,nul,0.3,nul,nul,1,nul,nul,nul,nul,0.259,0.036,-0.036,0,nul,nul,nul,nul,1,0.12,0,0,0.96,0.14,0,0,nul,nul,nul,nul,nul
+704,29.33434,0.00815,-0.00815,0,0.042,0.003,-0.003,0,90.179,0.167,-0.167,0,0.036,0.004,-0.004,0,nul,nul,nul,nul,0.348,0.018,-0.018,0,1.02,0.13,-0.13,0,0.99,0.08,0,0,0.95,0.12,0,0,nul,nul,nul,nul,nul
+705,60.323105,0.000244,-0.000244,0,0.0111,0.001,-0.001,0,90.323,0.03,-0.03,0,2.01,0.16,-0.16,0,nul,nul,nul,nul,1.097,0.036,-0.036,0,1.88,0.17,-0.17,0,0.99,0.08,0,0,0.95,0.12,0,0,nul,nul,nul,nul,nul
+706,143.34394,0.00858,-0.00858,0,0.022,0.005,-0.005,0,89.841,0.02,-0.02,0,0.073,0.008,-0.008,0,nul,nul,nul,nul,0.785,0.045,-0.045,0,0.19,0.02,-0.02,0,0.99,0.08,0,0,0.95,0.12,0,0,nul,nul,nul,nul,nul
+707,20.8613,0.0002,-0.0002,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,0.491,0.098,-0.098,0,nul,nul,nul,nul,1.21,0.17,0,0,1.22,0.24,0,0,nul,nul,nul,nul,nul
+708,42.6318,0.0005,-0.0005,0,nul,nul,nul,nul,nul,nul,nul,nul,4.7,nul,nul,1,nul,nul,nul,nul,0.473,0.098,-0.098,0,nul,nul,nul,nul,1.21,0.17,0,0,1.22,0.24,0,0,nul,nul,nul,nul,nul
+709,5.90124,0.0001,-0.0001,0,nul,nul,nul,nul,nul,nul,nul,nul,4.1,nul,nul,1,nul,nul,nul,nul,0.196,0.018,-0.018,0,nul,nul,nul,nul,0.54,0.02,0,0,0.53,0.02,0,0,6.1,M1 V,nul,0,0
+710,8.7522,0.0003,-0.0003,0,nul,nul,nul,nul,nul,nul,nul,nul,0.5,nul,nul,1,nul,nul,nul,nul,0.178,0.018,-0.018,0,nul,nul,nul,nul,0.54,0.02,0,0,0.53,0.02,0,0,6.1,M1 V,nul,0,0
+711,22.7802,0.0005,-0.0005,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,0.241,0.009,-0.009,0,nul,nul,nul,nul,0.54,0.02,0,0,0.53,0.02,0,0,6.1,M1 V,nul,0,0
+712,2.896,0.0003,-0.0003,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,0.134,0.009,-0.009,0,nul,nul,nul,nul,0.54,0.02,0,0,0.53,0.02,0,0,6.1,M1 V,nul,0,0
+713,0.74296,0.00007,-0.00007,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,0.072,0.004,-0.004,0,nul,nul,nul,nul,0.54,0.02,0,0,0.53,0.02,0,0,6.1,M1 V,nul,0,0
+714,5.66793,0.00012,-0.00012,0,0,nul,nul,0,86.39,0.96,-1.62,0,nul,nul,nul,nul,nul,nul,nul,nul,0.155,0.016,-0.016,0,nul,nul,nul,nul,1.29,0.06,0,0,1.82,0.14,0,0,nul,nul,nul,nul,nul
+715,13.17562,0.00014,-0.00014,0,0,nul,nul,0,88.19,0.58,-1.06,0,nul,nul,nul,nul,nul,nul,nul,nul,0.285,0.027,-0.027,0,nul,nul,nul,nul,1.29,0.06,0,0,1.82,0.14,0,0,nul,nul,nul,nul,nul
+716,21.77596,0.00011,-0.00011,0,0,nul,nul,0,88.71,0.61,-0.48,0,nul,nul,nul,nul,nul,nul,nul,nul,0.477,0.044,-0.044,0,nul,nul,nul,nul,1.29,0.06,0,0,1.82,0.14,0,0,nul,nul,nul,nul,nul
+717,31.7844,0.00039,-0.00039,0,0,nul,nul,0,88.94,0.45,-0.35,0,nul,nul,nul,nul,nul,nul,nul,nul,0.359,0.034,-0.034,0,nul,nul,nul,nul,1.29,0.06,0,0,1.82,0.14,0,0,nul,nul,nul,nul,nul
+718,41.02902,0.00042,-0.00042,0,0,nul,nul,0,89.17,0.33,-0.42,0,nul,nul,nul,nul,nul,nul,nul,nul,0.398,0.037,-0.037,0,nul,nul,nul,nul,1.29,0.06,0,0,1.82,0.14,0,0,nul,nul,nul,nul,nul
+719,288.822,0.063,-0.081,0,0.182,0.016,-0.02,0,90.355,0.026,-0.018,0,0.22,0.011,-0.01,0,nul,nul,nul,nul,0.764,0.012,-0.014,0,0.613,0.045,-0.041,0,1.05,0,0,0,1.16,0,0,0,nul,nul,nul,nul,nul
+720,131.458,0.077,-0.105,0,0.042,0.007,-0.004,0,90.76,0.12,-0.09,0,0.127,0.02,-0.02,0,nul,nul,nul,nul,0.728,0.014,-0.014,0,0.41,0.07,-0.069,0,0.89,0.01,0,0,1.03,0,0,0,nul,nul,nul,nul,nul
+721,13.83989,0.00082,-0.0006,0,0.039,nul,nul,1,90.01,0.69,-0.71,0,0.014,0.001,-0.001,0,nul,nul,nul,nul,0.133,0.003,-0.003,0,7.46,0.74,-0.59,0,1.07,0.04,0,0,1.63,0.02,0,0,nul,nul,nul,nul,nul
+722,16.23855,0.00038,-0.00054,0,0.033,nul,nul,1,89.98,0.54,-0.53,0,0.025,0.002,-0.001,0,nul,nul,nul,nul,0.328,0.005,-0.005,0,0.89,0.07,-0.05,0,1.07,0.04,0,0,1.63,0.02,0,0,nul,nul,nul,nul,nul
+723,13.367308,0.000058,-0.000085,0,nul,nul,nul,nul,88.63,0.3,-0.53,0,nul,nul,nul,nul,nul,nul,nul,nul,0.027,0.005,-0.007,0,nul,nul,nul,nul,0.8,0.07,0,0,0.77,0.03,0,0,nul,nul,nul,nul,nul
+724,21.301886,0.000046,-0.000044,0,nul,nul,nul,nul,89.07,0.19,-0.33,0,nul,nul,nul,nul,nul,nul,nul,nul,0.066,0.006,-0.007,0,nul,nul,nul,nul,0.8,0.07,0,0,0.77,0.03,0,0,nul,nul,nul,nul,nul
+725,39.792187,0.00004,-0.000043,0,nul,nul,nul,nul,89.335,0.043,-0.047,0,nul,nul,nul,nul,nul,nul,nul,nul,0.178,0.01,-0.012,0,nul,nul,nul,nul,0.8,0.07,0,0,0.77,0.03,0,0,nul,nul,nul,nul,nul
+726,105.599,0.038,-0.053,0,0.032,nul,nul,1,89.442,0.03,-0.026,0,0.384,nul,nul,1,nul,nul,nul,nul,0.384,0.01,-0.01,0,nul,nul,nul,nul,0.94,0.06,0,0,1.75,0.03,0,0,4.4,G4 V,nul,0,0
+727,21.0874,0.0002,-0.0002,0,0.121,0.022,-0.023,0,88.83,0.59,-0.4,0,18,0.93,-0.91,0,nul,nul,nul,nul,1.22,0.12,-0.1,0,12.4,3.4,-2.6,0,1.1,0.07,0,0,1.39,0.11,0,0,3.7,F7 IV,nul,0,0
+728,6.87349,0.00064,-0.00064,0,0,nul,nul,0,89.7,0.3,-0.1,0,2.2,0.4,-0.4,0,nul,nul,nul,nul,1.17,0.04,-0.04,0,1.68,0.53,-0.43,0,1.48,0.06,0,0,2.13,0.06,0,0,3.5,F5 IV,nul,0,0
+729,1.855558,0.000007,-0.000007,0,0,nul,nul,0,88.3,0.7,-0.7,0,0.55,0.09,-0.09,0,nul,nul,nul,nul,0.89,0.05,-0.05,0,1.1,0.18,-0.18,0,1.12,0.07,0,0,1.02,0.03,0,0,4.6,G6 V,nul,0,0
+730,1.2137672,0.0000046,-0.0000046,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,0.07,0.02,-0.02,0,nul,nul,nul,nul,0.13,0.05,0,0,0.17,0.04,0,0,6,M,nul,nul,0
+731,0.45328509,0.00000097,-0.00000097,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,0.065,0.018,-0.018,0,nul,nul,nul,nul,0.13,0.05,0,0,0.17,0.04,0,0,6,M,nul,nul,0
+732,1.865169,0.000014,-0.000014,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,0.051,0.016,-0.016,0,nul,nul,nul,nul,0.13,0.05,0,0,0.17,0.04,0,0,6,M,nul,nul,0
+733,3.024095,0.000021,-0.000021,0,0.025,nul,nul,1,84.35,0.47,-0.4,0,3.23,0.19,-0.19,0,nul,nul,nul,nul,1.2,0.06,-0.06,0,2.33,0.36,-0.36,0,1.32,0.09,0,0,1.42,0.07,0,0,4,G0 IV-V,nul,0,0
+734,3.24674,0.000018,-0.000018,0,0.021,nul,nul,1,83.78,0.65,-0.55,0,1.02,0.07,-0.07,0,nul,nul,nul,nul,1.24,0.07,-0.07,0,0.65,0.12,-0.12,0,1.19,0.1,0,0,1.52,0.09,0,0,4.2,G2 IV,nul,0,0
+735,2.455239,0.000004,-0.000004,0,0.11,0.1,-0.09,0,87,0.7,-0.7,0,0.505,0.09,-0.09,0,nul,nul,nul,nul,0.96,0.11,-0.11,0,0.8,0.5,-0.5,0,0.59,0.06,0,0,0.55,0.11,0,0,6,M,nul,nul,0
+736,33.60134,0.00021,-0.0002,0,0.01,0.01,-0.01,0,89.038,0.075,-0.067,0,6,nul,nul,1,nul,nul,nul,nul,0.808,0.042,-0.043,0,14,nul,nul,1,0.9,0.04,0,0,0.94,0.04,0,0,nul,nul,nul,nul,nul
+737,57.011,0.051,-0.061,0,0.0146,0.0034,-0.0036,0,87.4,1.6,-1,0,0.376,0.021,-0.019,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,0.9,0.04,0,0,0.94,0.04,0,0,nul,nul,nul,nul,nul
+738,49.532,0.04,-0.027,0,0.035,nul,nul,1,89.7,0.5,-0.16,0,2,nul,nul,1,nul,nul,nul,nul,0.27,0.011,-0.011,0,nul,nul,nul,nul,1.05,0.05,0,0,0.96,0.02,0,0,nul,nul,nul,nul,nul
+739,303.137,0.072,-0.02,0,0.411,nul,nul,1,89.825,0.009,-0.01,0,28,nul,nul,1,nul,nul,nul,nul,0.411,0.018,-0.018,0,nul,nul,nul,nul,1.05,0.05,0,0,0.96,0.02,0,0,nul,nul,nul,nul,nul
+740,4.7779803,0.000014,-0.000014,0,nul,nul,nul,nul,nul,nul,nul,nul,5.94,nul,nul,1,nul,nul,nul,nul,0.191,nul,nul,0,nul,nul,nul,nul,0.88,0.06,0,0,0.89,0.05,0,0,nul,nul,nul,nul,nul
+741,9.6739283,0.00002,-0.00002,0,nul,nul,nul,nul,nul,nul,nul,nul,11.61,nul,nul,1,nul,nul,nul,nul,0.28,nul,nul,0,nul,nul,nul,nul,0.88,0.06,0,0,0.89,0.05,0,0,nul,nul,nul,nul,nul
+742,42.8961,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,0.025,0.0145,-0.0145,0,nul,nul,nul,nul,0.182,0.01,-0.01,0,5.08,3.12,-3.12,0,0.88,0.06,0,0,0.89,0.05,0,0,nul,nul,nul,nul,nul
+743,982,8,-8,0,nul,nul,nul,nul,nul,nul,nul,nul,2.067,0.079,-0.079,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,0.88,0.06,0,0,0.89,0.05,0,0,nul,nul,nul,nul,nul
+744,7.2037945,0.000022,-0.000022,0,nul,nul,nul,nul,nul,nul,nul,nul,0.98,nul,nul,1,nul,nul,nul,nul,0.243,nul,nul,0,nul,nul,nul,nul,0.55,nul,0,0,0.53,nul,0,0,nul,nul,nul,nul,nul
+745,10.9129343,0.000069,-0.000069,0,nul,nul,nul,nul,nul,nul,nul,nul,0.72,nul,nul,1,nul,nul,nul,nul,0.227,nul,nul,0,nul,nul,nul,nul,0.55,nul,0,0,0.53,nul,0,0,nul,nul,nul,nul,nul
+746,7.81254,0.0001,-0.0001,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,0.153,0.004,-0.009,0,nul,nul,nul,nul,1.23,nul,0,0,1.88,nul,0,0,nul,nul,nul,nul,nul
+747,9.37647,0.00004,-0.00004,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,0.194,0.006,-0.007,0,nul,nul,nul,nul,1.23,nul,0,0,1.88,nul,0,0,nul,nul,nul,nul,nul
+748,45.154,0.0002,-0.0002,0,0.04,0.01,-0.01,0,nul,nul,nul,nul,0.007,0.005,-0.003,0,nul,nul,nul,nul,0.633,0.027,-0.027,0,0.03,0.02,-0.01,0,1.04,0.12,0,0,0.94,0.5,0,0,nul,nul,nul,nul,nul
+749,85.312,0.003,-0.002,0,0.014,0.013,-0.009,0,nul,nul,nul,nul,0.013,0.001,-0.001,0,nul,nul,nul,nul,0.803,0.25,-0.152,0,0.03,0.02,-0.03,0,1.04,0.12,0,0,0.94,0.5,0,0,nul,nul,nul,nul,nul
+750,nul,nul,nul,nul,0.008,0.011,-0.008,0,nul,nul,nul,nul,0.024,0.003,-0.003,0,nul,nul,nul,nul,0.865,0.045,-0.045,0,0.046,0.009,-0.009,0,1.04,0.12,0,0,0.94,0.5,0,0,nul,nul,nul,nul,nul
+751,7.8773565,0.000038,-0.000038,0,nul,nul,nul,nul,nul,nul,nul,nul,8.7,nul,nul,1,nul,nul,nul,nul,0.187,nul,nul,0,nul,nul,nul,nul,0.54,nul,0,0,0.52,nul,0,0,nul,nul,nul,nul,nul
+752,16.3850021,0.00014,-0.00014,0,nul,nul,nul,nul,nul,nul,nul,nul,10.41,nul,nul,1,nul,nul,nul,nul,0.164,nul,nul,0,nul,nul,nul,nul,0.54,nul,0,0,0.52,nul,0,0,nul,nul,nul,nul,nul
+753,18.6489525,0.00016,-0.00016,0,nul,nul,nul,nul,nul,nul,nul,nul,18.41,nul,nul,1,nul,nul,nul,nul,0.258,nul,nul,0,nul,nul,nul,nul,0.98,nul,0,0,0.89,nul,0,0,nul,nul,nul,nul,nul
+754,38.5583038,0.00041,-0.00041,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,0.283,nul,nul,0,nul,nul,nul,nul,0.98,nul,0,0,0.89,nul,0,0,nul,nul,nul,nul,nul
+755,8.0109434,0.000069,-0.000069,0,nul,nul,nul,nul,nul,nul,nul,nul,0.92,nul,nul,1,nul,nul,nul,nul,0.187,nul,nul,0,nul,nul,nul,nul,0.51,nul,0,0,0.5,nul,0,0,nul,nul,nul,nul,nul
+756,12.0717249,0.00029,-0.00029,0,nul,nul,nul,nul,nul,nul,nul,nul,0.37,nul,nul,1,nul,nul,nul,nul,0.11,nul,nul,0,nul,nul,nul,nul,0.51,nul,0,0,0.5,nul,0,0,nul,nul,nul,nul,nul
+757,27.9481449,0.00024,-0.00024,0,nul,nul,nul,nul,nul,nul,nul,nul,1.49,nul,nul,1,nul,nul,nul,nul,0.217,nul,nul,0,nul,nul,nul,nul,0.62,nul,0,0,0.58,nul,0,0,nul,nul,nul,nul,nul
+758,42.1516418,0.00053,-0.00053,0,nul,nul,nul,nul,nul,nul,nul,nul,1.11,nul,nul,1,nul,nul,nul,nul,0.197,nul,nul,0,nul,nul,nul,nul,0.62,nul,0,0,0.58,nul,0,0,nul,nul,nul,nul,nul
+759,10.5016,0.0011,-0.001,0,nul,nul,nul,nul,nul,nul,nul,nul,0.07,0.012,-0.011,0,nul,nul,nul,nul,0.581,0.026,-0.025,0,0.442,0.08,-0.072,0,1.32,0.13,0,0,4.23,0.15,0,0,nul,nul,nul,nul,nul
+760,21.40239,0.00059,-0.00062,0,nul,nul,nul,nul,nul,nul,nul,nul,0.57,0.066,-0.06,0,nul,nul,nul,nul,0.874,0.041,-0.041,0,1.06,0.14,-0.13,0,1.32,0.13,0,0,4.23,0.15,0,0,nul,nul,nul,nul,nul
+761,5.7293196,0.000018,-0.000018,0,nul,nul,nul,nul,nul,nul,nul,nul,18.86,nul,nul,1,nul,nul,nul,nul,0.195,nul,nul,0,nul,nul,nul,nul,0.83,nul,0,0,0.73,nul,0,0,nul,nul,nul,nul,nul
+762,11.6092567,0.000086,-0.000086,0,nul,nul,nul,nul,nul,nul,nul,nul,6.95,nul,nul,1,nul,nul,nul,nul,0.138,nul,nul,0,nul,nul,nul,nul,0.83,nul,0,0,0.73,nul,0,0,nul,nul,nul,nul,nul
+763,10.2184954,0.00015,-0.00015,0,nul,nul,nul,nul,nul,nul,nul,nul,1.39,nul,nul,1,nul,nul,nul,nul,0.248,nul,nul,0,nul,nul,nul,nul,0.95,nul,0,0,1.03,nul,0,0,nul,nul,nul,nul,nul
+764,15.5741568,0.00027,-0.00027,0,nul,nul,nul,nul,nul,nul,nul,nul,2.19,nul,nul,1,nul,nul,nul,nul,0.255,nul,nul,0,nul,nul,nul,nul,0.95,nul,0,0,1.03,nul,0,0,nul,nul,nul,nul,nul
+765,11.8681707,0.00036,-0.00036,0,nul,nul,nul,nul,nul,nul,nul,nul,2.05,nul,nul,1,nul,nul,nul,nul,0.098,nul,nul,0,nul,nul,nul,nul,1.04,nul,0,0,0.94,nul,0,0,nul,nul,nul,nul,nul
+766,17.9801235,0.0003,-0.0003,0,nul,nul,nul,nul,nul,nul,nul,nul,1.37,nul,nul,1,nul,nul,nul,nul,0.177,nul,nul,0,nul,nul,nul,nul,1.04,nul,0,0,0.94,nul,0,0,nul,nul,nul,nul,nul
+767,7.1316185,0.000093,-0.000093,0,nul,nul,nul,nul,nul,nul,nul,nul,0.25,nul,nul,1,nul,nul,nul,nul,0.203,nul,nul,0,nul,nul,nul,nul,1.11,nul,0,0,1.5,nul,0,0,nul,nul,nul,nul,nul
+768,8.9193459,0.00011,-0.00011,0,nul,nul,nul,nul,nul,nul,nul,nul,0.56,nul,nul,1,nul,nul,nul,nul,0.22,nul,nul,0,nul,nul,nul,nul,1.11,nul,0,0,1.5,nul,0,0,nul,nul,nul,nul,nul
+769,11.9016171,0.0002,-0.0002,0,nul,nul,nul,nul,nul,nul,nul,nul,0.68,nul,nul,1,nul,nul,nul,nul,0.227,nul,nul,0,nul,nul,nul,nul,1.11,nul,0,0,1.5,nul,0,0,nul,nul,nul,nul,nul
+770,59.87756,0.0002,-0.0002,0,0.25,nul,nul,1,89.8,nul,nul,-1,nul,nul,nul,nul,nul,nul,nul,nul,0.192,0.012,-0.012,0,nul,nul,nul,nul,0.64,0.04,0,0,0.62,0.02,0,0,5.7,K7 V,nul,0,0
+771,5.714932,0.000009,-0.000009,0,nul,nul,nul,nul,89.2,0.4,-0.4,0,0.03,nul,nul,1,nul,nul,nul,nul,0.117,0.004,-0.004,0,nul,nul,nul,nul,0.69,0.02,0,0,0.64,0.02,0,0,5.2,K2 V,nul,0,0
+772,12.4417,0.0001,-0.0001,0,nul,nul,nul,nul,89.7,0.2,-0.2,0,0.013,nul,nul,1,nul,nul,nul,nul,0.048,0.003,-0.003,0,nul,nul,nul,nul,0.69,0.02,0,0,0.64,0.02,0,0,5.2,K2 V,nul,0,0
+773,18.16406,0.00002,-0.00002,0,nul,nul,nul,nul,89.7,0.3,-0.3,0,0.044,nul,nul,1,nul,nul,nul,nul,0.174,0.006,-0.006,0,nul,nul,nul,nul,0.69,0.02,0,0,0.64,0.02,0,0,5.2,K2 V,nul,0,0
+774,122.3874,0.0008,-0.0008,0,nul,nul,nul,nul,89.98,0.02,-0.02,0,0.113,nul,nul,1,nul,nul,nul,nul,0.144,0.004,-0.004,0,nul,nul,nul,nul,0.69,0.02,0,0,0.64,0.02,0,0,5.2,K2 V,nul,0,0
+775,267.291,0.005,-0.005,0,nul,nul,nul,nul,89.9,0.03,-0.03,0,0.11,nul,nul,1,nul,nul,nul,nul,0.126,0.006,-0.006,0,nul,nul,nul,nul,0.69,0.02,0,0,0.64,0.02,0,0,5.2,K2 V,nul,0,0
+776,9.4341505,0.000001,-0.000001,0,0.45,nul,nul,1,87.806,0.018,-0.019,0,0.378,nul,nul,1,nul,nul,nul,nul,0.545,0.018,-0.018,0,3,nul,nul,1,0.98,0.04,0,0,0.9,0.03,0,0,nul,nul,nul,nul,nul
+777,138.317,0.04,-0.027,0,0.0702,0.0029,-0.0039,0,90.05,0.053,-0.053,0,0.531,nul,nul,1,nul,nul,nul,nul,0.551,0.015,-0.015,0,nul,nul,nul,nul,1.53,0.09,0,0,1.73,0.04,0,0,3,F,nul,0,0
+778,2.15491,0.000005,-0.000005,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,0.127,0.003,-0.003,0,nul,nul,nul,nul,1.25,0.06,0,0,1.41,0.03,0,0,nul,nul,nul,nul,nul
+779,5.859944,0.000003,-0.000003,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,0.23,0.005,-0.005,0,nul,nul,nul,nul,1.25,0.06,0,0,1.41,0.03,0,0,nul,nul,nul,nul,nul
+780,8.13123,0.00002,-0.00002,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,0.136,0.004,-0.004,0,nul,nul,nul,nul,1.25,0.06,0,0,1.41,0.03,0,0,nul,nul,nul,nul,nul
+781,17.815815,0.000075,-0.000075,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,0.25,0.014,-0.014,0,nul,nul,nul,nul,1.04,0.04,0,0,0.97,0.04,0,0,4,G0 V,nul,0,0
+782,15.7259,0.00011,-0.00011,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,0.262,0.014,-0.014,0,nul,nul,nul,nul,0.86,0.03,0,0,0.78,0.03,0,0,4.9,G9 V,nul,0,0
+783,5.398763,0.000004,-0.000004,0,0,nul,nul,0,87.6,0.9,-0.9,0,0.026,0.007,-0.008,0,nul,nul,nul,nul,0.206,0.005,-0.008,0,3.32,0.86,-0.98,0,1.08,0.05,0,0,1.24,0.02,0,0,nul,nul,nul,nul,nul
+784,9.605085,0.000072,-0.000072,0,0,nul,nul,0,86.93,0.41,-0.41,0,0.015,0.008,-0.011,0,nul,nul,nul,nul,0.085,0.003,-0.004,0,28,13,-23,0,1.08,0.05,0,0,1.24,0.02,0,0,nul,nul,nul,nul,nul
+785,580,15,-15,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,0.947,0.035,-0.035,0,nul,nul,nul,nul,nul,nul,nul,nul,1.08,0.05,0,0,1.24,0.02,0,0,nul,nul,nul,nul,nul
+786,13.722341,0.000035,-0.000036,0,0.16,0.17,-0.001,0,89.62,0.26,-0.45,0,nul,nul,nul,nul,nul,nul,nul,nul,0.2,0.039,-0.026,0,nul,nul,nul,nul,0.81,0.09,0,0,0.93,0.18,0,0,4.4,G4 V,nul,0,0
+787,242.4613,0.0059,-0.0064,0,0.14,0.18,-0.1,0,89.85,0.03,-0.08,0,nul,nul,nul,nul,nul,nul,nul,nul,0.153,0.03,-0.021,0,nul,nul,nul,nul,0.81,0.09,0,0,0.93,0.18,0,0,4.4,G4 V,nul,0,0
+788,0.240104,0.000004,-0.000004,0,nul,nul,nul,nul,65,nul,nul,0,0.0014,nul,nul,0,nul,nul,nul,nul,0.068,nul,nul,0,nul,nul,nul,nul,0.5,0,0,0,0.2,0.01,0,0,1,B,nul,nul,0
+789,0.342887,0.000013,-0.000013,0,nul,nul,nul,nul,65,nul,nul,0,0.0021,nul,nul,0,nul,nul,nul,nul,0.077,nul,nul,0,nul,nul,nul,nul,0.5,0,0,0,0.2,0.01,0,0,1,B,nul,nul,0
+790,3.90512,0.00005,-0.00005,0,0,nul,nul,0,89.8,0.2,-0.4,0,nul,nul,nul,nul,nul,nul,nul,nul,1.11,0.02,-0.02,0,nul,nul,nul,nul,0.95,0.05,0,nul,0.86,0.02,0,nul,nul,nul,nul,nul,nul
+791,7.340718,0.000001,-0.000001,0,0.287,0.062,-0.062,0,85.55,0.96,-0.96,0,0.68,0.09,-0.09,0,nul,nul,nul,nul,1.32,0.14,-0.14,0,0.37,0.13,-0.13,0,1.4,0.14,0,0,1.51,0.14,0,0,3.8,F8 V,nul,0,0
+792,8.884924,0.000002,-0.000002,0,0.569,0.01,-0.01,0,89.1,0.6,-1,0,9.9,0.5,-0.5,0,nul,nul,nul,nul,1.03,0.06,-0.06,0,11,2,-2,0,0.88,0.06,0,0,0.88,0.04,0,0,4.8,G8 V,nul,0,0
+793,1.54492875,0.00000027,-0.00000027,0,0,nul,nul,0,78,0.2,-0.2,0,2,0.26,-0.26,0,nul,nul,nul,nul,1.25,0.08,-0.08,0,nul,nul,nul,nul,1.2,0.2,0,0,1.32,0.08,0,0,3,F,nul,0,0
+794,3.57878087,0.00000023,-0.00000023,0,0,nul,nul,0,88,0.11,-0.11,0,0.43,0.032,-0.032,0,nul,nul,nul,nul,0.96,0.016,-0.016,0,0.603,0.055,-0.055,0,0.95,0.04,0,0,0.99,0.02,0,0,4.5,G5 V,nul,0,0
+795,0.355,0.0004,-0.0004,0,0,nul,nul,0,79,9,-14,0,0.006,0.001,-0.001,0,nul,nul,nul,nul,0.105,0.014,-0.008,0,5.57,3.02,-1.31,0,0.76,0.05,0,0,0.74,0.03,0,0,4,G,nul,0,0
+796,13.485,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,0.231,0.073,-0.073,0,nul,nul,nul,nul,1.1,1.63,0,0,1.1,0.35,0,0,nul,nul,nul,nul,nul
+797,27.402,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,0.247,0.079,-0.079,0,nul,nul,nul,nul,1.1,1.63,0,0,1.1,0.35,0,0,nul,nul,nul,nul,nul
+798,7.053,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,0.236,0.01,-0.01,0,nul,nul,nul,nul,0.72,0.11,0,0,0.65,0.02,0,0,nul,nul,nul,nul,nul
+799,9.522,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,0.249,0.012,-0.012,0,nul,nul,nul,nul,0.72,0.11,0,0,0.65,0.02,0,0,nul,nul,nul,nul,nul
+800,5.955,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,0.216,0.034,-0.034,0,nul,nul,nul,nul,0.64,0.38,0,0,0.59,0.03,0,0,nul,nul,nul,nul,nul
+801,12.04,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,0.211,0.033,-0.033,0,nul,nul,nul,nul,0.64,0.38,0,0,0.59,0.03,0,0,nul,nul,nul,nul,nul
+802,26.444,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,0.357,0.162,-0.162,0,nul,nul,nul,nul,0.85,1.66,0,0,0.9,0.41,0,0,nul,nul,nul,nul,nul
+803,51.538,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,0.477,0.218,-0.218,0,nul,nul,nul,nul,0.85,1.66,0,0,0.9,0.41,0,0,nul,nul,nul,nul,nul
+804,9.77,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,0.252,0.037,-0.037,0,nul,nul,nul,nul,0.66,0.41,0,0,0.61,0.03,0,0,nul,nul,nul,nul,nul
+805,20.09,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,0.211,0.031,-0.031,0,nul,nul,nul,nul,0.66,0.41,0,0,0.61,0.03,0,0,nul,nul,nul,nul,nul
+806,8.726,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,0.199,0.009,-0.009,0,nul,nul,nul,nul,1,0.42,0,0,1.43,0.05,0,0,nul,nul,nul,nul,nul
+807,12.883,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,0.211,0.01,-0.01,0,nul,nul,nul,nul,1,0.42,0,0,1.43,0.05,0,0,nul,nul,nul,nul,nul
+808,8.306,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,0.176,0.009,-0.009,0,nul,nul,nul,nul,0.92,0.4,0,0,1.24,0.05,0,0,nul,nul,nul,nul,nul
+809,12.513,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,0.194,0.009,-0.009,0,nul,nul,nul,nul,0.92,0.4,0,0,1.24,0.05,0,0,nul,nul,nul,nul,nul
+810,282.5255,0.001,-0.001,0,0.41,0.08,-0.29,0,89.83,0.03,-0.02,0,nul,nul,nul,nul,nul,nul,nul,nul,0.903,0.05,-0.05,0,nul,nul,nul,nul,0.94,0.02,0,0,1,0.05,0,0,nul,nul,nul,nul,nul
+811,114.73635,0.00015,-0.00015,0,0.036,0.009,-0.009,0,89.274,0.034,-0.03,0,1.02,0.028,-0.028,0,nul,nul,nul,nul,1.204,0.049,-0.049,0,0.729,0.026,-0.026,0,1.1,0.05,0,0,1.82,0.04,0,0,nul,nul,nul,nul,nul
+812,191.2318,0.0015,-0.0015,0,0.039,0.012,-0.012,0,89.588,0.031,-0.027,0,0.02,0.003,-0.003,0,nul,nul,nul,nul,0.548,0.026,-0.026,0,0.152,0.019,-0.019,0,1.1,0.05,0,0,1.82,0.04,0,0,nul,nul,nul,nul,nul
+813,10.95416,0.00011,-0.00013,0,0.05593,0.00047,-0.00031,0,89.055,0.074,-0.07,0,0.027,0.008,-0.008,0,nul,nul,nul,nul,0.337,0.035,-0.032,0,0.87,0.42,-0.31,0,0.96,0.04,0,0,0.88,0.03,0,0,4.6,G6 V,nul,0,0
+814,22.3395,0.0019,-0.0017,0,0.05628,0.0014,-0.0028,0,86.2,1.3,-1.6,0,0.626,0.029,-0.033,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,0.96,0.04,0,0,0.88,0.03,0,0,4.6,G6 V,nul,0,0
+815,3.743208,0.000015,-0.000015,0,0.25,0.17,-0.17,0,89.3,0.57,-0.57,0,0.033,0.014,-0.014,0,nul,nul,nul,nul,0.153,0.014,-0.014,0,10.1,5.5,-5.5,0,1.28,0.05,0,0,1.52,0.14,0,0,nul,nul,nul,nul,nul
+816,10.423648,0.000016,-0.000016,0,0.43,0.23,-0.23,0,88.36,0.75,-0.75,0,0.049,0.018,-0.049,0,nul,nul,nul,nul,0.385,0.037,-0.037,0,0.91,0.36,-0.91,0,1.28,0.05,0,0,1.52,0.14,0,0,nul,nul,nul,nul,nul
+817,22.342989,0.0000067,-0.0000067,0,0.022,0.038,-0.038,0,89.871,0.123,-0.123,0,0.334,0.035,-0.035,0,nul,nul,nul,nul,1.005,0.095,-0.095,0,0.363,0.101,-0.101,0,1.28,0.05,0,0,1.52,0.14,0,0,nul,nul,nul,nul,nul
+818,54.32031,0.00012,-0.00012,0,0.019,0.23,-0.23,0,89.76,0.15,-0.15,0,0.11,0.057,-0.088,0,nul,nul,nul,nul,0.585,0.055,-0.055,0,0.6,0.26,-0.56,0,1.28,0.05,0,0,1.52,0.14,0,0,nul,nul,nul,nul,nul
+819,7.008151,0.000019,-0.000019,0,nul,nul,nul,nul,89.4,1.5,-1.5,0,nul,nul,nul,nul,nul,nul,nul,nul,0.117,0.015,-0.015,0,nul,nul,nul,nul,1.2,0.1,0,0,1.2,0.1,0,0,nul,nul,nul,nul,nul
+820,8.719375,0.000027,-0.000027,0,nul,nul,nul,nul,89.68,0.74,-0.74,0,nul,nul,nul,nul,nul,nul,nul,nul,0.106,0.012,-0.012,0,nul,nul,nul,nul,1.2,0.1,0,0,1.2,0.1,0,0,nul,nul,nul,nul,nul
+821,59.73667,0.00038,-0.00038,0,nul,nul,nul,nul,89.71,0.29,-0.29,0,nul,nul,nul,nul,nul,nul,nul,nul,0.256,0.027,-0.027,0,nul,nul,nul,nul,1.2,0.1,0,0,1.2,0.1,0,0,nul,nul,nul,nul,nul
+822,91.93913,0.00073,-0.00073,0,nul,nul,nul,nul,89.79,0.19,-0.19,0,nul,nul,nul,nul,nul,nul,nul,nul,0.237,0.026,-0.026,0,nul,nul,nul,nul,1.2,0.1,0,0,1.2,0.1,0,0,nul,nul,nul,nul,nul
+823,124.9144,0.0019,-0.0019,0,nul,nul,nul,nul,89.77,0.31,-0.31,0,nul,nul,nul,nul,nul,nul,nul,nul,0.257,0.046,-0.046,0,nul,nul,nul,nul,1.2,0.1,0,0,1.2,0.1,0,0,nul,nul,nul,nul,nul
+824,210.60697,0.00043,-0.00043,nul,nul,nul,nul,nul,89.8,0.06,-0.06,0,nul,nul,nul,nul,nul,nul,nul,nul,0.723,0.071,-0.071,0,nul,nul,nul,nul,1.2,0.1,0,0,1.2,0.1,0,0,nul,nul,nul,nul,nul
+825,331.60059,0.00037,-0.00037,0,nul,nul,nul,nul,89.6,1.3,-1.3,0,nul,nul,nul,nul,nul,nul,nul,nul,1.008,0.089,-0.089,0,nul,nul,nul,nul,1.2,0.1,0,0,1.2,0.1,0,0,nul,nul,nul,nul,nul
+826,6.24658,0.000082,-0.000082,0,0.066,0.013,-0.017,0,68.5,1,-1.6,0,0.88,0.17,-0.33,0,nul,nul,nul,nul,1.384,0.011,-0.054,0,0.44,0.13,-0.07,0,1.31,0.1,0,0,6.3,0.16,0,0,5.3,K3,nul,0,0
+827,13.749,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,0.202,0.044,-0.044,0,nul,nul,nul,nul,0.313,0.009,-0.009,0,nul,nul,nul,nul,1.21,0.08,0,0,1.7,0.05,0,0,nul,nul,nul,nul,nul
+828,26.723,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,0.019,0.006,-0.006,0,nul,nul,nul,nul,0.232,0.007,-0.007,0,nul,nul,nul,nul,1.21,0.08,0,0,1.7,0.05,0,0,nul,nul,nul,nul,nul
+829,4.72674,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,0.008,0.006,-0.006,0,nul,nul,nul,nul,0.134,0.003,-0.003,0,4.17,3.29,-3.29,0,0.91,0.06,0,0,0.92,0.02,0,0,nul,nul,nul,nul,nul
+830,1460,nul,nul,-1,nul,nul,nul,nul,nul,nul,nul,nul,3,nul,nul,-1,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,0.91,0.06,0,0,0.92,0.02,0,0,nul,nul,nul,nul,nul
+831,2.50806,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,0.034,0.004,-0.004,0,nul,nul,nul,nul,0.313,0.013,-0.013,0,1.45,0.26,-0.26,0,0.81,0.06,0,0,0.76,0.03,0,0,nul,nul,nul,nul,nul
+832,820.3,3,-3,0,nul,nul,nul,nul,nul,nul,nul,nul,9.836,0.629,-0.629,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,0.81,0.06,0,0,0.76,0.03,0,0,nul,nul,nul,nul,nul
+833,11.5231,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,0.041,0.009,-0.009,0,nul,nul,nul,nul,0.305,0.008,-0.008,0,1.71,0.37,-0.37,0,1.08,0.08,0,0,1.41,0.04,0,0,nul,nul,nul,nul,nul
+834,16.2385,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,0.027,0.011,-0.011,0,nul,nul,nul,nul,0.238,0.02,-0.02,0,2.26,1.11,-1.11,0,1,0.06,0,0,1.02,0.09,0,0,nul,nul,nul,nul,nul
+835,2.58664,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,0.011,0.006,-0.006,0,nul,nul,nul,nul,0.132,0.012,-0.012,0,5.44,3.48,-3.48,0,0.94,0.06,0,0,0.98,0.09,0,0,nul,nul,nul,nul,nul
+836,789,nul,nul,-1,nul,nul,nul,nul,nul,nul,nul,nul,1.08,nul,nul,-1,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,0.94,0.06,0,0,0.98,0.09,0,0,nul,nul,nul,nul,nul
+837,1.54168,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,0.011,0.005,-0.005,0,nul,nul,nul,nul,0.178,0.02,-0.02,0,2.18,1.21,-1.21,0,0.99,0.06,0,0,1.11,0.12,0,0,nul,nul,nul,nul,nul
+838,4.60358,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,0.019,0.004,-0.004,0,nul,nul,nul,nul,0.132,0.007,-0.007,0,10.9,2.82,-2.82,0,0.79,0.06,0,0,0.73,0.04,0,0,nul,nul,nul,nul,nul
+839,6.88705,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,0.023,0.01,-0.01,0,nul,nul,nul,nul,0.118,0.004,-0.004,0,14.25,6.33,-6.33,0,1.08,0.06,0,0,1.49,0.04,0,0,nul,nul,nul,nul,nul
+840,12.8159,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,0.003,0.013,-0.013,0,nul,nul,nul,nul,0.196,0.004,-0.004,0,0.35,1.65,-1.65,0,1.08,0.06,0,0,1.49,0.04,0,0,nul,nul,nul,nul,nul
+841,35.3331,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,0.009,nul,nul,1,nul,nul,nul,nul,0.144,0.004,-0.004,0,nul,nul,nul,nul,1.08,0.06,0,0,1.49,0.04,0,0,nul,nul,nul,nul,nul
+842,5.28696,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,0.001,0.005,-0.005,0,nul,nul,nul,nul,0.042,0.002,-0.002,0,23.29,94.93,-94.93,0,0.81,0.04,0,0,0.76,0.07,0,0,nul,nul,nul,nul,nul
+843,7.07142,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,0.009,nul,nul,1,nul,nul,nul,nul,0.052,0.002,-0.002,0,nul,nul,nul,nul,0.81,0.04,0,0,0.76,0.07,0,0,nul,nul,nul,nul,nul
+844,10.3117,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,0.012,0.006,-0.006,0,nul,nul,nul,nul,0.105,0.004,-0.004,0,13.27,6.46,-6.46,0,0.81,0.04,0,0,0.76,0.07,0,0,nul,nul,nul,nul,nul
+845,16.1457,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,0.028,0.006,-0.006,0,nul,nul,nul,nul,0.198,0.006,-0.006,0,4.68,1.12,-1.12,0,0.81,0.04,0,0,0.76,0.07,0,0,nul,nul,nul,nul,nul
+846,27.4536,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,0.002,0.01,-0.01,0,nul,nul,nul,nul,0.079,0.003,-0.003,0,4.92,24.5,-24.5,0,0.81,0.04,0,0,0.76,0.07,0,0,nul,nul,nul,nul,nul
+847,15.9654,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,0.031,0.027,-0.027,0,nul,nul,nul,nul,0.301,0.008,-0.008,0,1.38,1.4,-1.4,0,1.09,0.07,0,0,1.44,0.04,0,0,nul,nul,nul,nul,nul
+848,179.612,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,0.114,0.079,-0.079,0,nul,nul,nul,nul,0.459,0.012,-0.012,0,1.47,1.2,-1.2,0,1.09,0.07,0,0,1.44,0.04,0,0,nul,nul,nul,nul,nul
+849,5.4122,0.00002,-0.00002,0,0.47,0.05,-0.47,0,85.94,1.87,-3.88,0,nul,nul,nul,nul,nul,nul,nul,nul,0.429,0.136,-0.136,0,nul,nul,nul,nul,1.28,0.12,0,0,1.58,0.53,0,0,nul,nul,nul,nul,nul
+850,6.16486,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,0.0005,0.0088,-0.0088,0,nul,nul,nul,nul,0.073,0.01,-0.01,0,1.26,26.26,-26.26,0,1,0.06,0,0,1.04,0.17,0,0,nul,nul,nul,nul,nul
+851,13.5708,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,0.033,0.01,-0.01,0,nul,nul,nul,nul,0.223,0.029,-0.029,0,3.28,1.56,-1.56,0,1,0.06,0,0,1.04,0.17,0,0,nul,nul,nul,nul,nul
+852,23.9802,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,0.025,nul,nul,1,nul,nul,nul,nul,0.085,0.012,-0.012,0,nul,nul,nul,nul,1,0.06,0,0,1.04,0.17,0,0,nul,nul,nul,nul,nul
+853,43.8445,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,0.035,0.018,-0.018,0,nul,nul,nul,nul,0.228,0.029,-0.029,0,3.1,2.07,-2.07,0,1,0.06,0,0,1.04,0.17,0,0,nul,nul,nul,nul,nul
+854,6.48163,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,0.004,0.017,-0.017,0,nul,nul,nul,nul,0.211,0.006,-0.006,0,0.3,2.2,-2.2,0,1.04,0.06,0,0,1.32,0.04,0,0,nul,nul,nul,nul,nul
+855,21.2227,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,0.007,0.025,-0.025,0,nul,nul,nul,nul,0.225,0.006,-0.006,0,0.65,2.3,-2.3,0,1.04,0.06,0,0,1.32,0.04,0,0,nul,nul,nul,nul,nul
+856,4.754,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,0.037,0.013,-0.013,0,nul,nul,nul,nul,0.162,0.004,-0.004,0,10.73,3.9,-3.9,0,0.75,0.06,0,0,0.69,0.02,0,0,nul,nul,nul,nul,nul
+857,8.92507,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,0.027,nul,nul,1,nul,nul,nul,nul,0.194,0.005,-0.005,0,nul,nul,nul,nul,0.75,0.06,0,0,0.69,0.02,0,0,nul,nul,nul,nul,nul
+858,8.041,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,0.009,0.002,-0.002,0,nul,nul,nul,nul,0.143,0.016,-0.016,0,nul,nul,nul,nul,0.56,0.06,0,0,0.54,0.06,0,0,nul,nul,nul,nul,nul
+859,11.776,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,0.012,0.005,-0.005,0,nul,nul,nul,nul,0.226,0.025,-0.025,0,nul,nul,nul,nul,0.56,0.06,0,0,0.54,0.06,0,0,nul,nul,nul,nul,nul
+860,15.09,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,0.097,0.019,-0.019,0,nul,nul,nul,nul,0.101,0.003,-0.003,0,nul,nul,nul,nul,1.18,0.07,0,0,1.66,0.04,0,0,nul,nul,nul,nul,nul
+861,22.804,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,0.105,0.01,-0.01,0,nul,nul,nul,nul,0.101,0.003,-0.003,0,nul,nul,nul,nul,1.18,0.07,0,0,1.66,0.04,0,0,nul,nul,nul,nul,nul
+862,27.50868,0.00006,-0.00007,0,0,0.07,0,0,89.34,0.66,-0.31,0,nul,nul,nul,nul,nul,nul,nul,nul,0.259,0.022,-0.022,0,nul,nul,nul,nul,1,0.09,0,0,1.17,0.1,0,0,nul,nul,nul,nul,nul
+863,16.092,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,0.051,0.011,-0.011,0,nul,nul,nul,nul,0.215,0.018,-0.018,0,6,1.98,-1.98,0,1.02,0.06,0,0,1.03,0.1,0,0,nul,nul,nul,nul,nul
+864,25.5169,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,0.026,0.019,-0.019,0,nul,nul,nul,nul,0.075,0.006,-0.006,0,77.7,55,-55,0,1.02,0.06,0,0,1.03,0.1,0,0,nul,nul,nul,nul,nul
+865,13.78164,0.00019,-0.00014,0,0.05,0.049,-0.025,0,nul,nul,nul,nul,0.012,0.005,-0.004,0,nul,nul,nul,nul,0.144,0.014,-0.013,0,5,3,-2,0,0.57,0.05,0,0,0.54,0.05,0,0,6.1,M1 V,nul,0,0
+866,23.08933,0.00071,-0.00071,0,0.024,0.03,-0.016,0,nul,nul,nul,nul,0.003,0.001,-0.001,0,nul,nul,nul,nul,0.144,0.014,-0.013,0,1.31,0.82,-0.54,0,0.57,0.05,0,0,0.54,0.05,0,0,6.1,M1 V,nul,0,0
+867,22.951,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,0.117,0.036,-0.036,0,nul,nul,nul,nul,0.236,0.007,-0.007,0,nul,nul,nul,nul,1.32,0.1,0,0,1.85,0.05,0,0,nul,nul,nul,nul,nul
+868,42.882,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,0.25,0.052,-0.052,0,nul,nul,nul,nul,0.385,0.011,-0.011,0,nul,nul,nul,nul,1.32,0.1,0,0,1.85,0.05,0,0,nul,nul,nul,nul,nul
+869,36.855,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,0.006,0.002,-0.001,0,nul,nul,nul,nul,0.259,0.136,-0.027,0,nul,nul,nul,nul,1.07,0.25,0,0,1.07,0.56,0,0,nul,nul,nul,nul,nul
+870,49.412,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,0.024,0.011,-0.01,0,nul,nul,nul,nul,0.633,0.331,-0.064,0,nul,nul,nul,nul,1.07,0.25,0,0,1.07,0.56,0,0,nul,nul,nul,nul,nul
+871,23.654,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,0.534,0.226,-0.217,0,nul,nul,nul,nul,0.5,0.211,-0.041,0,nul,nul,nul,nul,1.06,0.17,0,0,0.96,0.41,0,0,nul,nul,nul,nul,nul
+872,50.447,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,0.042,0.009,-0.008,0,nul,nul,nul,nul,0.178,0.076,-0.015,0,nul,nul,nul,nul,1.06,0.17,0,0,0.96,0.41,0,0,nul,nul,nul,nul,nul
+873,31.884,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,0.052,0.014,-0.011,0,nul,nul,nul,nul,0.259,0.113,-0.025,0,nul,nul,nul,nul,1.1,0.22,0,0,1.03,0.45,0,0,nul,nul,nul,nul,nul
+874,48.648,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,0.051,0.016,-0.014,0,nul,nul,nul,nul,0.25,0.11,-0.024,0,nul,nul,nul,nul,1.1,0.22,0,0,1.03,0.45,0,0,nul,nul,nul,nul,nul
+875,17.324,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,0.275,0.131,-0.126,0,nul,nul,nul,nul,0.261,0.065,-0.056,0,nul,nul,nul,nul,1.12,0.19,0,0,1.69,0.42,0,0,nul,nul,nul,nul,nul
+876,33.006,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,0.202,0.057,-0.049,0,nul,nul,nul,nul,0.3,0.074,-0.064,0,nul,nul,nul,nul,1.12,0.19,0,0,1.69,0.42,0,0,nul,nul,nul,nul,nul
+877,35.736,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,0.155,0.023,-0.019,0,nul,nul,nul,nul,0.384,0.153,-0.037,0,nul,nul,nul,nul,1.1,0.16,0,0,1.07,0.43,0,0,nul,nul,nul,nul,nul
+878,54.414,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,0.118,0.017,-0.014,0,nul,nul,nul,nul,0.277,0.111,-0.027,0,nul,nul,nul,nul,1.1,0.16,0,0,1.07,0.43,0,0,nul,nul,nul,nul,nul
+879,24.806,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,0.192,0.113,-0.114,0,nul,nul,nul,nul,0.219,0.089,-0.018,0,nul,nul,nul,nul,0.97,0.1,0,0,0.89,0.36,0,0,nul,nul,nul,nul,nul
+880,44.347,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,0.177,0.051,-0.053,0,nul,nul,nul,nul,0.277,0.112,-0.022,0,nul,nul,nul,nul,0.97,0.1,0,0,0.89,0.36,0,0,nul,nul,nul,nul,nul
+881,5.487,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,0.033,0.008,-0.006,0,nul,nul,nul,nul,0.321,0.08,-0.032,0,nul,nul,nul,nul,0.76,0.13,0,0,0.8,0.2,0,0,nul,nul,nul,nul,nul
+882,8.291,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,0.019,0.008,-0.007,0,nul,nul,nul,nul,0.294,0.073,-0.029,0,nul,nul,nul,nul,0.76,0.13,0,0,0.8,0.2,0,0,nul,nul,nul,nul,nul
+883,10.416,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,0.01,0.002,-0.002,0,nul,nul,nul,nul,0.285,0.107,-0.041,0,nul,nul,nul,nul,0.98,0.14,0,0,1.08,0.41,0,0,nul,nul,nul,nul,nul
+884,13.084,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,0.005,0.002,-0.001,0,nul,nul,nul,nul,0.25,0.094,-0.037,0,nul,nul,nul,nul,0.98,0.14,0,0,1.08,0.41,0,0,nul,nul,nul,nul,nul
+885,34.921,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,0.09,0.041,-0.039,0,nul,nul,nul,nul,0.205,0.086,-0.021,0,nul,nul,nul,nul,1.15,0.22,0,0,1.06,0.44,0,0,nul,nul,nul,nul,nul
+886,71.312,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,0.124,0.043,-0.04,0,nul,nul,nul,nul,0.482,0.2,-0.048,0,nul,nul,nul,nul,1.15,0.22,0,0,1.06,0.44,0,0,nul,nul,nul,nul,nul
+887,17.849,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,0.019,0.01,-0.01,0,nul,nul,nul,nul,0.277,0.127,-0.054,0,nul,nul,nul,nul,1,0.2,0,0,1.25,0.57,0,0,nul,nul,nul,nul,nul
+888,26.136,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,0.047,0.017,-0.015,0,nul,nul,nul,nul,0.25,0.114,-0.048,0,nul,nul,nul,nul,1,0.2,0,0,1.25,0.57,0,0,nul,nul,nul,nul,nul
+889,42.994,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,0.238,0.037,-0.018,0,nul,nul,nul,nul,0.312,0.114,-0.058,0,nul,nul,nul,nul,0.85,0.13,0,0,1.06,0.39,0,0,nul,nul,nul,nul,nul
+890,88.505,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,0.056,0.009,-0.004,0,nul,nul,nul,nul,0.473,0.174,-0.088,0,nul,nul,nul,nul,0.85,0.13,0,0,1.06,0.39,0,0,nul,nul,nul,nul,nul
+891,2.42629,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,0.02,0.004,-0.004,0,nul,nul,nul,nul,0.128,0.003,-0.003,0,11.82,2.7,-2.7,0,1.07,0.06,0,0,1.07,0.02,0,0,nul,nul,nul,nul,nul
+892,4.62332,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,0.009,0.006,-0.006,0,nul,nul,nul,nul,0.076,0.003,-0.003,0,24.39,16.13,-16.13,0,1.07,0.06,0,0,1.07,0.02,0,0,nul,nul,nul,nul,nul
+893,0.66931,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,0.0002,0.0038,-0.0038,0,nul,nul,nul,nul,0.095,0.002,-0.002,0,0.29,5.7,-5.7,0,1,0.06,0,0,1.01,0.07,0,0,nul,nul,nul,nul,nul
+894,3000,500,-500,0,nul,nul,nul,nul,nul,nul,nul,nul,12.6,6.3,-6.3,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,1,0.06,0,0,1.01,0.07,0,0,nul,nul,nul,nul,nul
+895,2.46502,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,0.002,0.01,-0.01,0,nul,nul,nul,nul,0.073,0.003,-0.003,0,4.42,29.82,-29.82,0,1.08,0.07,0,0,1.23,0.03,0,0,nul,nul,nul,nul,nul
+896,68.9584,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,0.008,0.02,-0.02,0,nul,nul,nul,nul,0.106,0.003,-0.003,0,8.88,20.6,-20.6,0,0.92,0.06,0,0,0.89,0.02,0,0,nul,nul,nul,nul,nul
+897,17.833648,0.000054,-0.000054,0,0.17,0.1,-0.05,0,87.72,0.13,-0.15,0,nul,nul,nul,nul,nul,nul,nul,nul,0.253,0.005,-0.005,0,nul,nul,nul,nul,1.21,0.03,0,0,1.35,0.01,0,0,nul,nul,nul,nul,nul
+898,3.00516,0.00001,-0.00001,0,0,0.35,0,0,88.27,1.73,-1.83,0,nul,nul,nul,nul,nul,nul,nul,nul,0.168,0.018,-0.018,0,nul,nul,nul,nul,0.83,0.04,0,0,0.79,0.07,0,0,nul,nul,nul,nul,nul
+899,1.72086123,0.00000005,-0.00000005,0,0.0038,0.0087,-0.0032,0,80.89,0.2,-0.2,0,0.939,0.085,-0.085,0,nul,nul,nul,nul,1.325,0.043,-0.043,0,0.501,0.051,-0.051,0,1.17,0.09,0,0,1.29,0.04,0,0,4.3,G3 V,nul,0,0
+900,66.262,0.024,-0.021,0,0.1181,0.0018,-0.0017,0,89.929,0.024,-0.016,0,0.211,0.069,-0.066,0,nul,nul,nul,nul,0.388,0.009,-0.009,0,3.2,1,-1,0,0.82,0.01,0,0,0.78,0.01,0,0,nul,nul,nul,nul,nul
+901,40000,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,6,1,-1,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul
+902,3.91405,0.00004,-0.00004,0,0,nul,nul,0,88.3,1.3,-0.8,0,0.81,0.18,-0.18,0,nul,nul,nul,nul,0.89,0.07,-0.07,0,1.4,0.4,-0.4,0,0.87,0.04,0,nul,0.82,0.05,0,nul,nul,nul,nul,nul,nul
+903,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,0.01,0.015,-0.005,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul
+904,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,0.9,0.4,-0.4,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul
+905,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,0.23,0.05,-0.05,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul
+906,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,4.8,2.1,-2.4,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,0.66,0.29,0,0,nul,nul,nul,nul,5,K,nul,0,0
+907,2780,2800,-500,nul,nul,nul,nul,nul,nul,nul,nul,nul,0.0327,0.005,-0.005,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul
+908,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,0.157,0.138,-0.075,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul
+909,1970,2.2,-1.6,nul,nul,nul,nul,nul,nul,nul,nul,nul,2.6,4.1,-1.6,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul
+910,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,1.5,0.8,-0.3,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,0.67,0.33,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul
+911,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,11,2,-2,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,0.16,0.03,0,0,14.7,1.3,0,0,nul,nul,nul,nul,nul
+912,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,4.8,0.3,-0.3,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,0.86,0.06,0,0,0.82,nul,0,0,nul,nul,nul,nul,nul
+913,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,11.6,13.4,-5.6,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,0.39,0.45,0,0,nul,nul,nul,nul,nul,nul,nul,nul,nul
+914,677.8,6.2,-6.2,0,0.19,0.07,-0.07,0,nul,nul,nul,nul,nul,nul,nul,nul,19.8,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul
+915,6.958,0.001,-0.001,0,0.24,0.08,-0.08,0,nul,nul,nul,nul,nul,nul,nul,nul,0.34,0.05,-0.05,0,nul,nul,nul,nul,nul,nul,nul,nul,1.01,0.02,0,0,0.99,0.02,0,0,4.5,G5 V,nul,0,0
+916,5.118,0.001,-0.001,0,0.39,0.17,-0.17,0,nul,nul,nul,nul,nul,nul,nul,nul,0.4,0.11,-0.11,0,nul,nul,nul,nul,nul,nul,nul,nul,0.96,0.01,0,0,0.89,0.02,0,0,4.5,G5 V,nul,0,0
+917,121.71,0.305,-0.305,0,0.35,0.08,-0.08,0,nul,nul,nul,nul,nul,nul,nul,nul,1.54,0.24,-0.24,0,nul,nul,nul,nul,nul,nul,nul,nul,1.35,0.05,0,0,21.8,0.7,0,0,5.3,K3 III,nul,0,0
+918,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,2.6,0.8,-0.8,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul
+919,3600,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,3.8,0.4,-0.4,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul
+920,3300,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,0.04,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul
+921,3500,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,0.017,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul
+922,1825,365,-365,0,nul,nul,nul,nul,nul,nul,nul,nul,0.71,0.08,-0.08,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul
+923,5100,730,-730,0,0.11,0.17,-0.04,0,59,6,-6,0,0.27,0.03,-0.03,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul
+924,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,0.0694,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul
+925,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,0.53,0.21,-0.21,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,0.26,0.11,0,0,nul,nul,nul,nul,6,M,nul,0,0
+926,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,0.11,0.02,-0.02,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,0.82,0.13,0,0,nul,nul,nul,nul,4.5,G5 V,nul,0,0
+927,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,0.68,0.1,-0.1,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,0.82,0.13,0,0,nul,nul,nul,nul,4.5,G5 V,nul,0,0
+928,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,1.85,0.19,-0.19,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,0.02,0,0,0,nul,nul,nul,nul,nul,nul,nul,nul,nul
+929,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,2.73,0.43,-0.43,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,0.44,0.07,0,0,nul,nul,nul,nul,nul,nul,nul,nul,nul
+930,2.4855335,0.0000007,-0.0000007,0,nul,nul,nul,nul,79.8,0.3,-0.3,0,4.5,1.5,-1.5,0,nul,nul,nul,nul,1.61,0.04,-0.04,0,nul,nul,nul,nul,1.52,0.08,0,nul,1.53,0.04,0,nul,nul,nul,nul,nul,nul
+931,3.101278,nul,nul,0,nul,nul,nul,nul,90,0,-3.9,0,0.62,0.14,-0.14,0,nul,nul,nul,nul,1.25,0.14,-0.12,0,0.4,0.18,-0.12,0,1.14,0.12,0,nul,1.17,0.13,0,nul,4.2,G2 V,nul,0,0
+932,1.2119189,nul,nul,0,nul,nul,nul,nul,77.6,0.91,-1,0,1.39,0.18,-0.17,0,nul,nul,nul,nul,1.363,0.092,-0.09,0,0.68,0.18,-0.14,0,1.23,0.08,0,nul,1.36,0.09,0,nul,3.8,F8 V,nul,0,0
+933,4.0161,nul,nul,0,nul,nul,nul,nul,88.25,0.83,-0.3,0,0.55,0.1,-0.1,0,nul,nul,nul,nul,1.051,0.057,-0.052,0,0.59,0.16,-0.13,0,0.85,0.06,0,nul,0.83,0.04,0,nul,5.2,K2 V,nul,0,0
+934,1.4324752,nul,nul,0,nul,nul,nul,nul,87.8,1.6,-0.62,0,1.26,0.16,-0.16,0,nul,nul,nul,nul,1.093,0.028,-0.019,0,1.2,0.17,-0.16,0,0.78,0.02,0,nul,0.77,0.02,0,nul,5.4,K4 V,nul,0,0
+935,1.689868,nul,nul,0,nul,nul,nul,nul,83.4,2.9,-1.3,0,1.18,0.14,-0.13,0,nul,nul,nul,nul,1.2,0.15,-0.11,0,0.85,0.32,-0.26,0,1.3,0.07,0,nul,1.32,0.17,0,nul,3.5,F5 V,nul,0,0
+936,3.9791,0.00001,-0.00001,0,0,nul,nul,0,85.7,0.3,-0.3,0,1.01,0.15,-0.15,0,nul,nul,nul,nul,1.13,0.24,-0.08,0,nul,nul,nul,nul,1.14,0.05,0,nul,1.14,0.23,0,nul,nul,nul,nul,nul,nul
+937,3.67724,0.00003,-0.00003,0,0,nul,nul,0,87.2,nul,nul,-1,1.03,0.2,-0.2,0,nul,nul,nul,nul,1.36,0.18,-0.09,0,nul,nul,nul,nul,1.33,0.05,0,nul,1.64,0.21,0,nul,nul,nul,nul,nul,nul
+938,730000,365000,-365000,0,nul,nul,nul,nul,nul,nul,nul,nul,21,3,-3,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul
+939,3.1606296,0.00000157,-0.00000157,0,nul,nul,nul,nul,88.06,0.47,-0.34,0,2.31,0.77,-0.77,0,nul,nul,nul,nul,0.941,0.036,-0.047,0,nul,nul,nul,nul,0.69,0.05,0,0,0.59,0.02,0,0,5.5,K5 V,nul,0,0
+940,4.4264,0.007,-0.007,0,0,nul,nul,0,nul,nul,nul,nul,0.54,0.039,-0.039,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,1.23,0.03,0,nul,1.17,0.12,0,nul,nul,nul,nul,nul,nul
+941,2.1451,0.0012,-0.0012,0,0,nul,nul,0,nul,nul,nul,nul,1.844,0.064,-0.064,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,0.95,0.04,0,nul,0.87,0.08,0,nul,nul,nul,nul,nul,nul
+942,25.262,0.003,-0.003,0,0,nul,nul,0,nul,nul,nul,nul,0.00007,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul
+943,66.5419,0.0001,-0.0001,0,0.0186,0.0002,-0.0002,0,53,4,-4,0,0.013,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul
+944,98.2114,0.0002,-0.0002,0,0.0252,0.0002,-0.0002,0,47,3,-3,0,0.012,0.0006,-0.0006,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul
+945,36525,nul,nul,0,nul,nul,nul,nul,55,nul,nul,0,2.5,1,-1,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul
+946,0.09070629,0,0,0,0.06,nul,nul,1,nul,nul,nul,nul,1.2,nul,nul,-1,nul,nul,nul,nul,nul,nul,nul,nul,23,nul,nul,-1,1.4,nul,0,0,0.04,nul,0,0,nul,nul,nul,nul,nul
+947,1.420033,0.000016,-0.000016,0,0,nul,nul,0,83.47,0.4,-0.36,0,1.09,0.084,-0.081,0,nul,nul,nul,nul,1.164,0.045,-0.045,0,0.918,0.13,-0.112,0,0.85,0.03,0,nul,0.82,0.03,0,nul,nul,nul,nul,nul,nul
+948,1.3371182,0.0000037,-0.0000037,0,0,nul,nul,0,88.3,0.94,-0.94,0,2.487,0.086,-0.086,0,nul,nul,nul,nul,1.144,0.035,-0.035,0,2.208,0.173,-0.173,0,0.74,0.04,0,nul,0.71,0.02,0,nul,nul,nul,nul,nul,nul
+949,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,10.5,4.5,-4.5,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,1,nul,0,0,nul,nul,nul,nul,6,M0,nul,0,0
+950,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,16,4,-4,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,0.87,0.08,0,0,nul,nul,nul,nul,6,M0,nul,0,0
+951,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,13,7,-7,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul
+952,4.2,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,3.8,nul,nul,0,nul,nul,nul,nul,0.81,0.1,-0.1,0,nul,nul,nul,nul,1.24,nul,0,nul,1.18,nul,0,nul,nul,nul,nul,nul,nul
+953,1.796,nul,nul,0,nul,nul,nul,nul,nul,nul,nul,nul,9.7,5.6,-4.5,0,nul,nul,nul,nul,1.13,0.21,-0.21,0,nul,nul,nul,nul,1.1,nul,0,nul,1.45,nul,0,nul,nul,nul,nul,nul,nul
+954,3.030065,nul,nul,0,0,nul,nul,0,90,0,-1.1,0,0.752,0.047,-0.046,0,nul,nul,nul,nul,1.067,0.022,-0.021,0,0.769,0.069,-0.064,0,0.88,0.04,0,nul,0.81,0.02,0,nul,5,K0 V,nul,0,0
+955,1.30618581,nul,nul,0,0,nul,nul,0,81.85,0.16,-0.16,0,1.91,0.075,-0.08,0,nul,nul,nul,nul,1.336,0.031,-0.037,0,0.994,0.095,-0.078,0,0.93,0.05,0,nul,0.83,0.02,0,nul,4.4,G4 V,nul,0,0
+956,3.553945,0.000075,-0.000075,0,0,nul,nul,0,82.86,0.33,-0.33,0,0.919,0.073,-0.073,0,nul,nul,nul,nul,1.799,0.063,-0.063,0,0.209,0.029,-0.029,0,1.4,0.13,0,nul,1.85,0.1,0,nul,3.8,F8 V,nul,0,0
+957,1.4822446,0.0000007,-0.0000007,0,0,nul,nul,0,84.529,0.005,-0.005,0,1.778,0.063,-0.063,0,nul,nul,nul,nul,1.209,0.021,-0.021,0,1.25,0.08,-0.08,0,0.89,0.02,0,nul,0.87,0.01,0,nul,nul,nul,nul,nul,nul
+958,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,14,2,-8,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul
+959,1170,44,-44,0,0,nul,nul,0,nul,nul,nul,nul,3.2,0.7,-0.7,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,sdBV,nul,0,0
+960,2.5199449,0.0000013,-0.0000013,0,0,nul,nul,0,88.65,0.51,-0.55,0,0.918,0.091,-0.09,0,nul,nul,nul,nul,1.514,0.052,-0.047,0,0.328,0.048,-0.043,0,1.3,0.05,0,nul,1.52,0.05,0,nul,3.7,F7 V,nul,0,0
+961,2.152226,0.000004,-0.000004,0,0,nul,nul,0,84.8,0.39,-0.39,0,0.914,0.092,-0.092,0,nul,nul,nul,nul,1.117,0.082,-0.082,0,0.87,0.24,-0.24,0,0.89,0.12,0,nul,0.84,0.07,0,nul,5.1,K1 V,nul,0,0
+962,1.846835,0.000002,-0.000002,0,0,nul,nul,0,84.93,1.32,-0.78,0,1.76,0.08,-0.14,0,nul,nul,nul,nul,1.29,0.05,-0.07,0,1.037,0.372,-0.12,0,1.24,0.11,0,nul,1.31,0.12,0,nul,nul,nul,nul,nul,nul
+963,1.33823187,0.00000025,-0.00000025,0,0,nul,nul,0,88.8,0.61,-0.43,0,1.237,0.064,-0.064,0,nul,nul,nul,nul,1.413,0.02,-0.02,0,0.774,0.048,-0.048,0,0.89,0.01,0,0,0.92,0.06,0,0,4.7,G7 V,nul,0,0
+964,1.62843142,0.00000064,-0.00000064,0,0,nul,nul,0,85.58,0.81,-0.76,0,1.568,0.071,-0.071,0,nul,nul,nul,nul,1.167,0.043,-0.043,0,1.224,0.146,-0.146,0,1,0.07,0,nul,1.08,0.04,0,nul,nul,nul,nul,nul,nul
+965,3.361006,0.0000022,-0.0000035,0,0.054,0.018,-0.015,0,88.47,0.65,-0.47,0,0.503,0.019,-0.038,0,nul,nul,nul,nul,1.224,0.051,-0.052,0,0.359,0.067,-0.067,0,0.88,0.08,0,nul,0.87,0.04,0,nul,nul,nul,nul,nul,nul
+966,4.954658,0.000055,-0.000043,0,0,nul,nul,0,89.6,0.4,-0.9,0,0.96,0.13,-0.13,0,nul,nul,nul,nul,1.33,0.093,-0.093,0,0.545,0.133,-0.133,0,1.28,0.07,0,nul,1.43,0.09,0,nul,nul,nul,nul,nul,nul
+967,8.158715,0.000016,-0.000015,0,0.31,0.0029,-0.0024,0,88.55,0.15,-0.17,0,2.244,0.079,-0.093,0,nul,nul,nul,nul,1.038,0.007,-0.047,0,nul,nul,nul,nul,1.03,0.06,0,nul,0.94,0.05,0,nul,nul,nul,nul,nul,nul
+968,3.0927616,0.0000112,-0.0000112,0,nul,nul,nul,nul,88.49,0.22,-0.17,0,3.15,0.13,-0.11,0,nul,nul,nul,nul,1.08,0.02,-0.02,0,4.14,0.27,-0.27,0,0.75,0.04,0,nul,0.7,0.01,0,nul,nul,nul,nul,nul,nul
+969,3.7224747,0.0000065,-0.0000065,0,0,nul,nul,0,88.6,0.5,-0.4,0,0.487,0.018,-0.018,0,nul,nul,nul,nul,1.005,0.032,-0.027,0,0.594,0.052,-0.052,0,0.83,0.03,0,nul,0.79,0.02,0,nul,nul,nul,nul,nul,nul
+970,1.091423,0.000003,-0.000003,0,0.049,0.015,-0.015,0,83.1,1.4,-1.1,0,1.41,0.1,-0.1,0,nul,nul,nul,nul,1.79,0.09,-0.09,0,0.24,0.03,-0.02,0,1.35,0.14,0,nul,1.57,0.07,0,nul,nul,nul,nul,nul,nul
+971,4.353011,0.000013,-0.000013,0,0,nul,nul,0,85.19,0.26,-0.26,0,0.477,0.044,-0.049,0,nul,nul,nul,nul,1.389,0.045,-0.056,0,0.222,0.023,-0.029,0,1.09,0.05,0,nul,1.56,0.04,0,nul,nul,nul,nul,nul,nul
+972,2.243752,0.00001,-0.00001,0,0.091,0.003,-0.003,0,84.32,0.67,-0.57,0,7.341,0.508,-0.496,0,nul,nul,nul,nul,1.281,0.075,-0.082,0,4.656,0.846,-0.658,0,1.21,0.13,0,nul,1.31,0.07,0,nul,nul,nul,nul,nul,nul
+973,3.7520656,0.0000028,-0.0000028,0,0,nul,nul,0,85.5,0.5,-0.5,0,0.542,0.05,-0.05,0,nul,nul,nul,nul,1.428,0.077,-0.077,0,0.247,0.035,-0.035,0,1.18,0.12,0,nul,1.48,0.07,0,nul,nul,nul,nul,nul,nul
+974,3.1186009,0.0000146,-0.0000131,0,0,nul,nul,0,85.22,0.27,-0.43,0,0.855,0.043,-0.076,0,nul,nul,nul,nul,1.008,0.083,-0.06,0,1.104,0.173,-0.226,0,1.02,0.13,0,nul,0.95,0.06,0,nul,nul,nul,nul,nul,nul
+975,3.7354417,0.0000072,-0.0000073,0,0.129,0.106,-0.068,0,87.8,2,-1,0,0.49,0.059,-0.056,0,nul,nul,nul,nul,1.74,0.26,-0.23,0,0.122,0.072,-0.043,0,1.2,0.12,0,nul,1.38,0.2,0,nul,nul,nul,nul,nul,nul
+976,0.94145299,0.00000087,-0.00000087,0,0.0092,0.0028,-0.0028,0,86,2.5,-2.5,0,10.43,0.38,-0.38,0,nul,nul,nul,nul,1.165,0.057,-0.057,0,8.78,1.2,-1.2,0,1.28,0.07,0,nul,1.23,0.05,0,nul,3.6,F6 IV/V,nul,0,0
+977,0.78884,0.0000003,-0.0000003,0,0.0046,0.0044,-0.0028,0,79.4,0.4,-0.4,0,1.168,0.023,-0.023,0,nul,nul,nul,nul,1.386,0.032,-0.032,0,0.583,0.037,-0.037,0,0.94,0.04,0,0,1.02,0.01,0,0,4.8,G8 V,nul,0,0
+978,4.322482,0.000019,-0.000024,0,0,nul,nul,0,88.75,0.84,-0.7,0,0.3,0.011,-0.011,0,nul,nul,nul,nul,1.07,0.06,-0.06,0,0.32,0.07,-0.07,0,0.89,0.08,0,0,1.14,0.05,0,0,4.3,G3 V,nul,0,0
+979,3.5327313,0.0000058,-0.0000058,0,0,nul,nul,0,88.26,0.91,-0.91,0,0.588,0.017,-0.017,0,nul,nul,nul,nul,1.158,0.061,-0.038,0,0.503,0.051,-0.068,0,1.11,0.03,0,nul,1.22,0.05,0,nul,nul,nul,nul,nul,nul
+980,2.9444256,0.0000011,-0.0000013,0,0.062,nul,nul,1,88.39,0.79,-0.45,0,0.884,0.088,-0.099,0,nul,nul,nul,nul,0.962,0.047,-0.056,0,nul,nul,nul,nul,0.78,0.13,0,nul,0.77,0.05,0,nul,nul,nul,nul,nul,nul
+981,2.34121242,0.000002,-0.000002,0,0,nul,nul,0,83.64,0.31,-0.31,0,1.071,0.036,-0.038,0,nul,nul,nul,nul,1.3,0.039,-0.038,0,0.648,0.057,-0.053,0,1.18,0.03,0,nul,1.33,0.03,0,nul,nul,nul,nul,nul,nul
+982,3.764825,0.000005,-0.000005,0,0,nul,nul,0,88,0.5,-0.5,0,0.58,0.04,-0.04,0,nul,nul,nul,nul,1.22,0.06,-0.05,0,0.422,0.048,-0.041,0,1,0.03,0,nul,0.92,0.04,0,nul,nul,nul,nul,nul,nul
+983,2.7566004,0.0000067,-0.0000067,0,0,nul,nul,0,82.91,0.46,-0.46,0,1.028,0.021,-0.021,0,nul,nul,nul,nul,1.281,0.075,-0.075,0,0.649,0.109,-0.109,0,1.11,0.03,0,nul,1.3,0.06,0,nul,nul,nul,nul,nul,nul
+984,3.408821,0.000015,-0.000015,0,0.046,0.03,-0.03,0,89.1,0.6,-0.6,0,0.91,0.06,-0.06,0,nul,nul,nul,nul,1.12,0.06,-0.06,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul
+985,3.922727,0.000004,-0.000004,0,0.03,0.05,-0.03,0,88.8,0.7,-0.7,0,0.244,0.02,-0.02,0,nul,nul,nul,nul,0.792,0.056,-0.035,0,0.65,0.1,-0.1,0,0.82,0.03,0,nul,0.81,0.04,0,nul,nul,nul,nul,nul,nul
+986,3.4059096,0.000005,-0.000005,0,0,nul,nul,0,84.41,0.22,-0.22,0,0.478,0.029,-0.029,0,nul,nul,nul,nul,1.549,0.05,-0.05,0,0.172,0.019,-0.019,0,1.16,0.03,0,nul,1.25,0.03,0,nul,nul,nul,nul,nul,nul
+987,2.718659,0.000008,-0.000008,0,0.018,0.0065,-0.0065,0,85.3,0.5,-0.5,0,3.6,0.07,-0.07,0,nul,nul,nul,nul,1.18,0.07,-0.07,0,2.926,0.532,-0.532,0,1.1,0.03,0,nul,1.11,0.05,0,nul,nul,nul,nul,nul,nul
+988,1.2198669,0.0000012,-0.0000012,0,nul,nul,nul,nul,87.67,1.81,-1.81,0,4.1,nul,nul,1,nul,nul,nul,nul,1.497,0.045,-0.045,0,nul,nul,nul,nul,1.5,0.03,0,nul,1.44,0.03,0,nul,2.5,A5,nul,0,0
+989,4.3176782,0.0000045,-0.0000045,0,0.038,0.012,-0.012,0,85.2,0.2,-0.2,0,0.59,0.01,-0.01,0,nul,nul,nul,nul,1.22,0.11,-0.08,0,0.452,0.106,-0.106,0,1.01,0.07,0,nul,0.93,0.12,0,nul,nul,nul,nul,nul,nul
+990,3.161575,0.000002,-0.000002,0,0,nul,nul,0,87.96,0.62,-0.49,0,0.72,0.06,-0.06,0,nul,nul,nul,nul,1.32,0.05,-0.05,0,0.426,0.053,-0.053,0,1.07,0.03,0,nul,1.09,0.03,0,nul,nul,nul,nul,nul,nul
+991,1.5373653,0.0000026,-0.0000026,0,0,nul,nul,0,83.61,0.21,-0.21,0,2.303,0.068,-0.068,0,nul,nul,nul,nul,1.281,0.029,-0.029,0,1.458,0.089,-0.089,0,1.04,0.03,0,nul,0.95,0.02,0,nul,nul,nul,nul,nul,nul
+992,3.577469,0.000011,-0.000011,0,0,nul,nul,0,88.82,0.77,-0.86,0,1.8,0.17,-0.17,0,nul,nul,nul,nul,1.16,0.07,-0.06,0,1.53,0.16,-0.2,0,0.93,0.12,0,nul,1,0.05,0,nul,nul,nul,nul,nul,nul
+993,6.871815,0.000045,-0.000042,0,0.0314,0.0046,-0.0041,0,88.69,0.3,-0.25,0,2.691,0.058,-0.058,0,nul,nul,nul,nul,1.094,0.029,-0.028,0,2.74,0.186,-0.186,0,1.2,0.04,0,nul,1.33,0.03,0,nul,nul,nul,nul,nul,nul
+994,4.055259,0.000009,-0.000009,0,0,nul,nul,0,87.83,0.25,-0.22,0,0.28,0.03,-0.03,0,nul,nul,nul,nul,1.27,0.04,-0.04,0,0.186,0.027,-0.027,0,0.93,0.03,0,nul,0.9,0.02,0,nul,nul,nul,nul,nul,nul
+995,3.052401,0.000004,-0.000004,0,0,nul,nul,0,87.7,0.08,-0.08,0,0.92,0.06,-0.06,0,nul,nul,nul,nul,1.2,0.06,-0.06,0,0.665,0.106,-0.106,0,0.93,0.03,0,nul,0.9,0.05,0,nul,nul,nul,nul,nul,nul
+996,4.9816872,0.0000073,-0.0000073,0,0.06,0.013,-0.013,0,88.25,0.27,-0.23,0,0.5,0.035,-0.035,0,nul,nul,nul,nul,1.08,0.057,-0.057,0,0.528,0.072,-0.063,0,0.88,0.09,0,nul,0.86,0.04,0,nul,nul,nul,nul,nul,nul
+997,0.813475,0.000001,-0.000001,0,0,nul,nul,0,82.6,1.3,-0.9,0,1.78,0.1,-0.1,0,nul,nul,nul,nul,0.93,0.07,-0.09,0,2.939,0.971,-0.545,0,0.58,0.05,0,nul,0.6,0.04,0,nul,nul,nul,nul,nul,nul
+998,2.4238039,0.0000087,-0.0000087,0,0,nul,nul,0,86.02,1.11,-0.86,0,0.889,0.062,-0.062,0,nul,nul,nul,nul,1.14,0.11,-0.11,0,0.811,0.306,-0.2,0,0.95,0.03,0,nul,0.93,0.07,0,nul,nul,nul,nul,nul,nul
+999,3.1260876,0.0000035,-0.0000035,0,0,nul,nul,0,84.47,0.54,-0.79,0,1.007,0.053,-0.053,0,nul,nul,nul,nul,1.16,0.28,-0.14,0,0.851,0.399,-0.399,0,0.91,0.06,0,nul,0.94,0.09,0,nul,nul,nul,nul,nul,nul
+1000,1.43037,0.0000023,-0.0000023,0,0,nul,nul,0,82.63,0.38,-0.38,0,2.101,0.073,-0.073,0,nul,nul,nul,nul,1.31,0.051,-0.051,0,1.25,0.146,-0.146,0,0.96,0.03,0,nul,0.92,0.03,0,nul,nul,nul,nul,nul,nul
+1001,4.1591399,0.0000072,-0.0000072,0,0.11,nul,nul,1,89.2,0.5,-0.7,0,1.14,0.05,-0.05,0,nul,nul,nul,nul,1.15,0.04,-0.02,0,0.984,0.067,-0.08,0,1.08,0.04,0,nul,1.15,0.03,0,nul,nul,nul,nul,nul,nul
+1002,2.143634,0.000003,-0.000003,0,0,nul,nul,0,80.09,0.88,-0.79,0,0.98,0.09,-0.09,0,nul,nul,nul,nul,1.67,0.1,-0.1,0,0.279,0.053,-0.053,0,1.19,0.05,0,nul,1.75,0.09,0,nul,nul,nul,nul,nul,nul
+1003,2.7817387,0.0000056,-0.0000056,0,0,nul,nul,0,84.89,0.19,-0.19,0,0.378,0.027,-0.027,0,nul,nul,nul,nul,1.115,0.047,-0.047,0,0.363,0.04,-0.035,0,0.94,0.08,0,nul,0.98,0.03,0,nul,nul,nul,nul,nul,nul
+1004,1.9550959,0.0000051,-0.0000051,0,0.009,0.011,-0.006,0,84.74,0.24,-0.24,0,1.468,0.091,-0.086,0,nul,nul,nul,nul,1.153,0.048,-0.048,0,1.274,0.126,-0.109,0,0.89,0.08,0,nul,0.84,0.03,0,nul,nul,nul,nul,nul,nul
+1005,1.7497798,0.0000012,-0.0000012,0,0,nul,nul,0,85.35,0.2,-0.2,0,0.46,0.02,-0.02,0,nul,nul,nul,nul,1.27,0.03,-0.03,0,0.29,0.03,-0.03,0,0.87,0.03,0,0,0.79,0.02,0,0,5.2,K2 V,nul,0,0
+1006,3.6936411,0.0000043,-0.0000074,0,0.067,0.033,-0.025,0,84.97,0.63,-0.59,0,0.636,0.025,-0.024,0,nul,nul,nul,nul,1.653,0.09,-0.083,0,0.188,0.029,-0.025,0,1.21,0.03,0,0,1.83,0.09,0,0,3.9,F9,nul,0,0
+1007,4.465633,0.000004,-0.000004,0,0.2,nul,nul,1,89.2,0.6,-0.6,0,0.57,0.04,-0.04,0,nul,nul,nul,nul,1.3,0.05,-0.03,0,0.346,0.027,-0.04,0,1.01,0.04,0,nul,1.06,0.03,0,nul,nul,nul,nul,nul,nul
+1008,4.617101,0.000004,-0.000002,0,0,nul,nul,0,88.5,0.1,-0.2,0,0.571,0.034,-0.035,0,nul,nul,nul,nul,1.092,0.035,-0.033,0,0.583,0.064,-0.061,0,1.02,0.02,0,0,1.11,0.03,0,0,4.6,G6,nul,0,0
+1009,2.838971,0.000002,-0.000002,0,0,nul,nul,0,88,0.1,-0.2,0,0.672,0.049,-0.046,0,nul,nul,nul,nul,0.916,0.017,-0.014,0,1.161,0.101,-0.094,0,0.95,0.03,0,0,0.84,0.07,0,0,4.6,G6,nul,0,0
+1010,5.01718,0.000011,-0.000011,0,0,nul,nul,0,87.4,1.5,-1.5,0,0.89,0.07,-0.07,0,nul,nul,nul,nul,1.37,0.2,-0.2,0,0.45,0.19,-0.19,0,0.94,0.1,0,0,1.17,0.13,0,0,4.2,G2 V,nul,0,0
+1011,7.919585,0.00001,-0.00001,0,0.1,0.042,-0.042,0,89.27,0.52,-0.52,0,0.863,0.045,-0.045,0,nul,nul,nul,nul,0.775,0.068,-0.068,0,2.4,0.7,-0.7,0,0.72,0.04,0,0,0.61,0.04,0,0,5.5,K5 V,nul,0,0
+1012,4.3050011,0.0000062,-0.0000062,0,0,nul,nul,0,87.9,1.6,-1.6,0,0.514,0.034,-0.034,0,nul,nul,nul,nul,0.86,0.12,-0.12,0,1.1,0.4,-0.4,0,1.08,0.04,0,0,1.14,0.13,0,0,4.1,G1 V,nul,0,0
+1013,3.8559,0.000003,-0.000003,0,0.26,nul,nul,1,89.35,0.45,-0.66,0,2.06,0.17,-0.17,0,nul,nul,nul,nul,1.24,0.03,-0.03,0,1.423,0.12,-0.12,0,1.22,0.07,0,nul,1.36,0.03,0,nul,nul,nul,nul,nul,nul
+1014,4.411953,0.000003,-0.000003,0,0.21,nul,nul,1,88.3,0.9,-0.6,0,0.57,0.04,-0.04,0,nul,nul,nul,nul,1.39,0.06,-0.06,0,0.279,0.04,-0.04,0,1.25,0.05,0,nul,1.28,0.05,0,nul,nul,nul,nul,nul,nul
+1015,4.37809,0.000006,-0.000006,0,0.22,nul,nul,1,87.8,1.3,-1.3,0,0.38,0.03,-0.03,0,nul,nul,nul,nul,1.43,0.1,-0.06,0,0.173,0.027,-0.027,0,1.32,0.05,0,nul,1.88,0.1,0,nul,nul,nul,nul,nul,nul
+1016,1.5732918,0.0000015,-0.0000015,0,0,nul,nul,0,86.57,0.8,-0.6,0,1.271,0.068,-0.068,0,nul,nul,nul,nul,1.271,0.039,-0.039,0,0.823,0.085,-0.069,0,1,0.03,0,0,1.06,0.03,0,0,4.7,G7,nul,0,0
+1017,2.3114243,0.0000015,-0.0000015,0,0,nul,nul,0,88.8,0.8,-0.7,0,1.55,0.16,-0.16,0,nul,nul,nul,nul,1.112,0.059,-0.059,0,1.5,0.09,-0.11,0,0.93,0.14,0,0,1.01,0.05,0,0,4.6,G6,nul,0,0
+1018,4.086052,0.000007,-0.000007,0,0.11,nul,nul,1,85.9,0.9,-0.9,0,2.32,0.13,-0.13,0,nul,nul,nul,nul,1.39,0.09,-0.09,0,1.144,0.226,-0.173,0,1.3,0.07,0,nul,1.75,0.09,0,nul,nul,nul,nul,nul,nul
+1019,4.61442,0.00001,-0.00001,0,0.2,nul,nul,1,85.8,0.3,-0.4,0,0.42,0.04,-0.04,0,nul,nul,nul,nul,1.4,0.3,-0.2,0,0.213,0.106,-0.106,0,0.87,0.04,0,nul,0.87,0.04,0,nul,nul,nul,nul,nul,nul
+1020,2.9036747,0.0000068,-0.0000068,0,0,nul,nul,0,84.9,2.2,-2.2,0,2.242,0.08,-0.08,0,nul,nul,nul,nul,1.46,0.13,-0.13,0,0.94,0.21,-0.21,0,1.56,0.07,0,0,2.26,0.17,0,0,3.8,F8,nul,0,0
+1021,2.2167421,0.0000081,-0.0000081,0,0,nul,nul,0,81.6,3.2,-2.6,0,1.5461,0.059,-0.056,0,nul,nul,nul,nul,1.27,0.2,-0.2,0,0.96,0.57,-0.33,0,1.39,0.06,0,0,1.98,0.24,0,0,3.7,F7,nul,0,0
+1022,2.484193,0.000003,-0.000003,0,0,nul,nul,0,82,0.3,-0.2,0,1.07,0.05,-0.05,0,nul,nul,nul,nul,1.27,0.048,-0.048,0,0.69,0.08,-0.07,0,1.14,0.07,0,0,1.26,0.04,0,0,3.9,F9,nul,0,0
+1023,1.3600309,0.000002,-0.000002,0,0,nul,nul,0,89.4,0.4,-0.7,0,1.76,0.06,-0.06,0,nul,nul,nul,nul,1.21,0.02,-0.02,0,1.33,0.04,-0.04,0,1,0.04,0,0,0.95,0.01,0,0,4.8,G8 V,nul,0,0
+1024,2.17517632,0.0000047,-0.0000047,0,0,nul,nul,0,83.2,2.3,-1.6,0,0.89,0.08,-0.08,0,nul,nul,nul,nul,1.7,0.11,-0.11,0,0.2394,0.0532,-0.0532,0,1.17,0.13,0,nul,1.6,0.41,0,nul,nul,nul,nul,nul,nul
+1025,3.6623866,0.0000085,-0.0000085,0,0,nul,nul,0,83.3,0.5,-0.5,0,0.9,0.08,-0.08,0,nul,nul,nul,nul,2.09,0.14,-0.14,0,0.13,0.03,-0.03,0,1.38,0.12,0,nul,1.53,0.31,0,nul,nul,nul,nul,nul,nul
+1026,3.0678504,0.0000023,-0.0000027,0,0.07,nul,nul,1,89.92,0.07,-0.12,0,0.554,0.03,-0.039,0,nul,nul,nul,nul,0.952,0.026,-0.027,0,0.737,0.04,-0.052,0,0.57,0.05,0,0,0.57,0.02,0,0,5.7,K7 V,nul,0,0
+1027,0.925542,0.000019,-0.000019,0,nul,nul,nul,nul,86.3,2.7,-2.7,0,1.49,0.088,-0.088,0,nul,nul,nul,nul,1.528,0.073,-0.047,0,0.55,0.061,-0.07,0,1.22,0.04,0,0,1.44,0.05,0,0,3.8,F8 V,nul,0,0
+1028,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,7.5,1.5,-1.5,0,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,0.62,0.03,0,0,nul,nul,nul,nul,nul,nul,nul,nul,nul
+1029,3.352057,0.000013,-0.000015,0,0.1,nul,nul,1,85.5,1,-0.7,0,4.01,0.35,-0.35,0,nul,nul,nul,nul,1.49,0.16,-0.18,0,1.61,0.56,-0.56,0,1.2,0.1,0,0,1.15,0.1,0,0,3.6,F6 V,nul,0,0
+1030,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,nul,22,2,-2,0,nul,nul,nul,nul,0.934,0.029,-0.029,0,nul,nul,nul,nul,0.03,0.01,0,0,0.09,0,0,0,8.85,T8.5,nul,0,0
+1031,3.94150685,0.00000202,-0.00000202,0,0,nul,nul,0,88.8,0.2,-0.2,0,0.92,0.08,-0.08,0,nul,nul,nul,nul,1.21,0.03,-0.03,0,0.64,0.05,-0.05,0,1.03,0.06,0,nul,0.94,0.02,0,nul,4.1,G1 V,nul,0,0
+1032,2.615864,0.0000016,-0.0000016,0,nul,nul,nul,nul,nul,nul,nul,nul,0.565,0.054,-0.054,0,nul,nul,nul,nul,0.996,0.031,-0.018,0,nul,nul,nul,nul,0.97,0.03,0,nul,0.98,0.02,0,nul,5,K0 V,nul,0,0
+1033,3.1915239,0.0000068,-0.0000068,0,0.26,0.017,-0.017,0,84.2,0.54,-0.54,0,11.79,0.59,-0.59,0,nul,nul,nul,nul,1.217,0.073,-0.073,0,8.1,1.7,-1.3,0,1.21,0.07,0,nul,1.38,0.08,0,nul,3.5,F5 V,nul,0,0
+1034,4.1250828,0.000004,-0.000004,0,0,nul,nul,0,88.8,0.6,-0.6,0,1.78,0.08,-0.08,0,nul,nul,nul,nul,1.33,0.05,-0.05,0,nul,nul,nul,nul,1.32,0.02,0,0,1.55,0.05,0,0,3.5,F5 V,nul,0,0
+1035,4.187757,0.000011,-0.000011,0,nul,nul,nul,nul,86.7,0.4,-0.4,0,1.059,0.028,-0.028,0,nul,nul,nul,nul,1.109,0.05,-0.05,0,0.96,0.14,-0.11,0,0.88,0.03,0,nul,1.08,0.04,0,nul,nul,nul,nul,nul,nul
