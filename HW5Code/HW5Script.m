@@ -88,3 +88,4 @@ semilogy(AvgRad(:,1),AvgRad(:,2),'.')
 xlabel('Year of Publication')
 ylabel('Planets year-Average Radius (Log Jupiter Radius)')
 title('Exoplanet year-Averaged Radius vs. Pub. year')
+

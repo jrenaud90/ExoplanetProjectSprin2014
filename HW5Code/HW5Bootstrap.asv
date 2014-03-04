@@ -1,0 +1,33 @@
+clear all
+file = load('mass.mat');
+mass = file.Mass;
+clear file
+bootstrap = 900;
+%1988, 13 + 13 -> 2014
+count1 = 1;
+count2 = 1;
+for i=1:length(mass(:,1))
+    if mass(i,2) <= 2001
+        MassFirst(count1) = mass(i,1);
+        count1 = count1 +1;
+    else
+        MassSec(count2) = mass(i,1);
+        count2 = count2 +1;
+    end
+end
+clear count1 count2 i
+%Bootstrapping
+FirstHalfMassMeans = BootstrapM2(MassFirst,bootstrap);
+SecHalfMassMeans = BootstrapM2(MassSec,bootstrap);
+x = 13;
+mn = min(SecHalfMassMeans);
+mx = max(SecHalfMassMeans);
+dx = m
+ %Hists will be the same size because we set the bin locations:
+y1 = hist(FirstHalfMassMeans, x);   
+y2 = hist(SecHalfMassMeans, x);
+
+% plot the results:
+figure(3);
+bar([min(SecHalfMassMeans):, [y1;y2]');
+title('Mixed size result');
