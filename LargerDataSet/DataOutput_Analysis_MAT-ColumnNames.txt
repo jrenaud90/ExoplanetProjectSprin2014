@@ -1,0 +1,7 @@
+1:Year
+2:Mean of Bootstrapped Medians Masses, Earth Mass
+3:std of Bootstrapped Medians Masses, Earth Mass
+4:Actual Planet # Sample Size of Masses
+5:Mean of Bootstrapped Means of dists, pcs
+6:std of Bootstrapped means of dists, pcs
+7:Actual Planet # Sample Size of dists
