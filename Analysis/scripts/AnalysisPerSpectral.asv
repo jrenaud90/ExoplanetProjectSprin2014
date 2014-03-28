@@ -27,10 +27,11 @@ end
 %%Plotting
 
 sr2=['M','K','G'];
+figure('Name','RMPvS','Visible','off')
+count = 1;
 for k=1:3
-    figure(k)
     for j=1:3
-        subplot(1,3,j)
+        subplot(3,3,count)
         if k == 1
             hist(Radius(j,:),ceil(sum(~isnan(Radius(j,:)))/5));
             sr = strcat('Radius:',sr2(j),',Sample:',Rst{j});
@@ -44,8 +45,11 @@ for k=1:3
             sr = strcat('Period:',sr2(j),',Sample:',Pst{j});
             xlabel(sr)
         end
+        count = count + 1;
     end
 end
+file=['APS_out\','RMPvS','.png'];
+print('-dpng',file)
 
 %%Resample%%%
 Comp=100;
@@ -79,16 +83,17 @@ end
 %%Plotting
 
 sr2=['M','K','G'];
+figure('Name','RMPvS','Visible','off')
+count = 1;
 for k=4:6
-    figure(k)
     for j=1:3
-        subplot(1,3,j)
-        if k == 1
+        subplot(3,3,count)
+        if k == 4
             hist(RadiusBoot(j,:),ceil(sum(~isnan(RadiusBoot(j,:)))/(10*Comp)));
             sr = strcat('Radius:',sr2(j),',Sample:',Rst{j});
             xlabel(sr)
             file2='BootStrappedRadii';
-        elseif k == 2
+        elseif k == 5
             hist(MassBoot(j,:),ceil(sum(~isnan(MassBoot(j,:)))/(40*Comp)));
             sr = strcat('Mass:',sr2(j),',Sample:',Mst{j});
             xlabel(sr)
@@ -99,7 +104,9 @@ for k=4:6
             xlabel(sr)
             file2='BootStrappedPeriod';
         end
+        count = cou
     end
-    print(file2,'-epsc2',
+    file=['APS_out\',file2,'.png'];
+    print('-dpng',file)
 end
         

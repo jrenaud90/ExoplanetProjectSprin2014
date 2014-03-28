@@ -1,6 +1,7 @@
 function [k] = DoanesBins(DataSet,round_qst)
 % Doane DP (1976) Aesthetic frequency classi?cation. American Statistician, 30: 181–183
-n = sum(~isnan(DataSet));
+n = length(DataSet);
+n = sum(~isnan(Da
 avg = mean(DataSet);
 %  g_{1} is the estimated 3rd-moment-skewness
 num = zeros(n,1);

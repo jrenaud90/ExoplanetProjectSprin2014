@@ -1,9 +1,10 @@
 clear all
-data = load('SpTypeReduced.csv');
-Radius=NaN*ones(3,556);
-Mass=NaN*ones(3,556);
-Period=NaN*ones(3,556);
-for i =1:556
+data = load('SpTypeReduced18Jmassredu_noradconsid.csv');
+l = length(data(:,4));
+Radius=NaN*ones(3,l);
+Mass=NaN*ones(3,l);
+Period=NaN*ones(3,l);
+for i =1:l
     indx = data(i,4);
     if ~isnan(data(i,3))
         Radius(indx,sum(~isnan(Radius(indx,:)))+1)=data(i,3);
@@ -27,30 +28,29 @@ end
 %%Plotting
 
 sr2=['M','K','G'];
+figure('Name','RMPvS','Visible','off')
+count = 1;
 for k=1:3
-    figure('Name',num2str(k),'Visible','off')
     for j=1:3
-        subplot(1,3,j)
+        subplot(3,3,count)
         if k == 1
-            hist(Radius(j,:),ceil(sum(~isnan(Radius(j,:)))/5));
+            hist(Radius(j,:),7);
             sr = strcat('Radius:',sr2(j),',Sample:',Rst{j});
             xlabel(sr)
-            file2='Radii';
         elseif k == 2
-            hist(Mass(j,:),ceil(sum(~isnan(Mass(j,:)))/20));
+            hist(Mass(j,:),15);
             sr = strcat('Mass:',sr2(j),',Sample:',Mst{j});
             xlabel(sr)
-            file2='Mass';
         else
-            hist(Period(j,:),ceil(sum(~isnan(Period(j,:)))/20));
+            hist(Period(j,:),15);
             sr = strcat('Period:',sr2(j),',Sample:',Pst{j});
             xlabel(sr)
-            file2='Period';
         end
+        count = count + 1;
     end
-    file=['APS_out\',file2,'.png'];
-    print('-dpng',file)
 end
+file=['APS_out\','RMPvS','.png'];
+print('-dpng',file)
 
 %%Resample%%%
 Comp=100;
@@ -84,28 +84,30 @@ end
 %%Plotting
 
 sr2=['M','K','G'];
+figure('Name','RMPvS_Boot','Visible','off')
+count = 1;
 for k=4:6
-    figure('Name',num2str(k),'Visible','off')
     for j=1:3
-        subplot(1,3,j)
+        subplot(3,3,count)
         if k == 4
-            hist(RadiusBoot(j,:),ceil(sum(~isnan(RadiusBoot(j,:)))/(10*Comp)));
+            hist(RadiusBoot(j,:));
             sr = strcat('Radius:',sr2(j),',Sample:',Rst{j});
             xlabel(sr)
             file2='BootStrappedRadii';
         elseif k == 5
-            hist(MassBoot(j,:),ceil(sum(~isnan(MassBoot(j,:)))/(40*Comp)));
+            hist(MassBoot(j,:),20);
             sr = strcat('Mass:',sr2(j),',Sample:',Mst{j});
             xlabel(sr)
             file2='BootStrappedMass';
         else
-            hist(PeriodBoot(j,:),ceil(sum(~isnan(PeriodBoot(j,:)))/(40*Comp)));
+            hist(PeriodBoot(j,:),20);
             sr = strcat('Period:',sr2(j),',Sample:',Pst{j});
             xlabel(sr)
             file2='BootStrappedPeriod';
         end
+        count = count +1;
     end
-    file=['APS_out\',file2,'.png'];
-    print('-dpng',file)
 end
+file=['APS_out\','RMPvS_Boot','.png'];
+print('-dpng',file)
         
