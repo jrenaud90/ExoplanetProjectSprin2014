@@ -110,4 +110,69 @@ for k=4:6
 end
 file=['APS_out\','RMPvS_Boot','.png'];
 print('-dpng',file)
+
+
+
+%%
+Tail = 1;
+count = 1;
+count2 = 1;
+count3 =1;
+for i = [0.5,0.1,0.05,0.01,0.005,0.001,0.0005,0.0001]
+    for j=1:3
+        for k =1:3
+            hr = kstest2(Radius(j,:),Radius(k,:),'Alpha',i);
+            if hr == 1
+                testr(count,1) = i;
+                testr(count,2) = j;
+                testr(count,3) = k;
+                count = count +1;
+            end
+            hm = kstest2(Mass(j,:),Mass(k,:),'Alpha',i);
+            if hm == 1
+                testm(count2,1) = i;
+                testm(count2,2) = j;
+                testm(count2,3) = k;
+                count2 = count2 +1;
+            end
+            hp = kstest2(Period(j,:),Period(k,:),'Alpha',i);
+            if hp == 1
+                testp(count3,1) = i;
+                testp(count3,2) = j;
+                testp(count3,3) = k;
+                count3 = count3 +1;
+            end
+        end
+    end
+end
+count = 1;
+count2 = 1;
+count3 =1;
+for i = [0.5,0.1,0.05,0.01,0.005,0.001,0.0005,0.0001]
+    for j=1:3
+        for k =1:3
+            hr = kstest2(RadiusBoot(j,:),RadiusBoot(k,:),'Alpha',i);
+            if hr == 1
+                testrb(count,1) = i;
+                testrb(count,2) = j;
+                testrb(count,3) = k;
+                count = count +1;
+            end
+            hm = kstest2(MassBoot(j,:),MassBoot(k,:),'Alpha',i);
+            if hm == 1
+                testmb(count2,1) = i;
+                testmb(count2,2) = j;
+                testmb(count2,3) = k;
+                count2 = count2 +1;
+            end
+            hp = kstest2(PeriodBoot(j,:),PeriodBoot(k,:),'Alpha',i);
+            if hp == 1
+                testpb(count3,1) = i;
+                testpb(count3,2) = j;
+                testpb(count3,3) = k;
+                count3 = count3 +1;
+            end
+        end
+    end
+end
         
