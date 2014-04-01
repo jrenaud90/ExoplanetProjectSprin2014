@@ -12,7 +12,6 @@ years = min(yrs):1:max(yrs);
 for i = years
     k = find(yrs==i);
     for j = k
-        
     end
 end
     
