@@ -37,4 +37,6 @@ for j=1:7
     str=num2str(j+2007);
     strF=strcat('Year: ',str);
     title(strF)
+    strN=strcat('Year_',str);
+    print('-dpng',strN)
 end
