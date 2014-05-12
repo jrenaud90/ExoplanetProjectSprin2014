@@ -92,7 +92,7 @@ probvect = zeros(1,40);
 probss(1,:) = log10([1.4,2,2.8,4,5.7,8,11.6,16]);
 probss(2,:) = [0.12,0.142,0.186,0.059,0.019,.01,.009,0.007];
 for i = 1:length(xprob);
-    ind = find(probss(1,:)<=(xprob(i)+0.05)); %Change +0.0 to 0.1
+    ind = find(probss(1,:)<=(xprob(i)+0.0)); %Change +0.0 to 0.1
     if isempty(ind)
         probvect(i) = 0;
     else
@@ -100,7 +100,7 @@ for i = 1:length(xprob);
     end
 end
 nprob = (max(NNconf2)/max(probvect))*probvect;
-figure(4)
+figure(5)
 stairs(xprob,nprob,'b','LineWidth',2); hold on 
 stairs(xconf2,Nconf2/sum(Nconf2),'k','LineWidth',2);
 
@@ -108,20 +108,12 @@ stairs(xconf2,Nconf2/sum(Nconf2),'k','LineWidth',2);
 l = length(nprob);
 scale = max(NNconf2)/max(probvect);
 for i = 1:100
-nrprob(i,:) = nprob+ randn(1,l).*(scale*(1/100));
-nrprob(find(nrprob(i,:)<0))=0;
+nrprob(1,:) = nprob+ randn(1,l).*(scale*(1/45));
+nrprob(find(nrprob(1,:)<0))=0;
 end
 for i = 1:length(xprob)
     npp(i) = mean(nrprob(:,i));
 end
-figure(5)
-stairs(xprob,nrprob(1,:),'b','LineWidth',2); hold on 
-stairs(xconf2,Nconf2/sum(Nconf2),'k','LineWidth',2)
 figure(6)
 stairs(xprob,npp,'b','LineWidth',2); hold on 
-stairs(xconf2,Nconf2/sum(Nconf2),'k','LineWidth',2)
-figure(7)
-for i = 1:40
-    stairs(xprob,nrprob(i,:),'b','LineWidth',2); hold on 
-end
-stairs(xconf2,Nconf2/sum(Nconf2),'k','LineWidth',4)
+%stairs(xconf2,Nconf2/sum(Nconf2),'k','LineWidth',2);

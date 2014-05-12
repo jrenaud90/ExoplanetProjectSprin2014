@@ -18,16 +18,16 @@ C.~Lovis, D.~Fischer, and S.~Seager.
 \newblock {\em Exoplanets}, 2010.
 \newblock University of Arizona Press.
 
+\bibitem{Marcey1}
+G.~W. Marcy and et~al.
+\newblock Observed properties of exoplanets: Masses, orbits and metallicities.
+\newblock {\em Prog. Theor. Physics Suppl.}, 2005.
+
 \bibitem{occ2}
 G.~W. Marcy and Howard~A. W.
 \newblock The occurrence and the distribution of masses and radii of
   exoplanets.
 \newblock {\em Astrophysics of Planetary Systems}, 276:3--12, 2011.
-
-\bibitem{Marcey1}
-G.~W. et~al Marcy.
-\newblock Observed properties of exoplanets: Masses, orbits and metallicities.
-\newblock {\em Prog. Theor. Physics Suppl.}, 2005.
 
 \bibitem{kep2}
 NASA.
@@ -45,6 +45,11 @@ J.~NASA:~Fanson and W.~Borucki.
 \bibitem{pug}
 E.~A. Petigura, A.~W. Howard, and G.~W. Marcy.
 \newblock Prevalence of earth-size planets orbiting sun-like stars.
+\newblock 2013.
+
+\bibitem{ray1}
+S.~N. Raymond and et~al.
+\newblock Terrestrial planet formation at home and abroad.
 \newblock 2013.
 
 \bibitem{TR1}

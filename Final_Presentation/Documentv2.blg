@@ -1,4 +1,4 @@
-This is BibTeX, Version 0.99dThe top-level auxiliary file: Document.aux
+This is BibTeX, Version 0.99dThe top-level auxiliary file: Documentv2.aux
 The style file: plain.bst
 Database file #1: DocumentR.bib
 I was expecting a `,' or a `}'---line 61 of file DocumentR.bib
@@ -16,5 +16,11 @@ I was expecting a `,' or a `}'---line 73 of file DocumentR.bib
  :    journal = {Proc. of the Natl. Acad. of Science}
 (Error may have been on previous line)
 I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 80 of file DocumentR.bib
+ :    
+ :    journal = {Protostars and Planets VI}
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
 Warning--empty journal in pug
-(There were 3 error messages)
+Warning--empty journal in ray1
+(There were 4 error messages)

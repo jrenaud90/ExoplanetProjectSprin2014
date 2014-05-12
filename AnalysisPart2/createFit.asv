@@ -1,0 +1,97 @@
+function createFit(xconf2,Nconf2,xkoi,Nkoi,xtran,Ntran)
+%CREATEFIT    Create plot of datasets and fits
+%   CREATEFIT(XCONF2,NCONF2,XKOI,NKOI,XTRAN,NTRAN)
+%   Creates a plot, similar to the plot in the main distribution fitting
+%   window, using the data that you provide as input.  You can
+%   apply this function to the same data you used with dfittool
+%   or with different data.  You may want to edit the function to
+%   customize the code and this help message.
+%
+%   Number of datasets:  3
+%   Number of fits:  0
+%
+%   See also FITDIST.
+
+% This function was automatically generated on 12-May-2014 00:57:46
+
+% Data from dataset "Confirmed (Normalized)":
+%    Y = xconf2
+%    Frequency = Nconf2
+
+% Data from dataset "koi data":
+%    Y = xkoi
+%    Frequency = Nkoi
+
+% Data from dataset "xtran data":
+%    Y = xtran
+%    Frequency = Ntran
+
+% Force all inputs to be column vectors
+xconf2 = xconf2(:);
+Nconf2 = Nconf2(:);
+xkoi = xkoi(:);
+Nkoi = Nkoi(:);
+xtran = xtran(:);
+Ntran = Ntran(:);
+
+% Prepare figure
+clf;
+hold on;
+LegHandles = []; LegText = {};
+
+
+% --- Plot data originally in dataset "Confirmed (Normalized)"
+[CdfF,CdfX] = ecdf(xconf2,'Function','cdf','freq',Nconf2);  % compute empirical cdf
+BinInfo.rule = 3;
+BinInfo.nbins = 40;
+[~,BinEdge] = internal.stats.histbins(xconf2,[],Nconf2,BinInfo,CdfF,CdfX);
+[BinHeight,BinCenter] = ecdfhist(CdfF,CdfX,'edges',BinEdge);
+hLine = bar(BinCenter,BinHeight,'hist');
+set(hLine,'FaceColor','none','EdgeColor',[0.333333 0 0.666667],...
+    'LineStyle','-', 'LineWidth',1);
+xlabel('Data');
+ylabel('Density')
+LegHandles(end+1) = hLine;
+LegText{end+1} = 'Confirmed';
+
+% --- Plot data originally in dataset "koi data"
+[CdfF,CdfX] = ecdf(xkoi,'Function','cdf','freq',Nkoi);  % compute empirical cdf
+BinInfo.rule = 3;
+BinInfo.nbins = 40;
+[~,BinEdge] = internal.stats.histbins(xkoi,[],Nkoi,BinInfo,CdfF,CdfX);
+[BinHeight,BinCenter] = ecdfhist(CdfF,CdfX,'edges',BinEdge);
+hLine = bar(BinCenter,BinHeight,'hist');
+set(hLine,'FaceColor','none','EdgeColor',[0.333333 0.666667 0],...
+    'LineStyle','-', 'LineWidth',1);
+xlabel('Data');
+ylabel('Density')
+LegHandles(end+1) = hLine;
+LegText{end+1} = 'koi data';
+
+% --- Plot data originally in dataset "xtran data"
+[CdfF,CdfX] = ecdf(xtran,'Function','cdf','freq',Ntran);  % compute empirical cdf
+BinInfo.rule = 3;
+BinInfo.nbins = 40;
+[~,BinEdge] = internal.stats.histbins(xtran,[],Ntran,BinInfo,CdfF,CdfX);
+[BinHeight,BinCenter] = ecdfhist(CdfF,CdfX,'edges',BinEdge);
+hLine = bar(BinCenter,BinHeight,'hist');
+set(hLine,'FaceColor','none','EdgeColor',[0 0 0],...
+    'LineStyle','-', 'LineWidth',1);
+xlabel('Data');
+ylabel('Density')
+LegHandles(end+1) = hLine;
+LegText{end+1} = 'xtran data';
+
+% Create grid where function will be computed
+XLim = get(gca,'XLim');
+XLim = XLim + [-1 1] * 0.01 * diff(XLim);
+XGrid = linspace(XLim(1),XLim(2),100);
+
+
+% Adjust figure
+box on;
+hold off;
+
+% Create legend from accumulated handles and labels
+hLegend = legend(LegHandles,LegText,'Orientation', 'vertical', 'Location', 'NorthEast');
+set(hLegend,'Interpreter','none');
