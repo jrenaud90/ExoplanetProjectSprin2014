@@ -31,7 +31,7 @@ count2=count2+1;
 end
 for j=1:7
     figure(j)
-    hist(radtot{j},40)
+    hist(radtot{j},20)
     xlabel('Radii (Earth Radius)')
     ylabel('Density')
     str=num2str(j+2007);

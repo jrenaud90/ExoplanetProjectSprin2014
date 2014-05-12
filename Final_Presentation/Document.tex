@@ -18,7 +18,6 @@
 %----------------------------------------------------------------------------------------
 %	PACKAGES AND OTHER DOCUMENT CONFIGURATIONS
 %----------------------------------------------------------------------------------------
-
 \documentclass[
 10pt, % Main document font size
 a4paper, % Paper type, use 'letterpaper' for US Letter paper
@@ -29,7 +28,6 @@ BCOR5mm, % Binding correction
 ]{scrartcl}
 
 \input{structure.tex} % Include the structure.tex file which specified the document structure and layout
-
 \hyphenation{Fortran hy-phen-ation} % Specify custom hyphenation points in words with dashes where you would like hyphenation to occur, or alternatively, don't put any dashes in a word to stop hyphenation altogether
 
 %----------------------------------------------------------------------------------------
@@ -38,7 +36,7 @@ BCOR5mm, % Binding correction
 
 \title{\normalfont\spacedallcaps{Sub-Jupiter Radius Occurrence Rate Anomaly}} % The article title
 
-\author{\spacedlowsmallcaps{Joe Renaud* \& James Smith\textsuperscript{1}}} % The article author(s) - author affiliations need to be specified in the AUTHOR AFFILIATIONS block
+\author{\spacedlowsmallcaps{Joe Renaud}} % The article author(s) - author affiliations need to be specified in the AUTHOR AFFILIATIONS block
 
 \date{} % An optional date to appear under the author(s)
 
@@ -76,15 +74,13 @@ BCOR5mm, % Binding correction
 
 \section*{Abstract} % This section will not appear in the table of contents due to the star (\section*)
 
-\lipsum[1] % Dummy text
-
 %----------------------------------------------------------------------------------------
 %	AUTHOR AFFILIATIONS
 %----------------------------------------------------------------------------------------
 
-\let\thefootnote\relax\footnotetext{* \textit{Department of Biology, University of Examples, London, United Kingdom}}
+%\let\thefootnote\relax\footnotetext{* \textit{Department of Biology, University of Examples, London, United Kingdom}}
 
-\let\thefootnote\relax\footnotetext{\textsuperscript{1} \textit{Department of Chemistry, University of Examples, London, United Kingdom}}
+%\let\thefootnote\relax\footnotetext{\textsuperscript{1} \textit{Department of Chemistry, University of Examples, London, United Kingdom}}
 
 %----------------------------------------------------------------------------------------
 
@@ -96,16 +92,50 @@ BCOR5mm, % Binding correction
 
 \section{Introduction}
 
-A statement requiring citation \cite{Figueredo:2009dg}.
+Since the first confirmation of an extra-solar planet in 1992\cite{Wolszczan:1992}, the field of exoplanet research has exploded with nearly 1800 planets currently confirmed (as of May 6th, 2014\cite{ExoData:nasa}). Since the early 90's the detection techniques employed to discover these exoplanets relied heavily upon tracking the Doppler shift in a host star's spectrum. Such a shift could arise from a large, short period, exoplanet. The radial velocity technique formed the majority of exoplanet confirmations well into the late 2000's\cite{RV1}. During this time the transit technique started to gain prevalence. 
+\subsection{Transit Technique and NASA's Kepler Mission}
+Exoplanet transiting refers to the event when a exoplanet passes into the line of sight of the observer to the host star. A host star's light can be monitored over a certain time span; when compared to the light output of similar stars in the same frame - a exoplanet detection can be easily picked out (see figure~\vref{fig:transit}). These light curves allow researchers to determine certain characteristics of the transiting planet. Specifically from one transit one can find the ratio of the radius of the planet compared to the host star. Multiple transits will provide orbital information\cite{TR1}.
+\begin{figure}[tb]
+\centering 
+\includegraphics[width=0.5\columnwidth]{transit} 
+\caption[Transiting Exoplanet]{Cartoon of a transiting exoplanet, image taken from NASA exoplanet database}
+\label{fig:transit} 
+\end{figure}
+The early days of transit discoveries found only large radius planets as these required the least sensitive equipment, and from the fact that the signal to noise ratio of an exoplanet discovery is described by equations 1 and 2. 
+\begin{equation}
+\frac{S}{N} \approx \sqrt{N_{t}}\frac{\delta}{\sigma}
+\label{eq:t1}
+\end{equation}
+\begin{equation}
+\delta = \left(\frac{R_{p}}{R_{*}}\right)^{2}
+\label{eq:t2}
+\end{equation}
+The radius of the planet $R_{p}$ and the radius of the star $R_{*}$ greatly impacts the S/N, as does the photometric precision $\sigma$\cite{DST}. Thus, these early discoveries had limited (and small) photometric precision. Therefore, the only planets that had a decent signal to noise ratio were those with large radii. This can be seen in the histogram of radii for all exoplanets discovered by the transit technique up to 2008 (Figure~\vref{fig:transit2}). Jupiter size planets and larger were common discoveries for the transit technique. It was not until NASA's Kepler mission was launched in 2009\cite{kep2} that photometric precision was increased to the point that sub-Jupiter planets could be detected\cite{kep1}. Once Kepler's data began getting published it became clear that not only could Kepler detect planets down to the sub-Earth size, but it was also able to find planets much more quickly - increasing the exoplanet database size dramatically (Figure~\vref{fig:transit2}). There are over 1700 exoplanets discovered through the transit, and other techniques (last checked on May 10th 2014\cite{ExoData:nasa}). All of these planets provide a good sampling of the potential exoplanets within our galaxy. There has been a number of studies that examine properties of the currently discovered exoplanets (e.g: \cite{occ1,Marcey1,occ2}). This project examines an anomaly in the distribution of exoplanet radii in transiting exoplanets.
+\begin{figure}[tb]
+\centering 
+\includegraphics[width=0.8\columnwidth]{2008TransitRadius} 
+\caption[>2008 Exoplanet transit discoveries]{Exoplanet discoveries made by the transiting technique from 1990 to 2008. The radii are measured in Earth Radii, with ~10 Earth Radius being roughly the size of Jupiter.}
+\label{fig:transit2} 
+\end{figure}
+\begin{figure}[tb]
+\centering 
+\includegraphics[width=0.8\columnwidth]{2014Transit} 
+\caption[Current Transit Technique Discoveries]{Transit technique discoveries up to April 25th 2014. It is clear that since Kepler's launch in 2009, the exoplanet database has grown substantially.}
+\label{fig:transit2} 
+\end{figure}
+\subsection{Radii of Discovered Planets}
+We are specifically curious what the distribution of exoplanet radius has been changing since the introduction of the Kepler mission. Since radius is a primary variable of only the transit technique: most of the analysis will be based upon planets discovered by transiting. However, some planets originally discovered by radial velocity, or other techniques, have been reexamined by telescopes using the transit technique. This allows some analysis of radii of radial velocity exoplanets. 
 
-\lipsum[1-3] % Dummy text
 
-Some mathematics in the text: $\cos\pi=-1$ and $\alpha$.
  
 %----------------------------------------------------------------------------------------
 %	METHODS
 %----------------------------------------------------------------------------------------
+\section{Data}
+The data for this study is obtained from \href{"http://exoplanetarchive.ipac.caltech.edu/cgi-bin/ExoTables/nph-exotbls?dataset=planets"}{NASA Confirmed Exoplanet Database} and 
+\href{"http://exoplanetarchive.ipac.caltech.edu/cgi-bin/ExoTables/nph-exotbls?dataset=cumulative"}{NASA Exoplanet Candidate Database}. This data is updated continuously by the scientific community and managed by NASA, making it a very reliable source. The specific type of data that can be pulled from this source includes publication date, Planetary properties (mass, radius, period, etc), Stellar properties (mass, radius, galactic location, etc), and detection information. A number of planets detected by the transit method up to the current date can be found on figure~\vref{fig:transit2}. To ensure reliability of data: any exoplanet that was examined was first cross referenced on a different, but still well cited, exoplanet database - \href{"http://exoplanets.eu/"}{Exoplanets.eu}. Specifically, planet radii were confirmed to be the same across both databases. Any planet that had a significant variation across the sources was neglected from the study. 
 
+Issues with this data is that the date listed does not necessarily correspond to the date when technology was sufficient enough to detect said planet, but rather when enough research and/or follow-ups were preformed to make a publication regarding its discovery. This means that the capability of discovering does not scale with publication year. This means that predictions as to when technology will be sufficient enough to detect a planet of a certain radius ( $P(R)\propto{}R^{n}$ ) can not be easily extrapolated. 
 \section{Methods}
 
 Reference to Figure~\vref{fig:gallery}. % The \vref command specifies the location of the reference
@@ -242,9 +272,10 @@ Reference the figure composed of multiple subfigures as Figure~\vref{fig:esempio
 
 \renewcommand{\refname}{\spacedlowsmallcaps{References}} % For modifying the bibliography heading
 
-\bibliographystyle{unsrt}
+\bibliographystyle{plain}
+%\bibliographystyle{apa}
 
-\bibliography{sample.bib} % The file containing the bibliography
+\bibliography{DocumentR} % The file containing the bibliography
 
 %----------------------------------------------------------------------------------------
 

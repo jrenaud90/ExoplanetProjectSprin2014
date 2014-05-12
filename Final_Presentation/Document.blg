@@ -1,0 +1,14 @@
+This is BibTeX, Version 0.99dThe top-level auxiliary file: Document.aux
+The style file: plain.bst
+Database file #1: DocumentR.bib
+I was expecting a `,' or a `}'---line 61 of file DocumentR.bib
+ :    
+ :    url=}\url{http://www.nasa.gov/pdf/284769main_FS-Gen_1208_print.pdf}}
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 67 of file DocumentR.bib
+ :    
+ :    url=}\url{http://www.nasa.gov/mission_pages/kepler/launch/index.html}}
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+(There were 2 error messages)
